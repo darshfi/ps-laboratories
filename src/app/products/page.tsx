@@ -43,10 +43,11 @@ function productKey(p: CatalogProduct, index: number): string {
   return count === 1 ? p.id : p.id + '-' + (p.cas_no || 'idx' + index);
 }
 
-/** Get the first letter of a product's name (uppercased) */
+/** Get the first letter of a product's name, or '#' for non-alpha starts */
 function nameFirstLetter(p: CatalogProduct): string {
-  const m = p.name.match(/[A-Za-z]/);
-  return m ? m[0].toUpperCase() : '#';
+  const first = p.name.charAt(0);
+  if (/[A-Za-z]/.test(first)) return first.toUpperCase();
+  return '#';
 }
 
 // All letters present in the catalog
@@ -260,6 +261,21 @@ export default function ProductsPage() {
             </button>
           );
         })}
+        {/* # button for non-alpha-starting products */}
+        {availableLetters.includes('#') && (
+          <button
+            onClick={() => setLetter('#')}
+            className={`px-2.5 py-1 text-xs font-medium rounded border transition-colors ${
+              letter === '#'
+                ? 'bg-[#3D2B7A] text-white border-[#3D2B7A]'
+                : 'border-gray-300 text-gray-700 hover:bg-gray-50'
+            }`}
+            aria-label="Filter products starting with numbers or symbols"
+            aria-pressed={letter === '#'}
+          >
+            #️⃣
+          </button>
+        )}
       </div>
 
       {/* Results info */}
