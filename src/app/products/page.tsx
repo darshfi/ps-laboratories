@@ -40,16 +40,51 @@ const fuse = new Fuse(products, {
 // Build unique key for each product
 function productKey(p: CatalogProduct, index: number): string {
   const count = idCounts.get(p.id) ?? 1;
-  // For products with unique IDs, just use the ID.
-  // For products sharing an ID (dupes with different names), append CAS or index.
   return count === 1 ? p.id : p.id + '-' + (p.cas_no || 'idx' + index);
+}
+
+/** Get the first letter of a product's name (uppercased) */
+function nameFirstLetter(p: CatalogProduct): string {
+  const m = p.name.match(/[A-Za-z]/);
+  return m ? m[0].toUpperCase() : '#';
+}
+
+// All letters present in the catalog
+const availableLetters = Array.from(
+  new Set(products.map(nameFirstLetter)),
+).sort();
+
+type SortKey = 'name-asc' | 'name-desc' | 'weight-asc' | 'weight-desc' | 'cas-asc';
+
+function sortProducts(list: CatalogProduct[], sortBy: SortKey): CatalogProduct[] {
+  const sorted = [...list];
+  switch (sortBy) {
+    case 'name-asc':
+      sorted.sort((a, b) => a.name.localeCompare(b.name));
+      break;
+    case 'name-desc':
+      sorted.sort((a, b) => b.name.localeCompare(a.name));
+      break;
+    case 'weight-asc':
+      sorted.sort((a, b) => (a.molecular_weight ?? 0) - (b.molecular_weight ?? 0));
+      break;
+    case 'weight-desc':
+      sorted.sort((a, b) => (b.molecular_weight ?? 0) - (a.molecular_weight ?? 0));
+      break;
+    case 'cas-asc':
+      sorted.sort((a, b) => a.cas_no.localeCompare(b.cas_no));
+      break;
+  }
+  return sorted;
 }
 
 export default function ProductsPage() {
   const [query, setQuery] = useState('');
   const [page, setPage] = useState(1);
+  const [letter, setLetter] = useState<string>('');
+  const [sortBy, setSortBy] = useState<SortKey>('name-asc');
 
-  // Sync page from URL search params
+  // Sync state from URL search params on mount
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const q = params.get('q');
@@ -59,49 +94,71 @@ export default function ProductsPage() {
       const n = parseInt(p, 10);
       if (n > 0) setPage(n);
     }
+    const l = params.get('letter');
+    if (l && l.length === 1) setLetter(l.toUpperCase());
+    const s = params.get('sort') as SortKey | null;
+    if (s && ['name-asc', 'name-desc', 'weight-asc', 'weight-desc', 'cas-asc'].includes(s)) {
+      setSortBy(s);
+    }
   }, []);
 
-  // Update URL when query/page changes (without full navigation)
+  // Update URL when filters change
   useEffect(() => {
     const params = new URLSearchParams();
     if (query.trim()) params.set('q', query.trim());
     if (page > 1) params.set('page', String(page));
+    if (letter) params.set('letter', letter);
+    if (sortBy !== 'name-asc') params.set('sort', sortBy);
     const qs = params.toString();
-    const newUrl = '/products' + (qs ? '?' + qs : '');
-    window.history.replaceState(null, '', newUrl);
-  }, [query, page]);
+    window.history.replaceState(null, '', '/products' + (qs ? '?' + qs : ''));
+  }, [query, page, letter, sortBy]);
 
-  const results = useMemo(() => {
+  // ── Filter pipeline ──
+
+  // Step 1: search (if query is present)
+  const searched = useMemo(() => {
     if (!query.trim()) return products;
     return fuse.search(query.trim()).map((r) => r.item);
   }, [query]);
 
-  const totalPages = Math.max(1, Math.ceil(results.length / PER_PAGE));
+  // Step 2: letter filter
+  const letterFiltered = useMemo(() => {
+    if (!letter) return searched;
+    return searched.filter((p) => nameFirstLetter(p) === letter);
+  }, [searched, letter]);
+
+  // Step 3: sort
+  const sorted = useMemo(() => sortProducts(letterFiltered, sortBy), [letterFiltered, sortBy]);
+
+  const totalPages = Math.max(1, Math.ceil(sorted.length / PER_PAGE));
 
   // Clamp page to valid range
   const safePage = Math.min(Math.max(1, page), totalPages);
 
   const paginated = useMemo(
-    () => results.slice((safePage - 1) * PER_PAGE, safePage * PER_PAGE),
-    [results, safePage],
+    () => sorted.slice((safePage - 1) * PER_PAGE, safePage * PER_PAGE),
+    [sorted, safePage],
   );
 
-  const goToPage = useCallback((p: number) => {
-    const clamped = Math.max(1, Math.min(p, totalPages));
-    setPage(clamped);
-  }, [totalPages]);
+  const goToPage = useCallback(
+    (p: number) => {
+      setPage(Math.max(1, Math.min(p, totalPages)));
+    },
+    [totalPages],
+  );
 
-  // Reset to page 1 when search query changes
+  // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1);
-  }, [query]);
+  }, [query, letter, sortBy]);
 
   // Keep page in valid range if results shrink
   useEffect(() => {
-    if (page > totalPages) {
-      setPage(totalPages);
-    }
+    if (page > totalPages) setPage(totalPages);
   }, [totalPages, page]);
+
+  // Alphabet A–Z including all present letters
+  const allLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
@@ -116,9 +173,9 @@ export default function ProductsPage() {
         </p>
       </div>
 
-      {/* Search */}
-      <div className="mb-6">
-        <div className="relative max-w-xl">
+      {/* Search & Sort row */}
+      <div className="flex flex-col sm:flex-row gap-3 mb-4">
+        <div className="relative flex-1 max-w-xl">
           <label htmlFor="product-search" className="sr-only">
             Search products by name, CAS number, or code
           </label>
@@ -140,19 +197,78 @@ export default function ProductsPage() {
             id="product-search"
             type="search"
             value={query}
-            onChange={(e) => {
-              setQuery(e.target.value);
-            }}
+            onChange={(e) => setQuery(e.target.value)}
             placeholder="Search by name, CAS number, or product code..."
             className="w-full pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#3D2B7A]/30 focus:border-[#3D2B7A] transition-colors"
           />
         </div>
-        <p className="text-xs text-gray-400 mt-1.5">
-          {query.trim()
-            ? `${results.length} product${results.length === 1 ? '' : 's'} found`
-            : `Page ${safePage} of ${totalPages} (${results.length.toLocaleString()} products)`}
-        </p>
+
+        <div className="flex items-center gap-2 shrink-0">
+          <label htmlFor="sort-select" className="text-xs text-gray-500 font-medium">
+            Sort:
+          </label>
+          <select
+            id="sort-select"
+            value={sortBy}
+            onChange={(e) => setSortBy(e.target.value as SortKey)}
+            className="px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-[#3D2B7A]/30 focus:border-[#3D2B7A] transition-colors bg-white"
+          >
+            <option value="name-asc">Name A–Z</option>
+            <option value="name-desc">Name Z–A</option>
+            <option value="weight-asc">Mol. Weight ↑</option>
+            <option value="weight-desc">Mol. Weight ↓</option>
+            <option value="cas-asc">CAS Number</option>
+          </select>
+        </div>
       </div>
+
+      {/* Alphabetical A–Z filter strip */}
+      <div
+        className="flex flex-wrap gap-1 mb-6"
+        role="group"
+        aria-label="Filter by first letter"
+      >
+        <button
+          onClick={() => setLetter('')}
+          className={`px-2.5 py-1 text-xs font-medium rounded border transition-colors ${
+            !letter
+              ? 'bg-[#3D2B7A] text-white border-[#3D2B7A]'
+              : 'border-gray-300 text-gray-600 hover:bg-gray-50'
+          }`}
+          aria-label="Show all products"
+        >
+          All
+        </button>
+        {allLetters.map((ch) => {
+          const hasLetter = availableLetters.includes(ch);
+          return (
+            <button
+              key={ch}
+              onClick={() => setLetter(ch)}
+              disabled={!hasLetter}
+              className={`px-2.5 py-1 text-xs font-medium rounded border transition-colors ${
+                letter === ch
+                  ? 'bg-[#3D2B7A] text-white border-[#3D2B7A]'
+                  : hasLetter
+                    ? 'border-gray-300 text-gray-700 hover:bg-gray-50'
+                    : 'border-gray-100 text-gray-300 cursor-not-allowed'
+              }`}
+              aria-label={`Filter by names starting with ${ch}`}
+              aria-pressed={letter === ch}
+            >
+              {ch}
+            </button>
+          );
+        })}
+      </div>
+
+      {/* Results info */}
+      <p className="text-xs text-gray-400 mb-4">
+        {query.trim()
+          ? `${sorted.length} product${sorted.length === 1 ? '' : 's'} found`
+          : `${sorted.length.toLocaleString()} product${sorted.length === 1 ? '' : 's'}${letter ? ` starting with "${letter}"` : ''}`}
+        {totalPages > 1 && ` · Page ${safePage} of ${totalPages}`}
+      </p>
 
       {/* Product grid */}
       {paginated.length === 0 ? (
@@ -172,10 +288,10 @@ export default function ProductsPage() {
             />
           </svg>
           <p className="text-gray-500 font-medium">
-            No products found for &ldquo;{query}&rdquo;
+            No products found{query.trim() ? ` for "${query}"` : ''}
           </p>
           <p className="text-gray-400 text-sm mt-1">
-            Try a different search term or browse the full catalog.
+            Try a different search term, clear the letter filter, or browse the full catalog.
           </p>
         </div>
       ) : (
@@ -240,10 +356,7 @@ export default function ProductsPage() {
 function ProductRow({ product }: { product: CatalogProduct }) {
   return (
     <div className="flex flex-col bg-white border border-gray-200 rounded-lg p-4 hover:shadow-sm transition-shadow">
-      <Link
-        href={`/products/${product.id}`}
-        className="group flex-1 min-w-0"
-      >
+      <Link href={`/products/${product.id}`} className="group flex-1 min-w-0">
         <h3 className="font-medium text-sm text-gray-900 group-hover:text-[#D6006D] truncate transition-colors">
           {product.name}
         </h3>
@@ -256,6 +369,12 @@ function ProductRow({ product }: { product: CatalogProduct }) {
         {product.synonyms_iupac && (
           <p className="text-xs text-gray-400 mt-1.5 line-clamp-2">
             {product.synonyms_iupac}
+          </p>
+        )}
+        {product.molecular_formula && (
+          <p className="text-xs text-gray-400 mt-1 font-mono">
+            {product.molecular_formula}
+            {product.molecular_weight ? ` · ${product.molecular_weight} g/mol` : ''}
           </p>
         )}
       </Link>

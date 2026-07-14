@@ -1139,9 +1139,9 @@
   },
   {
     "id": "BRX406",
-    "name": "Page 11",
+    "name": "Brexpiprazole Impurity 31",
     "cas_no": "2138169-93-2",
-    "synonyms_iupac": "BrexpiprazoleImpurity31 2,7-bis(4-(4-(benzo[b]thiophen-4-yl)piperazin-1-yl)butoxy)quinoline",
+    "synonyms_iupac": "2,7-bis(4-(4-(benzo[b]thiophen-4-yl)piperazin-1-yl)butoxy)quinoline",
     "molecular_formula": "C41H47N5O2S2",
     "molecular_weight": 706
   },
@@ -3199,9 +3199,9 @@
   },
   {
     "id": "FBX409",
-    "name": "Page 29",
+    "name": "3-Descyano-3-ethoxycarbonyl Febuxostat",
     "cas_no": "2476465-11-7",
-    "synonyms_iupac": "3-Descyano-3-ethoxycarbonylFebuxostat Felbamate FLB100 Felbamate 25451-15-4",
+    "synonyms_iupac": "3-Descyano-3-ethoxycarbonyl Febuxostat",
     "molecular_formula": "C18H21NO5S",
     "molecular_weight": 363.4
   },
@@ -7695,7 +7695,7 @@
   },
   {
     "id": "RSV211",
-    "name": "yl]ethenyl]-2-pyrimidinyl]-N-methyl-methanesulfonamide",
+    "name": "Rosuvastatin EP Impurity K",
     "cas_no": "1422954-12-8",
     "synonyms_iupac": "ROSUVASTATINIMPURITY-K",
     "molecular_formula": "C22H26FN3O5S",
@@ -7703,9 +7703,9 @@
   },
   {
     "id": "REV213",
-    "name": "Page 65",
+    "name": "Rosuvastatin Impurity M",
     "cas_no": "847849-66-5",
-    "synonyms_iupac": "ROSUVASTATINIMPURITY-M",
+    "synonyms_iupac": "Rosuvastatin Impurity M",
     "molecular_formula": "C22H29N3O6S",
     "molecular_weight": 463.5
   },
