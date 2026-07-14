@@ -5,7 +5,10 @@ import companyInfo from '@/data/company-info.json';
 import type { CompanyInfo } from '@/types';
 
 const company = companyInfo as CompanyInfo;
-const API_URL = '/api/enquiry';
+
+// Web3Forms access key — Next.js inlines NEXT_PUBLIC_ vars at build time
+const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || '';
+const WEB3FORMS_URL = 'https://api.web3forms.com/submit';
 
 export default function RequestQuotePage() {
   const [form, setForm] = useState({
@@ -44,25 +47,26 @@ export default function RequestQuotePage() {
         .filter(Boolean)
         .join('\n');
 
-      const res = await fetch(API_URL, {
+      const res = await fetch(WEB3FORMS_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          name: form.name,
-          company: form.company,
-          email: form.email,
-          phone: form.phone,
-          honeypot,
+          access_key: WEB3FORMS_KEY,
           subject: `Custom Quote Request from ${form.name} (${form.company || 'N/A'})`,
-          products: details,
-          productCount: 0,
+          from_name: 'PS Laboratories Website',
+          name: form.name,
+          email: form.email,
+          company: form.company,
+          phone: form.phone,
           message: `Custom synthesis / quote request.\n\n${details}`,
+          to_email: 'darshimp6911@gmail.com',
+          bot_submit: 'false',
         }),
       });
 
-      if (!res.ok) {
-        const data = await res.json().catch(() => ({}));
-        throw new Error(data.error || 'Failed to submit request');
+      const result = await res.json();
+      if (!result.success) {
+        throw new Error(result.message || 'Failed to submit request');
       }
 
       setSubmitted(true);

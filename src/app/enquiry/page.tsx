@@ -8,8 +8,9 @@ import type { CompanyInfo } from '@/types';
 
 const company = companyInfo as CompanyInfo;
 
-// In production this would come from env but we proxy through our API
-const API_URL = '/api/enquiry';
+// Web3Forms access key — Next.js inlines NEXT_PUBLIC_ vars at build time
+const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || '';
+const WEB3FORMS_URL = 'https://api.web3forms.com/submit';
 
 export default function EnquiryPage() {
   const { items, removeItem, updateQuantity, clearAll, itemCount } =
@@ -64,21 +65,26 @@ export default function EnquiryPage() {
         )
         .join('\n');
 
-      const res = await fetch(API_URL, {
+      const res = await fetch(WEB3FORMS_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          ...form,
-          honeypot,
+          access_key: WEB3FORMS_KEY,
           subject: `Product Enquiry from ${form.name} (${form.company || 'N/A'})`,
-          products: productList,
-          productCount: items.length,
+          from_name: 'PS Laboratories Website',
+          name: form.name,
+          email: form.email,
+          company: form.company,
+          phone: form.phone,
+          message: `Products:\n${productList}\n\nMessage: ${form.message || 'N/A'}`,
+          to_email: 'darshimp6911@gmail.com',
+          bot_submit: 'false',
         }),
       });
 
-      if (!res.ok) {
-        const data = await res.json().catch(() => ({}));
-        throw new Error(data.error || 'Failed to submit enquiry');
+      const result = await res.json();
+      if (!result.success) {
+        throw new Error(result.message || 'Failed to submit enquiry');
       }
 
       setSubmitted(true);

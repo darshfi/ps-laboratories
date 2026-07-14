@@ -6,7 +6,9 @@ import type { CompanyInfo } from '@/types';
 
 const company = companyInfo as CompanyInfo;
 
-const API_URL = '/api/enquiry';
+// Web3Forms access key — Next.js inlines NEXT_PUBLIC_ vars at build time
+const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || '';
+const WEB3FORMS_URL = 'https://api.web3forms.com/submit';
 
 export default function ContactPage() {
   const [form, setForm] = useState({
@@ -32,25 +34,24 @@ export default function ContactPage() {
 
     setSubmitting(true);
     try {
-      const res = await fetch(API_URL, {
+      const res = await fetch(WEB3FORMS_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
+          access_key: WEB3FORMS_KEY,
+          subject: `Contact Form: ${form.subject || 'General Enquiry'} from ${form.name}`,
+          from_name: 'PS Laboratories Website',
           name: form.name,
           email: form.email,
-          company: '',
-          phone: '',
-          honeypot,
-          subject: `Contact Form: ${form.subject || 'General Enquiry'} from ${form.name}`,
-          products: '',
-          productCount: 0,
           message: form.message,
+          to_email: 'darshimp6911@gmail.com',
+          bot_submit: 'false',
         }),
       });
 
-      if (!res.ok) {
-        const data = await res.json().catch(() => ({}));
-        throw new Error(data.error || 'Failed to send message');
+      const result = await res.json();
+      if (!result.success) {
+        throw new Error(result.message || 'Failed to send message');
       }
 
       setSubmitted(true);
