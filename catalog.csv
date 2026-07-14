@@ -1,0 +1,1141 @@
+id,name,cas_no,synonyms_iupac
+ACY100,Acyclovir,59277-89-3,"2-Amino-1,9-dihydro-9-((2-hydroxyethoxy)methyl)-3H-purin-6-one Adenosine"
+ADN100,Adenosine,58-61-7,9-β-D-Ribofuranosyl-9H-purin-6-amine Albendazole
+ALB100,Albendazole,54965-21-8,Methyl5-propylthio-2-benzimidazolecarbamate
+ALB201,AlbendazoleEPImpurityA,80983-36-4,5-(Propylthio)-1H-benzimidazol-2-amine
+ALB202,AlbendazoleEPImpurityB,54029-12-8,Methyl[5-(propylsulphinyl)-1Hbenzimidazol-2-yl]carbamate
+ALB203,AlbendazoleEPImpurityC,75184-71-3,AlbendazoleSulfone;Methyl[5-(propylsulphonyl) -1Hbenzimidazol-2-yl]carbamate
+ALB204,AlbendazoleEPImpurityD,80983-34-2,
+ALB205,DesmethoxycarbonylAlbendazoleSulfone,10605-21-7,AlbendazoleEPImpurityE Alfuzosin
+ALF100,Alfuzosin HCl,81403-68-1,"(RS)-N-[3-[(4-Amino-6,7-dimethoxyquinazolin-2-yl)(methyl)amino]propyl]tetrahydrofuran-2- carboxamidehydrochloride"
+ALF201,AlfuzosinEPImpurityA,98902-29-5,AlfuzosinUSP RelatedCompoundA;AlfuzosinTetradehydroImpurity
+ALF202,AlfuzosinEPImpurityB,23680-84-4,"2-chloro-6,7-dimethoxyquinazolin-4-amine ; 4-Amino-2-chloro-6,7-dimethoxyquinazoline ; 2-Chloro-6,7- dimethoxy-4-quinazolinamine"
+ALF203,AlfuzosinEPImpurityC,72104-34-8,"(RS)-N-[3-[(4-Amino-6,7-dimethoxyquinazolin-2-yl)amino]propyl]-N-methyltetrahydrofuran-2- carboxamidehydrochloride"
+ALF204,AlfuzosinEPImpurityD,81403-69-2,AlfuzosinAminopropylImpurity;AlfuzosinUSP RelatedCompoundD Page1
+ALF205,AlfuzosinEPImpurityE,1026411-59-5,"N-[3-[(4-Amino-6,7-dimethoxyquinazolin-2-yl)(methyl)amino]propyl]formamidehydrochloride"
+ALF206,AlfuzosinEPImpurityF,19216-53-6,"6,7-dimethoxy-N2,N2-dimethylquinazoline-2,4-diamine ; 4-Amino-2-(dimethylamino)-6,7-dimethoxy- quinazoline Allopurinol"
+ALP100,Allopurinol,315-30-0,"1,5-Dihydro-4H-pyrazolo[3,4-d]pyrimidin-4-one"
+ALP201,AllopurinolEPImpurityA,27511-79-1,AllopurinolUSP RCA;5-amino-1H-pyrazole-4-carboxamide
+ALP202,AllopurinolEPImpurityB,22407-20-1,Allopurinol USP RCB; 5-(formylamino)-1H-pyrazole-4 -carboxamide
+ALP203,AllopurinolEPImpurityC,1346604-13-4,"AllopurinolUSPRCC; 5-(4H-1,2,4-triazol-4-yl)-1H-pyrazole-4-carboxamide"
+ALP204,AllopurinolEPImpurityD,6994-25-8,"Allopurinol USP RC D;ethyl 5-amino-1H-pyrazole-4-carboxylate AllopurinolEPImpurityE 31055-19-3 ALP205 AllopurinolUSPRCE ; ethyl5-(formylamino)-1H-pyrazole-4-carboxylate Alprazolam Alprazolam ALR100 28981-97-7 8-Chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"
+ALR401,AlprazolamImpurity1,719-59-5,"PrazepamImp.C(EP),ClorazepateImp.A(EP),,2-Amino-5-chlorobenzophenone Althiazide"
+ALT100,Althiazide,5588-16-9,"(3R)-3-[(Allylsulfanyl)methyl]-6-chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide1,1-dioxide"
+ALT401,AlthiazideImpurity1,1824-47-1,"6-Chloro-3-(chloromethyl)-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide1,1-Dioxide Amiodarone"
+AMD100,Amiodarone,19774-82-4,"(2-Butyl-3-benzofuranyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanoneHydrochloride"
+AMD401,AmiodaroneImpurity1,4265-27-4,2-Butyl Benzofuran
+AMD402,AmiodaroneImpurity2,NA,(2-butyl-1-benzofuran-3-yl)(2-methoxyphenyl)methanone Page2
+AMD403,AmiodaroneImpurity3,NA,(2-butyl-1-benzofuran-3-yl)(3-methoxyphenyl)methanone
+AMT100,AmitriptylineHydrochloride,549-18-8,"3-(10,11-Dihydro-5H-dibenzo[a,d]cycloheptene-5-ylidene)-N,N-dimethylpropan-1-amineHydrochloride"
+AMT201,AmitriptylineEPImpurityA,1210-35-1,"Amitriptyline USPRelated Compound A; 10,11-Dihydro-5H-dibenzo[a,d][7]annulen-5-one"
+AMT202,AmitriptylineEPImpurityB,6202-23-9,"Cyclobenzaprine HCl (USP) ; 3-(5H-Dibenzo[a,d][7]annulen-5-ylidene)-N,N-dimethylpropan-1- aminehydrochloride Amlodipine"
+AML100,Amlodipine,88150-47-4,"3-ethyl5-Methyl2-((2-aMinoethoxy)Methyl)-4-(2-chlorophenyl) -6-Methyl-1,4-dihydropyridine-3,5-dicarboxylate"
+AML201,AmlodipineEPimpurityA,88150-62-3,"AmlodipineUSPRCD,PhthaloylAmlodipine"
+AML202,AmlodipineEPimpurityB,721958-72-1,MethylaminophthaloylAmlodipine; N-[2-[(Methylamino)carbonyl]benzoyl] Amlodipine
+AML204,AmlodipineEPImpurityD,113994-41-5,"3-ethyl 5-methyl 2-((2-aminoethoxy)methyl)-4-(2-chlorophenyl)-6-methylpyridine-3,5- dicarboxylatebenzenesulfonate AmlodipineEPImpurityE"
+AML205,AmlodipineDiethylEster;,140171-65-9,"2-[(2-Aminoethoxy)methyl]-4-(2-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylic Acid 3,5- DiethylEster AmlodipineEPImpurityF"
+AML206,AmlodipineDimethylEster;,140171-66-0,"2-[(2-Aminoethoxy)methyl]-4-(2-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylic Acid 3,5- dimethylEster"
+AML207,AmlodipineEPimpurityG,43067-01-2,"Dimethyl4-(2-Chlorophenyl)-2,6-dimethyl- 1,4-dihydropyridine-3,5-dicarboxylate"
+AML208,AmlodipineEPImpurityH,318465-73-5,2-CarboxybenzoylAmlodipine
+AML301,AmlodipineUSPRCA,2138811-33-1,"(3-Ethyl 5-methyl [2-(2-aminoethoxymethyl)-4-(2-chlorophenyl)-6-methyl-3,5- pyridinedicarboxylatefumarate)"
+AML401,Deschloro Amlodipine,88150-52-1,"2-[(2-Aminoethoxy)methyl]-1,4-dihydro-6-methyl-4-phenyl-3,5-pyridinedicarboxylic Acid 3-Ethyl 5- MethylEster"
+AML402,HydroxyethylPhthalylAmlodipine,NA,"3-ethyl 5-methyl 4-(2-chlorophenyl)-2-((2-(2-((2-hydroxyethyl)carbamoyl)benzamido)ethoxy)methyl)-6- methyl-1,4-dihydropyridine-3,5-dicarboxylate Page3 Amoxicillin"
+AMX100,Amoxicillin Trihydrate,61336-70-7,"(2S,5R,6R)-6-[[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl -7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acidtrihydrate"
+AMX201,AmoxicillinEPImpurityA,551-16-6,"AmoxicillinRelatedCompoundA;6-APA;(+)-6-Aminopenicillanicacid; (2S,5R,6R)-6-Amino-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylicacid"
+AMX100,Amoxicillin Trihydrate,61336-70-7,"(2S,5R,6R)-6-[[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino]-3,3-dimethyl -7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acidtrihydrate"
+AMX201,AmoxicillinEPImpurityA,551-16-6,"AmoxicillinRelatedCompoundA;6-APA;(+)-6-Aminopenicillanicacid; (2S,5R,6R)-6-Amino-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylicacid Apixaban Apixaban APX100 1-(4-methoxyphenyl)-7-oxo-6-[4-(2-oxopiperidin-1-yl)phenyl]-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine- 503612-47-3 3-carboxamide"
+APX401,Apixabanethylesterimpuity/ApixabanImpurity1,503614-91-3,"Ethyl1-(4-Methoxyphenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4- c]pyridine-3-carboxylate"
+APX402,Apixabanacidimpuity/ApixabanImpurity2,503614-92-4,"4,5,6,7-Tetrahydro-1-(4-methoxyphenyl)-7-oxo-6-[4-(2-oxo-1-piperidinyl)phenyl]-1H-pyrazolo[3,4-c]pyridine- 3-carboxylicacid"
+APX403,Apixabanmethylesterimpuity/ApixabanImpurity3,1074365-84-6,"4,5,6,7-Tetrahydro-1-(4-hydroxyphenyl)-7-oxo-6-[4-(2-oxo-1-piperidinyl)phenyl]-1H-pyrazolo[3,4-c]pyridine- 3-carboxamide"
+APX404,O-DesmethylApixaban/ApixabanImpurity4,503612-76-8,"4,5,6,7-Tetrahydro-1-(4-hydroxyphenyl)-7-oxo-6-[4-(2-oxo-1-piperidinyl)phenyl]-1H-pyrazolo[3,4-c]pyridine- 3-carboxamide"
+APX405,Apixabanchloroimpurity/ApixabanImpurity5,2029205-64-7,"1-(4-chlorophenyl)-7-oxo-6-[4-(2-oxopiperidin-1-yl)phenyl]-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3- carboxylic Acid Amide"
+APX406,ApixabanAminoAcidImpurity/ApixabanImpurity6,2187409-01-2,"6-(4-((5-amino-5-oxopentyl)amino)phenyl)-1-(4-methoxyphenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4- c]pyridine-3-carboxamide Page4"
+APX407,Apixabanmorpholinelactumimpurity/ApixabanImpurity7,545445-44-1,"3-Morpholino-1-(4-(2-oxopiperidin-1-yl)phenyl)-5,6-dihydropyridin-2(1H)-one"
+APX408,ApixabanImpurity8,405872-78-8,ethyl(Z)-2-chloro-2-(2-(3-methoxyphenyl)hydrazono)acetate
+APX409,ApixabanImpurity9,536759-91-8,"ethyl1-(4-methoxyphenyl)-6-(4-nitrophenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3- carboxylate"
+APX410,ApixabanImpurity10,503615-07-4,"ethyl6-(4-aminophenyl)-1-(4-methoxyphenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3- carboxylate"
+APX411,ApixabanImpurity11,NA,3-morpholino-1-(4-(2-oxopiperidin-1-yl)phenyl)pyridin-2(1H)-one
+APX412,"4,5-DehydroApixaban/ApixabanImpurity12",1074549-89-5,"1-(4-Methoxyphenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-6,7-dihydro-1H-pyrazolo[3,4-c]pyridine-3- carboxamide ApixabanImpurity13"
+APX413,"6-(4-aminophenyl)-1-(4-methoxyphenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-",1423803-24-0,"carboxamide;6-(4-aminophenyl)-1-(4-methoxyphenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3- carboxamide ApixabanImpurity14"
+APX414,"7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-1-phenyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-",1801881-17-3,"carboxamide;7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-1-phenyl-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine- 3-carboxamide ApixabanImpurity15"
+APX415,"1-(4-ethoxyphenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4-c]pyridine-3-",1928718-22-2,"carboxamide;1-(4-ethoxyphenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4- c]pyridine-3-carboxamide"
+APX416,ApixabanIVChloro Impurity,2029205-62-5,"Ethyl1-(4-chlorophenyl)-7-oxo-6-(4-(2-oxopiperidin-1-yl)phenyl)-4,5,6,7-tetrahydro-1H-pyrazolo[3,4- c]pyridine-3-carboxylate"
+APX417,ApixabanImpurity3(BMS-778960),2098457-92-0,"1-(4-Methoxyphenyl)-6-(4-(2-methyl-6-oxopiperidin-1-yl)phenyl)-7-oxo-4,5,6,7-tetrahydro-1H-pyrazolo[3,4- c]pyridine-3-carboxamide( Apixaban Impurity A)"
+APX418,ApixabanOpenChainAcid,2206825-87-6,"5-[[4-[3-(Aminocarbonyl)-1,4,5,7-tetrahydro-1-(4-methoxyphenyl)-7-oxo-6H-pyrazolo[3,4-c]pyridin-6- yl]phenyl]amino]pentanoicAcid"
+APR100,Apremilast,608141-41-9,"(S)-N-(2-(1-(3-ethoxy-4-methoxyphenyl) -2-(methylsulfonyl)ethyl)-1,3-dioxoisoindolin-4-yl)acetamide Page5 Apremilast"
+APR401,ApremilastImpurity1,608141-42-0,
+ARG100,(1S)-1-(3-Ethoxy-4-methoxy-phenyl)-2-methanesulfonyl-ethylamine,74-79-3,L-(+)-Arginine
+ARG401,ARG100 74-79-3 L-(+)-Arginine,2645-08-1,BENZOYLARGININEETHYL ESTER Aripiprazole
+ARP100,Aripiprazole,129722-12-9,"7-(4-(4-(2,3-dichlorophenyl)piperazin-1-yl)butoxy)-3,4-dihydroquinolin-2(1H)-one"
+ARP201,AripiprazoleEPImpurityA,22246-18-0,"3,4-Dihydro-7-hydroxyquinoline-2(1H)-one"
+ARP202,AripiprazoleEPImpurityB,119532-26-2,"1-(2,3-dichlorophenyl)piperazine;4-(2,3-Dichlorophenyl)-1-piperazinebutanolHydrochloride"
+ARP205,AripiprazoleEPImpurityE,129722-25-4,"Aripiprazole related compound G ; Dehydro Aripiprazole Impurity, 7-(4-(4-(2,3-dichlorophenyl)piperazin-1- yl)butoxy)quinolin-2(1H)-one,"
+ARP206,AripiprazoleEPImpurityF,573691-09-5,AripiprazoleRelatedCompoundF
+ARP302,AripiprazoleRelatedCompoundB,889443-20-3,"3,4-Dihydro-7-(4-hydroxybutoxy)-2(1H)-quinolinone"
+ARP401,AripiprazoleImpurity1,120004-79-7,"7-(4-Chlorobutoxy)-3,4-dihydro-2(1H)-quinolinone;7-(4-Chlorobutoxy)-3,4-dihydro-C2(1H)-quinoline"
+ARP402,AripiprazoleImpurity,129722-34-5,"27-(4-Bromobutoxy)-3,4-dihydroquinolin-2-one"
+ARP403,AripiprazoleImpurity3,70500-72-0,"7-Hydroxyquinoline-(1H)-2-one,7-Hydroxy-2(1H)-quinolinone"
+ARP404,AripiprazoleImpurity4,63386-61-8,"Piperazine,1-(2,6-dichlorophenyl)-;1-(2,6-Dichlorophenyl)piperazine"
+ARP405,AripiprazoleImpurity5,NA,"N1-(2-chloroethyl)-N2-(2,3-dichlorophenyl)ethane-1,2-diaminehydrochloride"
+ARP406,AripiprazoleImpurity6,952308-47-3,"7-(4-iodobutoxy)-3,4-dihydroquinolin-2(1H)-one Aspartame Page6"
+ASP100,Aspartame,22839-47-0,(S)-3-Amino-4-(((S)-1-methoxy-1-oxo-3-phenylpropan-2-yl)amino)-4-oxobutanoicacid
+ASP202,AspartameEPImpurityB,13433-09-5,(S)-3-Amino-4-(((S)-1-carboxy-2-phenylethyl)amino)-4-oxobutanoicacid
+ASP203,AspartameEPImpurityC,150-30-1,Phenylalanine
+ASP401,AspartameImpurity1,123-30-8,ParacetamolEPImpurityK/MesalazineEPImpurityA Atenolol
+ATN100,Atenolol,29122-68-7,2-[4-[(2RS)-2-hydroxy-3-[(1- methylethyl)amino]propoxy]phenyl]acetamide
+ATN201,AtenololEPImpurityA,17194-82-0,"2-(4-Hydroxyphenyl)acetamide,AtenololRelatedCompoundA"
+ATN202,AtenololEPImpurityB,61698-76-8,"AtenololRelatedCompoundB,2-[4-[(2RS)-2,3-dihydroxypropoxy]phenyl]acetamide"
+ATN203,AtenololEPImpurityC,29122-69-8,2-[4-[[(2RS)-oxiran-2-yl]methoxy]phenyl]acetamide
+ATN204,AtenololEPImpurityD,115538-83-5,2-[4-[(2RS)-3-chloro-2-hydroxypropoxy]phenyl]acetamide
+ATN205,AtenololEPImpurityE,141650-31-9,"AtenololRelatedCompoundE,2,2'-[2-Hydroxypropan-1,3-diylbis(oxy-4,1-phenylene)]diacetamide"
+ATN206,AtenololEPImpurityF,87619-83-8,"Atenolol Related Compound F, 2,2'-[(1-Methylethyl)iminobis(2-hydroxypropan-3,1-diyloxy-4,1-"
+ATN207,phenylene)]diacetamide,56392-14-4,AtenololEPImpurityG
+ATN209,AtenololEPImpurityI,1797116-92-7,2-(4-(3-(Ethylamino)-2-hydroxypropoxy)phenyl)acetamide
+ATN210,AtenololEPImpurityJ,81346-71-6,2-(4-(3-amino-2-hydroxypropoxy)phenyl)acetamide
+ATM100,AtomoxetineHydrochloride,82248-59-7,AtomoxetineHydrochloride (R)-N-Methyl-(2-methylphenoxy)benzenepropanamineHydrochloride
+ATM201,AtomoxetineEPImpurityA,873310-33-9,N-methyl-3-phenoxy-3-phenylpropan-1-aminehydrochloride Page7 1643684-06-3/ AtomoxetineEPImpurityC ATM203 1010818-96-8 AtomoxetineUSP RCC ;p-MethylAtomoxetineHCl 1643684-05-2/ AtomoxetineEPImpurityD ATM204 1643684-02-9 AtomoxetineUSP RCB;m-MethylAtomoxetineHCl
+ATM205,AtomoxetineEPImpurityE,17199-29-0,
+ATM208,L-MandelicAcid;(S)-(+)-MandelicAcid;(2S)-2-Hydroxy-2-phenylaceticacid,42142-52-9,AtomoxetineEPImpurityH Atomoxetine USPRC A;3-(Methylamino)-1-phenylpropan-1-ol AtomoxetineImpurity1 ATM401 (R)-1-Methyl-1-(3-phenyl-3-(o-tolyloxy)propyl)urea Atorvastatincalciumsalt Atorvastatincalciumsalt
+ATR100,"Calcium(3R,5R)-7-[2-(4-fluorophenyl)-5",134523-03-8,"-(1-methylethyl)-3-phenyl-4-(phenylcarbamoyl)-1H-pyrrol-1-yl] -3,5-dihydroxyheptanoate"
+ATR206,AtorvastatinEPImpurityF,887196-24-9,"(3R,5R)-7-[[(3R,5R)-7-[2-(4-fluorophenyl)-5-(1-methylethyl) -3-phenyl-4-(phenylcarbamoyl)-1H-pyrrol-1-yl]-3,5-dihydroxyheptanoyl]amino]-3,5-dihydroxyheptanoicacid AtorvastatinEPImpurityN/AtorvastatinAcidt-Butyl Ester"
+ATR214,"(3R,5R)-7-[3-(Phenylcarbamoyl)-5-(4-fluorophenyl)",134395-00-9,"-2-isopropyl-4-phenyl-1H-pyrrol-1-yl]-3,5-dihydroxyheptanoic acidt-butylester AtorvastatinImpurity2/AtorvastatinAcidMethylEster"
+ATR401,"(3R,5R)-7-[3-(Phenylcarbamoyl)-5-(4-fluorophenyl)",345891-62-5,"-2-isopropyl-4-phenyl-1H-pyrrol-1-yl]-3,5 -dihydroxyheptanoicacidmethylester AtropineSulfate"
+ATP100,AtropineSulfate,5908-99-6,AtropineSulfateMonohydrate
+ATP201,AtropineEPImpurityA,500-55-0,"Apoatropine, 8-methyl-8-azabicyclo[3.2.1]octan-3-yl2-phenylacrylate"
+ATP202,AtropineEPImpurityB,16839-98-8,"(1R,3r,5S)-8-azabicyclo[3.2.1]octan-3-yl3-hydroxy-2-phenylpropanoate"
+ATP203,AtropineEPImpurityC,552-63-6,"Tropicacid,2-Phenylhydracrylicacid,3-Hydroxy-2-phenylpropionicacid Page8"
+ATP401,AtropineImpurity1,14510-36-2,"3-acetoxy-2-phenylpropanoicacid AtropineImpurity2 ATP402 (1R,3r,5S)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl3-acetoxy-2-phenylpropanoate"
+ATP403,AtropineImpurity3,120-29-6,"Tropine,(1R,3r,5S)-8-Methyl-8-azabicyclo[3.2.1]octan-3-ol Azilsartan 863031-24-7 Azilsartanmedoxomilpotassium AZL100 863031-21-4 Azilsartanmedoxomilpotassium"
+AZL101,Azilsartan,147403-03-0,"1-[[2’-(2,5-Dihydro-5-oxo-1,2,4-oxadiazol-3-yl) [1,1’-biphenyl]-4-yl]methyl]-2-ethoxy-1H-benzimidazole-7-carboxylicAcid"
+AZL401,AzilsartanImpurityA/AzilsartanImpurity1,147404-76-0,"methyl1-((2'-carbamoyl-[1,1'-biphenyl]-4-yl)methyl) -2-ethoxy-1H-benzo[d]imidazole-7-carboxylate"
+AZL402,AzilsartanImpurityB/AzilsartanImpurity2,1696392-11-6,"1-((2'-carbamoyl-[1,1'-biphenyl]-4-yl)methyl) -2-ethoxy-1H-benzo[d]imidazole-7-carboxylicacid"
+AZL403,AzilsartanImpurityC/AzilsartanImpurity3,397836-49-5,"2-ethoxy-1-((2'-(N'-hydroxycarbamimidoyl) -[1,1'-biphenyl]-4-yl)methyl)-1H-benzo[d]imidazole-7-carboxylic acid"
+AZL404,AzilsartanImpurityD/AzilsartanImpurity4,1821386-21-3,"3-((2'-(N'-hydroxycarbamimidoyl)-[1,1'-biphenyl]-4-yl) methyl)-2-oxo-2,3-dihydro-1H-benzo[d]imidazole-4-carboxylicacid"
+AZL413,AzilsartanImpurityM/AzilsartanImpurity13,632322-61-3,"1-((2'-cyano-[1,1'-biphenyl]-4-yl)methyl) -2-ethoxy-1H-benzo[d]imidazole-7-carboxylicacid"
+AZL414,AzilsartanEthylImpurity/AzilsartanImpurity14,1403474-70-3,"ethyl2-ethoxy-1-((2'-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)-[1,1'-biphenyl]-4-yl)methyl)-1H- benzo[d]imidazole-7-carboxylate"
+AZL415,AzilsartanEthylRing-openingImpurity/AzilsartanImpurity15,1403474-75-8,"ethyl(Z)-2-ethoxy-1-((2'-(N'-((ethoxycarbonyl)oxy)carbamimidoyl) -[1,1'-biphenyl]-4-yl)methyl)-1H-benzo[d]imidazole-7-carboxylate"
+AZL416,AzilsartanImpurity16,139481-44-0,"methyl1-((2'-cyano-[1,1'-biphenyl]-4-yl)methyl) -2-ethoxy-1H-benzo[d]imidazole-7-carboxylate"
+AZL417,AzilsartanImpurity17,147403-52-9,"Azilsartan Methyl Ester ; methyl 2-ethoxy-1-((2'-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)-[1,1'-biphenyl]-4- yl)methyl)-1H-benzo[d]imidazole-7-carboxylate Page9"
+AZT100,Azithromycin,117772-70-0,AzithromycinDihydrate
+AZT201,"AzithromycinEPImpurityA,AZAERYTHROMYCINA",76801-85-9,9-Deoxo-9a-aza-9a-homoerythromycinA;6-Demethylazithromycin
+AZT206,AzithromycinEPImpurityF,612069-28-0,"Azithromycin USPRelated Compound F,3′-N-Demethyl-3′-N-formylazithromycin"
+AZT209,AzithromycinEPImpurityI,172617-84-4,N'-Desmethyl Azithromycin;N-Demethylazithromycin
+AZT210,AzithromycinEPImpurityJ,117693-41-1,"Desosaminylazithromycin(USP);DescladinoseAzithromycin AzithromycinEPImpurityL AZT212 AzithromycinN-Oxide Beclometason BeclometasoneDipropionate BCL100 [2-[(8S,9R,10S,11S,13S,14S,16S,17R)-9-chloro-11-hydroxy-10,13,16-trimethyl-3-oxo-17-propanoyloxy-"
+BNZ100,"6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl]-2-oxoethyl]propanoate",255-18-5,"2H-1,2,4-Benzothiadiazine"
+BNZ301,BenzothiadiazineRelatedCompoundA,121-30-2,"4-Amino-6-chloro-1,3-benzenedisulfonamide β-Carotene"
+CRT100,β-Carotene,7235-40-7,"1,3,3-Trimethyl-2-[3,7,12,16-tetramethyl-18-(2,6,6-trimethylcyclohex-1-en-1- yl)octadeca-1,3,5,7,9,11,13,15,17-nonaen-1-yl]cyclohex-1-ene"
+BTH201,BetahistineImpurityA,100-69-6,2-Vinylpyridine(stabilizedwith4-tert-butylpyrocatechol)
+BTH100,Betahistine/BetahistineHCl,5638-76-6,/5579-84-0 N-Methyl-2-pyridineethanamine; 2-[2- (Methylamino)ethyl]pyridine;2-[2-(Methylamino)ethyl]pyridine
+BTH201,BetahistineEPImpurityA,100-69-6,2-Vinylpyridine Page10
+BTH203,BetahistineEPImpurityC,2095467-43-7,"/5452-87-9 Benzothiadiazine,N-Methyl-2-(pyridin-2-yl)-N-(2-(pyridin-2-yl)ethyl)ethan-1-aminetrihydrochloride"
+BTH401,BetahistineImpurityB,103-74-2,2-Pyridineethanol Bilastine
+BLS100,Bilastine,202189-78-4,2-[4-(2-{4-[1-(2-Ethoxyethyl)-1H-benzimidazol-2-yl]-1-piperidinyl}ethyl)phenyl]-2-methylpropanoicacid
+BLS401,BilastineimpurityI,1181267-33-3,Methyl2-(4-(2-chloroethyl)phenyl)-2-methylpropanoate
+BSP100,BISOPROLOLHEMIFUMARATE,104344-23-2,"/66722-44-9 1-[4-[[2-(1-Methylethoxy)ethoxy]methyl]phenoxy] -3-[(1-methylethyl)amino]-2-propanol,BisoprololFumarate"
+BSP211,BisoprololEP ImpurityK,864544-37-6,2-isopropoxyethyl4-(2-hydroxy-3-(isopropylamino)propoxy)benzoate
+BSP212,BisoprololEP ImpurityL,29122-74-5,4-[((2RS)-2-Hydroxy-3-(isopropylamino)-propyl)oxy]benzaldehyde
+BSP214,BisoprololEP ImpurityN,1346601-75-9,(2RS)-1-[4-((2-Ethoxyethoxy)methyl)phenoxy]-3-(isopropylamino)-2-propanol
+BSP217,BisoprololEP ImpurityQ,1346604-00-9,(2RS)-1-Isopropylamino-3-[4-(2-methoxyethoxy)methyl]-phenoxy-2-propanol
+BSP401,BisoprololCarboxylicAcidImpurity,72570-70-8,4-(2-Hydroxy-3-isopropylaminopropoxy)benzoicAcid Brexpiprazole
+BRX100,Brexpiprazole,913611-97-9,7-[4-(4-Benzo[b]thien-4-yl-1-piperazinyl)butoxy]-2(1H)-quinolinone
+BRX401,BrexpiprazoleImpurity1,1420987-86-5,"1,4-bis(benzo[b]thiophen-4-yl)piperazine BrexpiprazoleN-Oxide"
+BRX402,7-[4-(4-Benzo[b]thien-4-yl-1-oxido-1-piperazinyl)butoxy],1191900-58-9,-2(1H)-quinolinone
+BRX403,BrexpiprazoleImpurity9,31570-97-5,5-hydroxy-;5-Hydroxy-2(1H)-quinolinone
+BRX404,BrexpiprazoleImpurity11,1886188-97-1,7-(4-hydroxybutoxy)quinolin-2(1H)-one
+BRX405,BrexpiprazoleImpurity12,2116542-19-7,"7,7'-(butane-1,4-diylbis(oxy))bis(quinolin-2(1H)-one)"
+BRX406,Page11,2138169-93-2,"BrexpiprazoleImpurity31 2,7-bis(4-(4-(benzo[b]thiophen-4-yl)piperazin-1-yl)butoxy)quinoline"
+BRX407,BrexpiprazoleImpurity52,2137823-20-0,7-(4-(4-(benzo[b]thiophen-4-yl)piperazin-1-yl)butoxy)-1-(4-(4-(benzo[b]thiophen-4-yl)piperazin-1- yl)butyl)quinolin-2(1H)-one
+BRX408,BrexpiprazoleImpurity15,913612-07-4,"7-(4-(4-(benzo[b]thiophen-4-yl)piperazin-1-yl)butoxy) -3,4-dihydroquinolin-2(1H)-one"
+BRX409,BrexpiprazoleImpurity18,2059954-32-2,7-(4-chlorobutoxy)-1-(4-chlorobutyl)quinolin-2(1H)-one
+BRX410,BrexpiprazoleImpurity42,2060027-95-2,"2,7-bis(4-chlorobutoxy)quinoline"
+BRX411,BrexpiprazoleImpurity22,913614-18-3,1-(benzo[b]thiophen-4-yl)piperazinehydrochloride
+BRX412,BrexpiprazoleImpurity23,1849603-58-2,7-(4-(piperzin-1-yl)butoxy)quinolin-2(1H)-one
+BRX413,BrexpiprazoleImpurity25,5118-13-8,4-Bromobenzo[b]thiophene
+BRX414,BrexpiprazoleDi-N-Oxide,2247155-42-4,"1-(Benzo[b]thiophen-4-yl)-4-(4-((2-oxo-l,2-dihydroquinolin-7- yl)oxy)butyl) piperazine 1,4-dioxide"
+BRX415,BrexpiprazoleImpurity26,913613-82-8,7-(4-chlorobutoxy)-1H-quinolin-2-one
+BRX416,BrexpiprazoleImpurity28,203395-59-9,7-(4-Bromobutoxy)-quinoline-2(1H)-one
+BRX417,BrexpiprazoleImpurity30,2094559-58-5,"7-(4-(4-(benzo[b]thiophen-4-yl)piperazin-1-yl)butoxy)-1- (4-((2-oxo-1,2-dihydroquinolin-7-yl)oxy)butyl)quinolin-2(1H)-one"
+BRX418,BrexpiprazoleS-Oxide,1191900-51-2,7-[4-[4-(1-Oxidobenzo[b]thien-4-yl)-1-piperazinyl]butoxy]-2(1H)-quinolinone
+BRX501,4-Chlorobenzo[b]thiophene,66490-33-3,4-Chlorobenzo[b]thiophene Brimonidine
+BRM100,Brimonidine,59803-98-4,"5-Bromo-N-(4,5-dihydro-1H-imidazol-2-yl)-6-quinoxalinamine"
+BRM201,BrimonidineEPImpurityA,91147-43-2,DesbromoBrimonidine; N-(Imidazolidin-2-ylidene)quinoxalin-6-amine
+BRM203,BrimonidineEPImpurityC,6298-37-9,Quinoxalin-6-amine
+BRP100,BrompheniramineMaleate,980-71-2,"(3RS)-3-(4-Bromophenyl)-N,N-dimethyl-3-(pyridin-2-yl)propan-1-amine(Z)-butenedioate Page12"
+BRP201,BrompheniramineMaleateEPImpurityA,132-22-9,Chlorphenamine
+BRP203,BrompheniramineMaleateEPImpurityC,86-21-5,pheniramine
+BRP401,Brompheniramineimpurity1,65676-22-4,2-(4-bromophenyl)-4-(dimethylamino)-2-(pyridin-2-yl)butanenitrile
+BRP402,Brompheniramineimpurity2,85750-24-9,(4-bromophenyl)(Pyridin-2-yl)acetonitrile DesmethylbrompheniramineHCl BRP403 (3RS)-3-(4-Bromo-phenyl)-N-methyl-3-(pyridin-2-yl)propan-1-amineHClsalt Bumetanide
+BMT100,Bumetanide,28395-03-1,3-(butylamino)-4-phenoxy-5-sulfamoylbenzoicacid
+BMT201,BumetanideEPImpurityA,28328-53-2,BumetanideRelatedCompoundB; 3-nitro-4-phenoxy-5-sulfamoylbenzoic acid
+BMT202,BumetanideEPImpurityB,28328-54-3,BumetanideRelatedCompoundA; 3-amino-4-phenoxy-5-sulfamoylbenzoicacid;DesbutylBumetanide
+BMT203,BumetanideEPImpurityC,32643-00-8,butyl3-(butylamino)-4-phenoxy-5-sulfamoylbenzoate
+BMT204,BumetanideEPImpurityD,153012-65-8,3-((2-ethylhexyl)amino)-4-phenoxy-5-sulfamoylbenzoicacid
+BMT401,BumetanideImpurity-5,57939-04-5,Methyl3-nitro-4-phenoxy-5-sulfamoylbenzoate
+BPV100,BupivacaineHCl,18010-40-7,"(2RS)-1-Butyl-N-(2,6-dimethylphenyl)piperidine-2- carboxamidehydrochloride"
+BPV201,BupivacaineEPImpurityA,39627-98-0,"N-(2,6-Dimethylphenyl)pyridine-2-carboxamide"
+BPV202,BupivacaineEPImpurityB,15883-20-2,"(2RS)-N-(2,6-Dimethylphenyl)piperidine-2-carboxamide"
+BPV203,BupivacaineEPImpurityC,1797894-80-4,"1-(2,6-Dimethylphenyl)-1,5,6,7-tetrahydro-2H-azepin-2-one"
+BPV204,BupivacaineEPImpurityD,1037184-07-8,"(2RS)-2,6-Dichloro-N-(2,6-dimethylphenyl)hexanamide Page13"
+BPV205,BupivacaineEPImpurityE,1330172-81-0,"6-(Butylamino)-N-(2,6-dimethylphenyl)hexanamide 87-62-7/ BupivacaineEPImpurityF BPV206 21436-98-6 2,6-Dimethylaniline/ROPIVACAINERELATEDCOMPOUNDA"
+BPV501,Picolonicacid,98-98-6,Pyridine-2-carboxylicAcid Bupropion
+BPR100,BupropionHydrochloride,31677-93-7,2-(t-Butylamino)-3'-chloropropiophenonehydrochloride
+BPR301,BupropionRelatedCompoundA,1049718-72-0,/252193-58-1 2-(Tert-Butylamino)-4’-chloropropiophenoneHydrochloride
+BPR302,BupropionRelatedCompoundB,1049718-43-5,2-(Tert-Butylamino)-3′-bromopropiophenonehydrochloride
+BPR303,BupropionUSPRelatedCompoundC,152943-33-4,1-(3-chlorophenyl)-2-hydroxypropan-1-one
+BPR304,BupropionRelatedCompoundD,63199-74-6,"2-(Tert-Butylamino)propiophenoneHydrochloride,DeschloroBupropionHydrochloride"
+BPR305,BupropionRelatedCompoundE,10557-17-2,Bupropiondionederivative
+BPR306,BupropionRelatedCompoundF,857233-13-7,1-(3-Chlorophenyl)-1-hydroxypropan-2-one
+BPR401,Bupropion2-BromoImpurity,34911-51-8,"BupropionRelatedCompoundG,2-Bromo-1-(3-chlorophenyl)-1-propanone"
+BPR402,BupropionDes-t-ButylaminoImpurity,34841-35-5,"3'-Chloropropiophenone,1-(3-Chlorophenyl)-1-propanone"
+BPR403,BupropionImpurity1,92821-92-6,"3,5Dichloropropiophenone"
+BPR404,BupropionNitrosoImpurity,NA,N-(Tert-butyl)-N-(1-(3-chlorophenyl)-1-oxopropan-2-yl)nitrousamide Buspirone
+BSR100,BuspironeHydrochloride,33386-08-2,"8-[4-[4-(Pyrimidin-2-yl)piperazin-1-yl]butyl] -8-azaspiro[4.5]-decane-7,9-dionehydrochloride"
+BSR201,BuspironeEPImpurityA,20980-22-7,BuspironeUSP RCA;2-(Piperazin-1-yl)pyrimidine
+BSR202,BuspironeEPImpurityB,81461-73-6,BuspironeSpiroammoniumSaltImpurity(USP) Page14
+BSR207,BuspironeEPImpurityG,84746-24-7,"Buspirone USPRelatedCompound G,2,2′-(Piperazine-1,4-diyl)dipyrimidine"
+BSR211,BuspironeEPImpurityK,1075-89-4,"BuspironeUSPRelatedCompound K; 8-Azaspiro[4.5]decane-7,9-dione"
+BSR212,BuspironeEPImpurityL,21098-11-3,"Buspirone USPRelated Compound L,8-(4-Chlorobutyl)-8-azaspiro[4.5]decane-7,9-dione"
+BSR213,BuspironeEPImpurityM,80827-62-9,"BuspironeBromobutylImpurity,8-(4-Bromobutyl)-8-azaspiro[4.5]decane-7,9-dione"
+BSR214,BuspironeEPImpurityN,257877-44-4,"BuspironeUSPRelatedCompoundN,8,8′-(Butane-1,4-diyl)bis(8-azaspiro[4.5]decane-7,9-dione) Busulfan"
+BSL100,Busulfan,55-98-1,"1,4-Butanediol-dimethanesulfonate Esters;Busulphan Candesartan"
+CND100,CandesartanCilexetil,145040-37-5,"1-[[(Cyclohexyloxy)carbonyl]oxy]ethyl2-ethoxy-1-[[2'-(1H-tetrazol-5-yl)[1,1'-biphenyl]-4-yl]methyl]-1H- benzimidazole-7-carboxylate"
+CND201,CandesartanEPImpurityA,139481-58-6,"CandesartanEthylEster; 2-Ethoxy-1-[[2-[1-(triphenylmethyl) -1H-tetrazol-5-yl][1,1?-biphenyl]-4-yl]methyl]-1H-benzimidazole-7-carboxylicAcidethylester"
+CND401,CandesartanBromoN1-TritylImpurity,124750-51-2,"5-(4'-Bromomethyl-1,1'-biphenyl-2-yl)-1-triphenylmethyl-1H-tetrazole Carbamazepine"
+CRB100,Carbamazepine,298-46-4,"5H-Dibenzo[b,f]azepine-5-carboxamide"
+CRB201,CarbamazepineEPImpurityA,3564-73-6,CarbamazepineUSPRelatedCompoundA
+CRB202,CarbamazepineEPImpurityB,611-64-3,9-Methylacridine
+CRB204,CarbamazepineEPImpurityD,256-96-2,"CarbamazepineRelatedCompoundB,5H-Dibenzo[b,f]azepine"
+CRB205,CarbamazepineEPImpurityE,494-19-9,"10,11-dihydro-5H-dibenzo[b,f]azepine(iminodibenzyl),"
+CRB206,CarbamazepineEPImpurityF,33948-22-0,"H-dibenzo[b,f]azepine-5-carbonylchloride Page15"
+CRV100,Carvone,99-49-0,Carvone Cefadroxil
+CFD100,CefadroxilMonohydrate,66592-87-8,"(6R,7R)-7-[[(2R)-Amino-(4-hydroxyphenyl)acetyl]amino]-3-methyl- 8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylicAcidMonohydrate"
+CFD401,CefadroxilEPImpurityB/,22252-43-3,"7-AMINODESACETOXYCEPHALOSPORANIC ACID6R,7R)-7-Amino-3-methyl-8-oxo-5-thia-1- azabicyclo[4.2.0]oct-2-ene-2-carboxylicAcid Celecoxib"
+CLX100,Celecoxib,169590-42-5,4-[5-(4-Methylphenyl)-3-trifluoromethyl-1H-pyrazol-1- yl]benzenesulfonamide
+CLX201,CelecoxibEPImpurityA,170570-01-1,USP Related Compound A ; Celecoxib 3-Methyl Analog;4-[5-(3-Methylphenyl)-3-trifluoromethyl-1H-pyrazol-1- yl]benzenesulfonamide
+CLX202,CelecoxibEPImpurityB,331943-04-5,USPRelatedcompoundB;4-[3-(4-Methylphenyl)-5-trifluoromethyl-1H-pyrazol-1-yl]benzenesulfonamide
+CLX401,Celecoxib2-MethylAnalog,170569-99-0,4-[5-(2-Methylphenyl)-3-trifluoromethyl-1H-pyrazol-1-yl]benzenesulfonamide
+CLX402,CelecoxibHydrazineImpurity,17852-52-7,4-Sulphonamidophenylhydrazinehydrochloride
+CLX403,CelecoxibrelatedcompoundD,1061214-06-9,(E)-4-(2-(1-p-tolylethylidene)hydrazinyl)benzenesulfonamide CelecoxibImpurity2 948293-46-7/ CLX404 CelecoxibImpurity6 219986-64-8 3-(p-tolyl)-5-(trifluoromethyl)-1H-pyrazole
+CLX405,CelecoxibRelatedCompound4,720-94-5,"4,4,4-trifluoro-1-p-tolylbutane-1,3-dione"
+CLX406,CelecoxibImpurity7,163266-02-2,"4,4,4-trifluoro-1-(o-tolyl)butane-1,3-dione"
+CLX407,CelecoxibRelatedCompoundC,170570-09-9,"2,4-DimethylCelecoxibImpurity4-[5-(2,4-Dimethylphenyl)-3-(trifluoromethyl) -1H-pyrazol-1-yl]benzenesulfonamide"
+CLX408,3-Methylacetophenone,585-74-0,
+CLX409,3-Methylacetophenone,122-00-9,4-Methylacetophenone Page16
+CLX410,CelecoxibImpurity3,170569-87-6,4-(5-phenyl-3-(trifluoromethyl)-1H-pyrazol-1-yl)benzenesulfonamide Cetirizine
+CTR100,CetirizineDihydrochloride,83881-52-1,(RS)-2-[2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1- yl]ethoxy]acetic acid dihydrochloride
+CTR201,CetirizineEPImpurityA,303-26-4,CetirizineCBHPImpurity(USP) (RS)-1-[(4-Chlorophenyl)phenylmethyl]piperazine
+CTR202,CetirizineEPImpurityB,113740-61-7,(RS)-2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1- yl]acetic acid dihydrochloride
+CTR203,CetirizineEPImpurityC,83881-59-8,"Cetirizine2-ChloroAnalog(RS)-2-[2-[4-[(2-Chlorophenyl)phenylmethyl]piperazin-1-yl]ethoxy] aceticacid CetirizineEPImpurityD 346451-15-8(base) CTR204 CetirizineDimerImpurity(USP) 856841-95-7(2HCl) ;1,4-bis[(4-Chlorophenyl)phenylmethyl]piperazinedihydrochloride"
+CTR205,CetirizineEPImpurityE,682323-77-9,(RS)-2-[2-[2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1-yl]ethoxy]ethoxy]acetic acid
+CTR206,CetirizineEPImpurityF,83881-53-2,2-(2-(4-benzhydrylpiperazin-1-yl)ethoxy)aceticacid
+CTR207,CetirizineEPImpurityG,164726-80-1,CetirizineEthanolImpurity;2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1-yl]ethanolDihydrochloride
+CTR301,CetirizneRelatedCompoundA,246870-46-2,(base) Cetirizine Dihydrochloride Ethyl Ester ; (RS)-2-[2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1- yl]ethoxy]acetic acid ethyl ester
+CTR302,CetirizneRelatedCompoundB,108983-83-1,CetirizineDeschloroEthanolImpurity;2-[4-(Diphenylmethyl)piperazin-1-yl]ethanoldihydrochloride 200707-85-3(HClsalt) CetirizneRelatedCompoundC CTR303 83881-37-2(base) CetirizineAmide Impurity ; (RS)-2-[2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1-yl]ethoxy]acetamide
+CTR401,CetirizineMethylEster(USP),83881-46-3,(RS)-2-[2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1-yl]ethoxy]aceticacidmethylesterdihydrochloride
+CTR402,Cetirizine EP ImpurityEthyl Ester,19178-83-7,(RS)-2-[4-[(4- Chlorophenyl)phenylmethyl]piperazin-1- yl]acetic acid ethyl ester
+CTR403,Cetirizine4-ChlorobenzhydrolImpurity,119-56-2,MeclizineUSPRCA;4-Chlorobenzhydrol
+CTR404,Cetirizine4-ChlorobenzophenoneImpurity(USP),134-85-0,(4-Chlorophenyl)phenylmethanone Page17
+CTR405,CetirizineN-Oxide,1076199-80-8,(RS)-2-[2-[4-[(4-Chlorophenyl)phenylmethyl]-1-oxido-piperazin-1- yl]ethoxy] acetic acid Cetirizine3-ChloroImpurity 1232460-29-5| CTR406 3-Chloro Cetirizine Dihydrochloride (USP) ; (RS)-2-[2-[4-[(3-Chlorophenyl)phenylmethyl]piperazin-1- 1232460-31-9 yl]ethoxy] acetic acid
+CTR407,ChlorobenzhydrylPiperazine,300543-56-0,(-)-1-[(4-Chlorophenyl)phenylmethyl]piperazine;(R)-1-(p-Chlorobenzhydryl)piperazine
+CTR408,CetirizineEthylEster,246870-46-2,Cetirizine Dihydrochloride Ethyl Ester ; (RS)-2-[2-[4-[(4-Chlorophenyl)phenylmethyl]piperazin-1- yl]ethoxy]acetic acid ethyl ester
+CTR409,3-Chlorobenzophenone,1016-78-0,3-Chlorobenzophenone
+CTR410,1-Benzhydrylpiperazine,841-77-0,1-Benzhydrylpiperazine
+CTR411,2-ChloroBHP Cetirizine,109036-15-9,1-[(2-Chlorophenyl)phenylmethyl]piperazine
+CTR412,3-ChloroBHP Cetirizine,NA,1-[(3-Chlorophenyl)phenylmethyl]piperazine Chlordiazepoxide
+CHD100,Chlordiazepoxide,58-25-3,"7-chloro-2-(methylamino)-5-phenyl-3H-benzo[e][1,4]diazepine4-oxide"
+CHD201,ChlordiazepoxideEPImpurityA,963-39-3,"Chlordiazepoxide Related Compound A(7-Chloro-1,3-dihydro-5-phenyl-2H-1,4-benzodiazepin-2-one 4- Oxide)"
+CHD203,ChlordiazepoxideEPImpurityC,719-59-5,2-Amino-5-chlorophenyl)phenylmethanone Chloroquine
+CHR100,Chloroquine,54-05-7,7-Chloro-4-[[4-(diethylamino)-1-methylbutyl]amino]quinoline
+CHR401,Hydroxynovaldiamine,69559-11-1,2-[(4-aminopentyl)(ethyl)amino]ethan-1-ol Chlorphenamine
+CHP100,ChlorphenamineMaleate,113-92-8,"3-(4-chlorophenyl)-N,N-dimethyl-3-(pyridin-2-yl)propan-1-aminemaleate Page18"
+CHP201,ChlorphenamineEPImpurityA,1246816-57-8,2-(4-chlorophenyl)-4-(dimethylamino)-2-(2-(dimethylamino)ethyl)butanenitrile
+CHP202,ChlorphenamineEPImpurityB,1202-34-2,ChlorphenamineRelated CompoundB ;3-(4-chlorophenyl)-N-methyl-3-(pyridin-2-yl)propan-1-amine
+CHP203,ChlorphenamineEPImpurityC,20619-12-9,CHLORPHENIRAMINERELATEDCOMPOUNDC/ 3RS)-3-(4-chlorophenyl)-N-methyl-3-(pyridin-2-yl)propan-1-amine
+CHP204,ChlorphenamineEPImpurityD,65676-21-3,/2575516-46-8 2-(4-chlorophenyl)-4-(dimethylamino)-2-(pyridin-2-yl)butanenitrile
+CHP401,ChlorphenamineN-Oxide,120244-82-8,"3-(4-chlorophenyl)-N,N-dimethyl-3-(pyridin-2-yl)propan-1-amineoxide"
+CHP402,ChlorphenamineImpurity1,4584-46-7,"2-chloro-N,N-dimethylethan-1-aminehydrochloride"
+CHP403,Didesmethylchlorpheniramine,23052-94-0,3-(4-chlorophenyl)-3-(pyridin-2-yl)propan-1-amine
+CHP404,ChlorphenamineImpurity2,4350-41-8,"2-(4-Chlorobenzyl)pyridine,2-(4-chlorobenzyl)pyridine"
+CHP405,ChlorphenamineImpurity3,5005-37-8,(4-chlorophenyl)(pyridin-2-yl)acetonitrile Chlorthalidone
+CHL100,Chlortalidone,77-36-1,2-Chloro-5-(1-hydroxy-3-oxo-1-isoindolinyl)benzenesulfonamide
+CHL201,ChlortalidoneEPimpurityA,345930-32-7,ChlorthalidoneChlorosulfobenzoylBenzoicAcidImpurity
+CHL202,ChlortalidoneEPimpurityB,5270-74-6,ChlorthalidoneUSP RCA;ChlorthalidoneAcid; 2-[3-(Aminosulfonyl)-4-chlorobenzoyl]-benzonicacid
+CHL203,ChlortalidoneEPimpurityC,92874-73-2,Chlorthalidone AcidEthyl Ester;2-[3-(Aminosulfonyl)-4-chlorobenzoyl] -benzonicacidethylester
+CHL204,ChlortalidoneEPimpurityD,1369995-36-7,"ChlorthalidoneEthylEther;O-EthylChlorthalidone; 2-Chloro-5[(1RS)-1-ethoxy-3-oxo-2,3-dihydro-1H-isoindol-1-yl]benzenesulfonamide"
+CHL205,ChlortalidoneEPimpurityE,82875-49-8,ChlorthalidoneDeshydroxy Impurity; 2-Chloro-5-(3-oxo-1-isoindolinyl)benzenesulfonamide
+CHL207,ChlortalidoneEPimpurityG,16289-13-7,"ChlorthalidoneDichloroImpurity; (3RS)-3-(3,4-Dichlorophenyl)-3hydroxy-2,3-dihydro-1H-isoindol-1-one Page19"
+CHL208,ChlortalidoneEPimpurityH,NA,"Chlorthalidone Isopropyl Ether ;2-Chloro-5[(1RS)-1-(1-methylethoxy)-3-oxo-2,3-dihydro-1H-isoindol-1- yl]benzenesulfonamide"
+CHL209,ChlortalidoneEPimpurityI,NA,ChlorthalidoneAcidIsopropylEster ;2-[3-(Aminosulfonyl)-4-chlorobenzoyl]-benzonicacidisopropylester
+CHL210,ChlortalidoneImpurityJ,956-92-3,3-(4-chlorophenyl)-3-hydroxyisoindolin-1-one
+CHL401,ChlortalidoneMethylEther,6512-76-4,"O-Methyl Chlortalidone ; 2-Chloro-5[(1RS)-1-methoxy-3-oxo-2,3-dihydro-1H-isoindol-1- yl]benzenesulfonamide"
+CHL402,Chlorthalidoneacidmethylesterimpurity,92433-89-1,Methyl2-(4-chloro-3-sulfamoylbenzoyl)benzoatey
+CHL501,Chloro Intermedate,NA,2-chloro-5-(1-oxoisoindolin-3-yl)benzene-1-sulfonylchloride
+CHL502,3-(4-Chlorophenyl)-1-isoindolinone,2224-77-3,"3-(p-Chlorophenyl)-phthalimidine; 3-(4-Chlorophenyl)isoindolinone; 3-(4-Chlorophenyl)-2,3-dihydro-1H- isoindol-1-one"
+CHL503,"4-(4-Chlorophenyl)-1H-2,3-benzoxazin-1-one",2224-83-1,"4-(4-Chlorophenyl)-1H-2,3-benzoxazin-1-one Chlorzoxazone"
+CHZ100,Chlorzoxazone,95-25-0,5-Chloro-2-benzoxazolinone;5-Chloro-2-hydroxybenzoxazole
+CHZ301,ChlorzoxazoneRelatedCompoundA,95-85-2,
+CHZ401,2-Amino-4-chlorophenol,106-48-9,4-Chlorophenol
+CNT100,Cinacalcet,364782-34-3,CinacalcetHCl
+CNT401,CinacalcetImpurityA,3886-70-2,/82572-04-1 (R)-(+)-1-(1-Naphthyl)ethylamine
+CNT402,CinacalcetImpurity1,779-89-5,3-(3-(Trifluoromethyl)phenyl)acrylicacid
+CNT403,CinacalcetImpurity2,1005450-55-4,R-N-(1-(naphthalen-1-yl)ethyl)-3-(3-(trifluoromethyl)phenyl)propanamide Ciprofloxacin
+CPR100,Ciprofloxacin,85721-33-1,"1-Cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-quinolinecarboxylicAcid Page20"
+CPR101,CiprofloxacinHydrochlorideMonohydrate,86393-32-0,"1-Cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-quinolinecarboxylic Acid Hydrochloride; BayQ3939 Hydrochloride Monohydrate"
+CPR201,CiprofloxacinEPImpurityA,86393-33-1,"7-Chloro-1-cyclopropyl-6-fluoro-3-carboxy-1,4-dihydro-4- oxoquinoline;FluoroquinolonicAcid"
+CPR203,CiprofloxacinEPImpurityC,103222-12-4,/528851-31-2 CiprofloxacinEthylenediamineUSP Clarithromycin
+CLR100,Clarithromycin,81103-11-9,6-O-Methylerythromycin;6-O-MethylerythromycinA Clonazepam
+CLZ201,ClonazepamEPImpurityA,2011-66-7,ClonazepamUSP RelatedCompoundB Clonidine
+CLN100,Clonidine,4205-90-7,"2,6-Dichloro-N-(imidazolidin-2-ylidene)aniline"
+CLN201,ClonidineEPImpurityA,5391-39-9,1-Acetylimidazolidin-2-one
+CLN202,ClonidineEPImpurityB,54707-71-0,"ClonidineRelatedCompoundA;1-(2-((2,6-dichlorophenyl)amino)-4,5-dihydro-1H-imidazol-1-yl)ethan-1-one"
+CLN203,ClonidineEPImpurityC,608-31-1,"2,6-Dichloroaniline"
+CLN401,ClonidineImpurityB(Inhouse),14034-59-4,"ethylenediaminemono-p-toluenesulfonicacidsalt Clopidogrel Clopidogrel 113665-84-2/ S-(+)-Clopidogrel Hydrogen Sulfate CLP100 120202-66-6 Methyl(2S)-(2-chlorophenyl)[6,7-dihydrothieno[3,2-c]pyridin-5(4H)-yl] acetate"
+CLP101,135046-48-9 CHLOPIDOGRELHYDROGENSULPHATERACEMATE,90055-48-4,"(Â±)-Methyl2-(2-Chlorophenyl)-2-(6,7-dihydro-4H-thieno [3,2-c]pyridin-5-yl)acetateHydrogenSulfate Closantel Page21"
+CLS100,Closantel,57808-65-8,"N-[5-chloor-4-[(4-chloorfenyl)-cyanomethyl]-2-methylfenyl]-2-hydroxy-3,5 -di-joodbenzamide"
+CLS201,ClosantelEPImpurityA,133-91-5,"2-Hydroxy-3,5-diiodobenzoicacid"
+CLS202,ClosantelEPImpurityB,61437-85-2,(2RS)-(4-Amino-2-chloro-5-methylphenyl)(4-chlorophenyl)ethanenitril
+CLS203,ClosantelEPImpurityC,NA,"(2RS)-[2-Chloro-4-[(2-hydroxy-3,5-diiodobenzoyl)amino]-5-methylphenyl](4-chlorophenyl)aceticacid"
+CLS204,ClosantelEPImpurityD,NA,"N-[4-[(1RS)-2-amino-1-(4-chlorophenyl)-2-oxoethyl]-5-chloro-2-methylphenyl]-2-hydroxy-3,5- diiodobenzamide Dabigatran"
+DBG403,DabigatranImpurity3,211915-84-3,DabigatranEthylEsterCyanoAnalog
+DBG409,DabigatranImpurity 10,1304574-20-6,DabigatranEtexilatePropanoate
+DBG410,DabigatranImpurity6,NA,hexyl(Z)-(amino(4-(((1-methyl-5-(pyridin-2-ylcarbamoyl)-1H- benzo[d]imidazol-2-yl)methyl)amino)phenyl)methylene)carbamate
+DBG411,DesethylDabigatranEtexilateCarboxamide,1580491-16-2,DesethylDabigatranEtexilateCarboxamide
+DBG412,DabigatranEtexilateIsopropylEsterAnalog,1610758-19-4,DabigatranEtexilateIsopropylEsterAnalog
+DBG413,DabigatranEtexilateDimer,2101852-25-7,DabigatranEtexilateDimer
+DBG414,Ethyl3-(2-Pyridylamino)propionate,103041-38-9,Ethyl3-(2-Pyridylamino)propionate
+DBG415,4-(Methylamino)-3-nitrobenzoicacid,41263-74-5,4-(Methylamino)-3-nitrobenzoicacid
+DBG416,DesiminomethylCarbonylDabigatranEtexilate,1408238-40-3,N-[[2-[[[4-[[[(Hexyloxy)carbonyl]amino]carbonyl]phenyl]amino]methyl]-1-methyl-1H-benzimidazol-5- yl]carbonyl]-N-2-pyridinyl-β-alanineEthylEster Page22
+DBG100,DabigatranEtexilate,211915-06-9,N-[[2-[[[4-[[[(Hexyloxy)carbonyl]amino]iminomethyl]phenyl]amino]methyl]-1-methyl-1H-benzimidazol-5- yl]carbonyl]-N-2-pyridinyl-β-AlanineEthylEster
+DBG401,DabigatranEtexilateMesylateImpurityA,1408238-37-8,3-(2-(((4-(((Hexyloxy)carbonyl)carbamoyl)phenyl)amino)methyl)-1-methyl-N-(pyridin-2-yl)-1H- benzo[d]imidazole-5-carboxamido)propanoicAcid
+DBG402,DabigatranImpurity1,429658-95-7,/211914-50-0 3-({2-[(4-Carbamimidoyl-phenylamino)-methyl]-1-methyl-1H-benzoimidazole-5-carbonyl}-pyridin-2-yl- amino)-propionic acid ethyl ester
+DBG404,DabigatranMethylaminoImpurity,212322-56-0,DabigatranMethylaminoImpurity
+DBG405,DabigatranImpurity4,212321-78-3,O-DesethylDabigatranEtexilate
+DBG406,DabigatranImpurity2,42288-26-6,N-(4-Cyanophenyl)glycine;2-(4-Cyanophenylamino)aceticacid
+DBG407,DabigatranImpurity8,1637238-96-0,Hexyl(imino(4-(((1-methyl-5-((3-oxo-3-(pyridin-2-ylamino)propyl) (pyridin-2-yl)carbamoyl)-1H-benzo[d]imidazol-2-thyl)amino)phenyl)methyl)carbamate
+DBG408,DabigatranImpurity9,211915-00-3,DabigatranEtexilateMethylEsterAnalog
+DCT100,Decitabine,2353-33-5,"4-amino-1-((2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-1,3,5-triazin-2(1H)-one"
+DCT303,DecitabineRelatedCompoundC,1140891-02-6,"(2R,3S,5S)-5-(4-amino-2-oxo-1,3,5-triazin-1(2H)-yl)-2-(((4- chlorobenzoyl)oxy)methyl)tetrahydrofuran-3-yl4-chlorobenzo Desloratadine"
+DSL100,Desloratadine,100643-71-8,LoratadineUSPRCA;LoratadineEPImpurityD 298220-99-2 DesloratadineEPImpurityA DSL201 DesloratadineEPImpurityA;11-FluoroDihydrodesloratadine
+DSL203,DesloratadineEPImpurityC,79794-75-5,"Loratadine ; Ethyl 4-(8-chloro-5,6-dihydro-11H- benzo[5,6]cyclohepta[1,2-b]pyridin-11-ylidene)-1- piperidinecarboxylate"
+DSL401,DesloratadineN-AcetylImpurity,117796-52-8,DesloratadineN-AcetylImpurity;N-AcetylDesloratadine
+DSL306,DesloratadineN-FormylImpurity,117810-61-4,DesloratadineUSPRCF;DesloratadineN-FormylImpurity Page23
+DSL402,DesloratadineN-HydroxyImpurity,1193725-73-3,DesloratadineN-HydroxyImpurity;N-HydroxyDesloratadine
+DSL403,DesloratadineN-MethylImpurity,38092-89-6,LoratadineEPImpurityG;LoratadineUSPRCB
+DSL404,DesloratadinePyridineN-Oxide,169253-26-3,"4-(8-Chloro-5,6-dihydro-11H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-ylidene)- piperidineN-oxide"
+DSL405,DesloratadineNitrosoImpurity,1246819-22-6,"8-Chloro-11-(1-nitrosopiperidin-4-ylidene)-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine Dextromethorphan"
+DXT100,Dextromethorphan,125-71-3,"(9α,13α,14α)-3-Methoxy-17-methylmorphinan3-Methoxy-17 -methyl-9α,13α,14α-morphinan;(+)-3-Methoxy-17-methylmorphinan"
+DXT401,DextromethorphanImpurityA,1531-25-5,"(+)-3-Methoxy morphinan; (4bR,8aR,9R)-3-Methoxy-6,7,8,8a,9,10-hexahydro-5H-9,4b- (epiminoethano)phenanthrene"
+DXT402,DextromethorphanImpurityB,125-73-5,(+)-3-Hydroxy-N-methylmorphinan
+DXT403,DextromethorphanN-OxideHydrochloride,1177419-85-0,"(9α,13α,14α)-3-Methoxy-17-methylmorphinan17-oxideHydrochloride Diazepam"
+DZP100,Diazepam,439-14-5,"7-Chloro-1-methyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one"
+DZP201,DiazepamEPImpurityA/ Nordazepam,1088-11-5,"7-Chloro-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one(nordazepam)"
+DZP202,DiazepamEPImpurityB,6021-21-2,2-Chloro-N-(4-chloro-2-benzoylphenyl)-N-methylacetamide
+DCZ401,Diclazuril - Impurity A/Diclazuril 6-Carboxylic Acid2-,862243-46-7,"[3,5-Dichloro-4-[(4-chlorophenyl)cyanomethyl]phenyl]-2,3,4,5- tetrahydro-3,5-dioxo-1,2,4-triazine-6-carboxylicAcid"
+DCZ402,4-Dechloro-4-hydroxyDiclazuril(Impurity B),112206-71-0,"(+/-)-Benzeneacetonitrile, 4-Dechloro-4-hydroxyDiclazuril"
+DCZ403,Diclazuril6-Carboxamide(Impurity C),1797132-12-7,Diclazuril6-Carboxamide
+DCZ404,DescyanoDiclazurilKetone(ImpurityD),133648-81-4,"2-[3,5-Dichloro-4-(4-chlorobenzoyl)phenyl]-1,2,4-triazine-3,5(2H,4H)-dione Page24"
+DCZ405,DescyanoDiclazurilKetone(ImpurityF),133648-80-3,"2-[3,5-Dichloro-4-[(4-chlorophenyl)methyl]phenyl]-1,2,4-triazine- DiclofenacSodium"
+DCL100,DiclofenacSodium,15307-79-6,"AceclofenacEPImpurityA; Sodium2-[(2,6-dichlorophenyl)amino]phenyl]acetate"
+DCL201,DiclofenacEPImpurityA,15362-40-0,Diclofenac USP Related Compound A ;AceclofenacEPImpurityI;DiclofenacAmide
+DCL202,DiclofenacEPImpurityB,22121-58-0,"2-[(2,6-Dichlorophenyl)amino]benzaldehyde"
+DCL203,DiclofenacEPImpurityC,27204-57-5,"[2-[(2,6-Dichlorophenyl)amino]phenyl]methanol"
+DCL204,DiclofenacEPImpurityD,127792-45-4,2-[2-[(2-Bromo-6-chlorophenyl)amino]phenyl]acetic acid
+DCL205,DiclofenacEPImpurityE,59-48-3,"1,3-Dihydro-2H-indol-2-one"
+DCL206,DiclofenacEPImpurityF,560075-65-2,"N-(4-chlorophenyl)-2-(2,6-dichlorophenyl)acetamide Diltiazem"
+DLT100,DiltiazemHCl,42399-41-7,"(2S,3S)-5-[2-(Dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo- 2,3,4,5-tetrahydro-1,5-benzothiazepin-3-yl acetate hydrochloride"
+DLT202,DiltiazemEPImpurityB,87447-47-0,"(2S,3S)-2-(4-Methoxyphenyl)-4-oxo-2,3,4,5-tetrahydro- 1,5-benzothiazepin-3-ylacetate"
+DLT205,DiltiazemEPImpurityE,42399-49-5,"(2S,3S)-3-Hydroxy-2-(4-methoxyphenyl)-2,3- dihydro-1,5-benzothiazepin-4(5H)-one"
+DLT206,DiltiazemEPImpurityF,99-40-6,"/23515-45-9/75472-9 DesacetylDiltiazem,"
+DBS100,DobesilateMonohydrate,117552-78-0,DobesilateMonohydrate
+DBS401,DBS100 117552-78-0 DobesilateMonohydrate,123-31-9,DobesilateImpurityA DonepezilHydrochloride Page25
+DNP100,DonepezilHydrochloride,120011-70-3,"(±)-2-[(1-Benzyl-4-piperidyl)methyl]-5,6-dimethoxy-1-indanonehydrochloride"
+DNP201,DonepezilEPImpurityA,120014-30-4,"Donepezil Desbenzyl Impurity;5,6-Dimethoxy-2-(piperidin-4-ylmethyl) indan-1-one"
+DNP202,DonepezilEPImpurityB,2107-69-9,"5,6-dimethoxy-2,3-dihydro-1H-inden-1-one"
+DNP204,DonepezilEPImpurityD,4803-57-0,"DonepezilPyridine Impurity;5,6-Dimethoxy-2-(pyridin-4-ylmethyl)indan-1-one"
+DNP206,DonepezilEPImpurityF,145546-80-1,"DonepezilRelatedCompoundA,DonepezilDehydroImpurity;(E)-DehydroDonepezil;(E)-2- [(1-Benzylpiperidin-4-yl)methylene]-5,6-dimethoxyindan-1-one"
+DNP401,DonepezilBenzylBromide,844694-85-5,"DonepezilBenzylBromide ;1,1-Dibenzyl-4-[(5,6-dimethoxy-1-oxoindan-2-yl)methyl]piperidiniumbromide"
+DNP402,DonepezilN-Oxide,120013-84-5,"(RS)-2-[(1-Benzyl-4-piperidyl)methyl]-5,6-dimethoxy-1-indanoneN-Oxide"
+DNP403,Donepezilhydroxyimpurity,197010-20-1,"2,3-Dihydro-2-[hydroxy[1-(phenylmethyl)-4-piperidinyl]methyl]-5,6-dimethoxy-1H-inden-1-one Dorzolamide"
+DRZ100,Dorzolamide,130693-82-2,"(4S,6S)-4-(Ethylamino)-6-methyl-5,6-dihydro-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7- dioxidehydrochloride"
+DRZ202,DORZOLAMIDEIMPURITYB,120279-37-0,"DorzolamideRelatedCompoundB,(4RS,6SR)-4-(Ethylamino)-6-methyl-5,6-dihydro-4H -thieno[2,3-b]thiopyran-2-sulfonamide7,7-dioxideHcl DoxazosinMesylate"
+DXZ100,DoxazosinMesylate,77883-43-3,"/74191-85-8 1-(4-Amino-6,7-dimethoxyquinazolin-2-yl)-4-[(2RS)-2,3-dihydro -1,4-benzodioxin-2-ylcarbonyl]piperazine methanesulphonate DuloxetineHydrochloride"
+DLX100,DuloxetineHydrochloride,136434-34-9,(S)-N-Methyl-γ-(1-naphthalenyloxy)-2-thiophenepropanamineHydrochloride
+DLX202,DuloxetineEPImpurityB,116539-55-0,Duloxetinealcohol(USP);(1S)-3-(Methylamino)-1-(thiophen-2-yl)propan-1-ol
+DLX204,DuloxetineEPImpurityD,90-15-3,α-Napthol(USP);Naphthalen-1-ol Page26 Elagolixsodium
+ELG100,Elagolixsodium,834153-87-6,"4-[[(1R)-2-[5-(2-Fluoro-3-methoxyphenyl)-3-[[2-fluoro-6-(trifluoromethyl)phenyl]methyl]-3,6-dihydro-4- methyl-2,6-dioxo-1(2H)-pyrimidinyl]-1-phenylethyl]amino]butanoicacid"
+ELG501,ElagolixImpurity1,133116-83-3,2-Fluoro-6-(trifluoromethyl)benzonitrile
+ELG502,ElagolixImpurity2,239087-06-0,2-Fluoro-6-(trifluoromethyl)benzylamine Emtricitabine
+EMT100,Emtricitabine,143491-57-0,"4-Amino-5-fluoro-1-[(2R,5S)-2-hydroxymethyl)-1,3-oxathiolan-5-yl]-2-(1H-pyrimidinone"
+EMT501,Emtricitabineimpuirty1,147126-75-8,"5-(4-Amino-5-fluoro-2-oxo-1(2H)-pyrimidinyl)-1,3-oxathiolane-2-carboxylic acid5-methyl-2-(1-methylethyl)cyclohexylester Enalapril"
+ENL100,EnalapriliMaleate,76095-16-4,((S)-1-ethoxy-1-oxo-4-phenylbutan-2-yl)-L-alanyl-L-proline
+ENL501,EnalaprilAlanyl Proline,13485-59-1,EnalaprilDipeptideImpurity;L-Alanyl-L-proline
+ENL502,EnalaprilImpurity1,501-52-0,"Phenylpropanoicacid,Benzenepropionicacid,3-Phenyl-n-propionicacid Eprosartan"
+EPR100,Eprosartan,133040-01-4,(E)-3-[2-Butyl-1-[(4-carboxyphenyl)methyl]-imidazol-5-yl]-2-(2-thienylmethyl)-2-propenoicacid EPR501 Eprosartanimpurity1
+ERY100,Erythromycin,114-07-8,Erythromycin
+ESK100,EsketamineHydrochloride,33643-47-9,(2S)-2-(2-Chlorophenyl)-2-(methylamino)cyclohexanonehydrochloride Page27
+ESK201,EsketamineEPImpurityA,6740-87-0,1-[(2-chlorophenyl)(methylimino)methyl]cyclopentanol
+ESK202,EsketamineEPImpurityB,1823362-29-3,(2RS)-2-(2-chlorophenyl)-2-hydroxycyclohexanone
+ESK203,EsketamineEPImpurityC,90717-17-2,(2-chlorophenyl)(1-hydroxycyclopentyl)methanone
+ESK401,ESKETAMINEIMPURITYAHCLSALT,90717-16-1,ESKETAMINEIMPURITYAHCL SALT Esomeprazole
+ESM100,Esomeprazole,119141-88-7,"5-Methoxy-2-((S)-((4-methoxy-3,5-dimethyl-2-pyridinyl)methyl)sulfinyl)-1H-benzimidazole"
+ESM201,EsomeprazoleEPImpurityA,37052-78-1,OmeprazoleEP ImpurityA;5-Methoxy-1H-benzimidazole-2-thiol
+ESM203,EsomeprazoleEPImpurityC,73590-85-9,"Omeprazole EP Impurity C ;5-methoxy-2-[[(4-methoxy-3,5-dimethylpyridin-2-yl)methyl]sulfanyl]-1H- benzimidazole(ufiprazole)"
+ESM204,EsomeprazoleEPImpurityD,88546-55-8,EsomeprazoleUSP RelatedCompoundA;EsomeprazoleUSPRCA;OmeprazoleSulfone
+ESM205,EsomeprazoleEPImpurityE,176219-04-8,OmeprazoleEP ImpurityE;OmeprazoleN-Oxide;OmeprazoleUSP RelatedCompoundE Estradiol
+EST100,Estradiol,50-28-2,"(8R,9S,13S,14S,17S)-13-methyl-7,8,9,11,12,13,14,15,16,17 -decahydro-6H-cyclopenta[a]phenanthrene-3,17-diol"
+EST302,EstradiolRelatedCompoundB,7291-41-0,"6,7-DehydroEstradiol Ethacrynic Acid"
+ETH100,Ethacrynic Acid,58-54-8,"2-[2,3-Dichloro-4-(2-methylene-1-oxobutyl)phenoxy]aceticAcid"
+ETH201,EthacrynicAcidimpurityA,1217-67-0,"4-Butanoyl-2,3-dichlorophenoxyaceticacid"
+ETH401,"EthacrynicAcidImpurity4,EthacrynicAcidImpurityE",55507-91-0,"[2,3-dichloro-4-(2-methylacryloyl)phenoxy]aceticacid"
+ETH402,EthacrynicAcid Epoxide,27223-10-5,"2-(2,3-Dichloro-4-(2-ethyloxirane-2-carbonyl)phenoxy)aceticacid Page28 Etoricoxib"
+ETR100,Etoricoxib,202409-33-4,"5-chloro-6'-methyl-3-(4-(methylsulfonyl)phenyl)-2,3'-bipyridine"
+ETR301,EtoricoxibUSPRelatedCompoundA,10297-73-1,4-(Methylsulfonyl)acetophenone;1-[4-(Methylsulfonyl)phenyl]ethanone
+ETR302,EtoricoxibUSPRelatedCompoundB,90536-66-6,2-(4-(methylsulfonyl)phenyl)aceticacid
+ETR401,EtoricoxibImpurityC,249561-98-6,N-(2-Chloro-3-(dimethylamino)allylidene)-N-methylmethanaminiumhexafluorophosphate(V)
+ETR402,EtoricoxibImpurityD,221615-75-4,1-(6-methylpyridin-3-yl)-2-(4-(methylsulfonyl)phenyl)ethan-1-one
+ETR403,EtoricoxibImpurity-F,325855-74-1,"EtoricoxibN1’-Oxide 5-Chloro-6'-methyl-3-[4-(methylsulfonyl)phenyl]-2,3'-bipyridine1'-Oxide"
+ETR404,EtoricoxibCDPTHsalt,NA,"2-chloro-1, 3-bis(piperidyl) trimethiniumhexafluorophosphate Febuxostat"
+FBX100,Febuxostat,144060-53-7,2-[3-Cyano-4-(2-methylpropoxy)phenyl]-4-methylthiazole-5-carboxylicacid
+FBX401,FebuxostatAmideImpurity,1239233-86-3,2-(3-Carbamoyl-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylicacid
+FBX402,FebuxostatDicarboxylicAcid Impurity,1239233-87-4,2-[3-Carboxy-4-(2-methylpropoxy)phenyl]-4-methyl-5-thiazolecarboxylicacid
+FBX403,FebuxostatEthyl Ester,160844-75-7,Ethyl2-(3-cyano-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylate
+FBX404,FebuxostatIsopropylEster,1346238-10-5,Isopropyl2-(3-cyano-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylate
+FBX405,FebuxostatMethylEster,923942-34-1,Methyl2-(3-cyano-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylate
+FBX406,FebuxostatImpurity2,161798-03-4,ethyl2-(3-formyl-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylate
+FBX407,FebuxostatImpurity8,144060-62-8,2-(3-formyl-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylicacid
+FBX408,FebuxostatButylEsterImpurity,1619982-02-3,butyl2-(3-cyano-4-isobutoxyphenyl)-4-methylthiazole-5-carboxylate
+FBX409,Page29,2476465-11-7,3-Descyano-3-ethoxycarbonylFebuxostat Felbamate FLB100 Felbamate 25451-15-4
+FLB301,FelbamateRelatedCompoundA,25451-53-0,3-hydroxy-2-phenylpropylcarbamate
+FLB302,FelbamateRelatedCompoundB,6326-19-8,phenethylcarbamate
+FLB401,FelbamateDimer,1796927-91-7,
+FLB402,"(carbonylbis(oxy))bis(2-phenylpropane-3,1-diyl)dicarbamate",1570-95-2,"2-Phenyl-1,3-propanediol"
+FLB403,4-HyrdroxyFelbamate,109482-28-2,"2-(4-Hydroxyphenyl)-1,3-propanediylDicarbamate"
+FND201,FenbendazoleimpurityA,10605-21-7,"Methyl1H-benzimidazol-2-ylcarbamate,FenbendazoleRelatedCompoundA Fenbendazole FND100 Fenbendazole Fenofibrate"
+FNB100,Fenofibrate,49562-28-9,Isopropyl2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoate
+FNB201,FenofibrateEPImpurityA,42019-78-3,FenofibrateUSP RelatedCompoundA;(4-Chlorophenyl)(4-hydroxyphenyl)methanone
+FNB202,FenofibrateEPImpurityB,42017-89-0,Fenofibrate USPRelated CompoundB ;Fenofibric Acid ;2- [4-(4-Chlorobenzoyl)phenoxy]-2-methylpropanoic acid
+FNB206,FenofibrateEPImpurityF,154356-96-4,(4-Chlorophenyl)[4-(1-methylethoxy)phenyl]methanone Page30
+FNB207,FenofibrateEPImpurityG,217636-48-1,FenofibrateUSP RelatedCompoundC; 1-Methylethyl2-[[2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoyl]oxy]-2-methylpropanoate Fenticonazole
+FNT100,FenticonazoleNitrate,73151-29-8,"1-(2-(2,4-dichlorophenyl)-2-((4-(phenylthio)benzyl)oxy)ethyl)-1H-imidazolenitrate"
+FNT201,FenticonazoleNitrateEPImpurityA,24155-42-8,"1-(2,4-dichlorophenyl)-2-(1H-imidazol-1-yl)ethan-1-ol"
+FNT202,FenticonazoleNitrateEPImpurityB,80639-95-8,"1-(2-(2,4-dichlorophenyl)-2-((4-(phenylsulfinyl)benzyl)oxy)ethyl) -1H-imidazolenitrate"
+FNT203,FenticonazoleNitrateEPImpurityC,80676-29-5,"1-(2-(2,4-dichlorophenyl)-2-((4-(phenylsulfonyl)benzyl)oxy)ethyl)-1H-imidazole"
+FNT204,FenticonazoleNitrateEPImpurityD,1313397-05-5,"3-(2-(2,4-dichlorophenyl)-2-hydroxyethyl)-1-(4-(phenylthio)benzyl)-1H-imidazol-3-iumnitrate"
+FNT205,FenticonazoleNitrateEPImpurityE,756429-44-4,"3-(2-(2,4-dichlorophenyl)-2-((4-(phenylthio)benzyl)oxy)ethyl)-1-(4- (phenylthio)benzyl)-1H-imidazol-3-iumHydrochloride"
+FNT501,4-phenylthiobenzyl chloride,1208-87-3,(4-(chloromethyl)phenyl)(phenyl)sulfane Fexofenadine
+FXN100,Fexofenadine,83799-24-0,(R)-2-(4-(1-hydroxy-4-(4-(hydroxydiphenylmethyl)piperidin-1-yl)butyl)phenyl)-2-methylpropanoicacid
+FXN201,FexofenadineEPImpurityA,76811-98-8,FexofenadineUSPrelatedcompoundA
+FXN203,FexofenadineEPImpurityC,185066-37-9,Decarboxylateddegradant
+FXN205,FexofenadineEPImpurityE,115-46-8,diphenyl(piperidin-4-yl)methanol
+FXN401,FexofenadineImpurity1,154477-54-0,methyl2-(4-(4-chlorobutanoyl)phenyl)-2-methylpropanoate Flecainide
+FLC100,Flecainideacetate,54143-56-5,"N-(piperidin-2-ylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)benzamideacetate"
+FLC202,FlecainideEPImpurityB,22990-77-8,(RS)-(piperidin-2-yl)methanamine Page31 Fluoxetine
+FLX100,Fluoxetine HCl,56296-78-7,N-Methyl-γ-[4-(trifluoromethyl)phenoxy]benzenepropanamineHydrochloride
+FLX201,FluoxetineEPImpurityA,42142-52-9,"α-[2-(Methylamino)ethyl]benzyl Alcohol, 3-(methylamino)-1-phenylpropan-1-ol"
+FLX202,FluoxetineEPImpurityB,23580-89-4,/30684-07-2 FluoxetineUSP RelatedCompoundB
+FLX203,FluoxetineEPImpurityC,56161-72-9,N-Methyl-3-phenyl-3-(3-(trifluoromethyl)phenoxy)propan-1-amine
+FLX301,FluoxetineRelatedCompoundA,79088-29-2,"N-Methyl-γ-[3-(trifluoromethyl)phenoxy]benzenepropanamineHydrochloride;N-Methyl-3-phenyl-3-[(α,α,α- trifluoro-m-tolyl)oxy]propylamineHydrochloride Fosfomycin"
+FSM100,FosfomycinTromethamine,78964-85-9,"2-amino-2-(hydroxymethyl)propane-1,3-diol((2R,3S)-3-methyloxiran-2-yl)phosphonate"
+FSM201,FosfomycinTrometamolEPImpurityA,84954-80-3,"1,2-dihydroxypropyl)phosphonic acid"
+FSM203,FosfomycinTrometamolEPImpurityC,23001-39-0,2-amino-3-hydroxy-2-(hydroxymethyl)propyldihydrogen phosphate Gabapentin
+GBP100,Gabapentin,60142-96-3,1-(Aminomethyl)cyclohexaneaceticacid
+GBP201,GabapentinEPImpurityA,64744-50-9,"Gabapentin USP Related Compound A ;Gabapentin Lactam ; 3-Azaspiro-[4,5]decan-3-one"
+GBP202,GabapentinEPImpurityB,133481-09-1,GabapentinUSPRelatedCompoundB;(1-Cyanocyclohexyl)aceticacid
+GBP205,GabapentinEPImpurityE,67950-95-2,GabapentinUSP RelatedCompoundE; GabapentinDiacid;1-(carboxymethyl)cyclohexanecarboxylicacid Gliclazide
+GLC100,Gliclazide,21187-98-4,1-(Hexahydrocyclopenta[c]pyrrol-2(1H)-yl)-3-[(4-methylphenyl)sulfonyl]urea
+GLC201,GliclazideEPImpurityA,70-55-3,GliclazideBPImpurityA;4-Methylbenzenesulfonamide Page32
+GLC202,GliclazideEPImpurityB,54786-86-6,GliclazideBPImpurityB;2-Nitroso-octahydrocyclopenta[c]pyrrole
+GLC203,GliclazideEPImpurityC,5577-13-9,GliclazideBPImpurityC;Ethyl[(4-methylphenyl)sulfonyl]-carbamate
+GLC204,GliclazideEPImpurityD,1136426-19-1,Gliclazide BP Impurity D ; N-[(4- Methylphenyl)sulfonyl]hexahydrocyclopenta[c]pyrrol-2(1H)-carboxamide
+GLC401,GliclazideImpurity1,58108-05-7,hexahydrocyclopenta[c]pyrrol-2(1H)-aminehydrochloride Glimepiride
+GLM100,Glimepiride,93479-97-1,1-[[p-[2-(3-Ethyl-4-methyl-2-oxo-3-pyrroline-1- carboxamido)ethyl]phenyl]sulfonyl]-3-(trans-4- methylcyclohexyl)urea
+GLM202,GlimepirideEPImpurityB,119018-29-0,USPGlimepirideRelatedCompound B;GlimepirideSulfonamide
+GLM203,GlimepirideEPImpurityC,119018-30-3,"GlimepirideEster,GLIMEPIRIDERELATEDCOMPOUNDC"
+GLM401,Sulfonyl-N-ethylcarbamicethylester,NA,"Ethyl ethyl((4-(2-(3-ethyl-4-methyl-2-oxo-2,5-dihydro-1H-pyrrole-1-carboxamido) ethyl)phenyl)sulfonyl)carbamate PhenylethylImpurity GLM401-AI 247098-18-6 3-Ethyl-4-methyl-2-oxo-N-phenethyl-2,5-dihydro-1H-pyrrole-1-carboxamide PhenylethylImpuriysulphonylchloride GLM401-AII 119043-16-2 4-[2-(3-Ethyl-4-methyl-2-carbonylpyrrolidine amido)ethyl]benzene sulfonyl chloride"
+GLM402,Sulfonyl-N-ethylglimepiride,NA,3-ethyl-N-[2-[4-[[ethyl[(trans-4-methylcyclohexyl)amino]carbonyl]amino]sulfonylphenyl]ethyl] Glipizide
+GLP100,Glipizide,9094-61-9,N-[2-[4[[[(Cyclohexylamino)carbonyl]amino]sulfonyl]phenyl]ethyl]- 5-methylpyrazinecarboxamide
+GLP201,GlipizideEPImpurityA,33288-71-0,GlipizideRelatedCompoundA; [2-(4-Sulphamoylphenyl) ethyl] 5-methyl-pyrazine-2-carboxamide
+GLP202,GlipizideEPImpurityB,108-91-8,cyclohexanamine Page33
+GLP207,GlipizideEPImpurityG,33288-74-3,methyl((4-(2-(5-methylpyrazine-2-carboxamido)ethyl)phenyl)sulfonyl)carbamate Guaifenesin
+GFN100,Guaifenesin,93-14-1,"RanolazineRelatedCompound 2 ;3-(2-methoxyphenoxy)propane-1,2-diol"
+GFN201,GuaifenesinEPImpurityA,90-05-1,2-methoxyphenol
+GFN203,GuaifenesinEPimpurityC,1797132-23-0,"1,7-Di(2-methoxyphenoxy)-2,6-dihydroxy-4-oxaheptane;3,3'-Oxybis(1-(2-methoxyphenoxy)propan-2-ol)"
+GFN204,GuaifenesinEPImpurityD,16929-60-5,"Dianisylglycerol ;1,3-bis(2-methoxyphenoxy)propan-2-ol"
+GFN401,GuaifenesinImpurity1,2210-74-4,2-((2-methoxyphenoxy)methyl)oxirane Guanine
+GNN100,Guanine,73-40-5,2-amino-9H-purin-6(1H)-one Haloperidol
+HLP100,Haloperidol,52-86-8,4-(4-(4-Chlorophenyl)-4-hydroxy-1-piperidinyl)-1-(4-fluorophenyl)-1-butanone
+HLP201,HaloperidolEPImpurityA,3109-12-4,1-(4-fluorophenyl)-4-(4-hydroxy-4-phenylpiperidin-1-yl)butan-1-one;Dechlorohaloperidol
+HLP202,HaloperidolEPImpurityB,1391052-53-1,HaloperidolRelatedCompoundB
+HLP204,HaloperidolEPImpurityD,67987-08-0,HaloperidolUSPRelatedCompoundA
+HLP208,HaloperidolEPImpurityH,148406-51-3,Haloperidol N-Oxide
+HLP401,HaloperidolImpurity8,3874-54-2,Chloro-fluoro-butyrophenone ; 4-chloro-1-(4-fluorophenyl)butan-1-one; 3-(4-Fluorophenylcarbonyl)-1- chloropropane
+HLP402,HaloperidolImpurity9,39512-49-7,4-(4-chlorophenyl)-4-hydroxypiperidine; Chlorophenyl hydroxypiperidine
+HLP403,trans-HaloperidolN-Oxide,150214-93-0,4-[trans-4-(4-Chlorophenyl)-4-hydroxy-1-oxido-1-piperidinyl]-1-(4-fluorophenyl)-1-butanone
+HLP404,cis-HaloperidolN-Oxide,150214-94-1,4-[cis-4-(4-Chlorophenyl)-4-hydroxy-1-oxido-1-piperidinyl]-1-(4-fluorophenyl)-1-butanone Page34 Hydralazine
+HYR401,HydralazineImpurity-A,253-52-1,Phthalazine Hydrochlorothiazide
+HYD100,Hydrochlorothiazide,58-93-5,"6-Chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide HydrochlorothiazideEPImpurityA HYD201 DATE 3,4-DehydroHydrochlorothiazide;Chlorothiazide"
+HYD202,HydrochlorothiazideEPImpurityB,121-30-2,HydrochlorothiazideUSPRelatedCompoundA
+HYX100,HydroxychloroquineSulfate,747-36-4,2-[[4-[(7-Chloro-4-quinolinyl)amino]pentyl]ethylamino]ethanolSulfate
+HYX207,HydroxychloroquineEPImpurityG,86-98-6,"4,7-Dichlrorquinoline Ibuprofen"
+IBP100,Ibuprofen,15687-27-1,(2RS)-2-(4-isobutylphenyl)propanoicacid
+IBP202,IbuprofenEPImpurityB,3585-49-7,(2RS)-2-(4-butylphenyl)propanoicacid
+IBP205,IbuprofenEPImpurityE,38861-78-8,IbuprofenUSP RelatedCompoundC; 1-(4-isobutylphenyl)ethan-1-one;1-[4-(2-methylpropyl)phenyl]ethanone
+IBP401,IbuprofenEthylEster,41283-72-1,2-(4-Isobutylphenyl)propionicacidethylester
+IBP210,IbuprofenEPImpurityJ,65813-55-0,IbuprofenEPImpurityJ;(2RS)-2-(4-Isobutyrylphenyl)propanoicacid Iguratimod Iguratimod IGR100 123663-49-0 N-(7-(Methylsulfonamido)-4-oxo-6-phenoxy-4H-chromen-3-yl)formamide Iopamidol
+IPM201,IopamidolimpuirtyA,60166-98-5,"5-amino-N,N'-bis[2-hydroxy-1-(hydroxymethyl)ethyl]-2,4,6-triiodobenzene-1,3-dicarboxamide,"
+IPM202,IopamidolimpuirtyB,77868-41-8,"5-[(hydroxyacetyl)amino]-N,N'-bis[2-hydroxy-1-(hydroxymethyl)ethyl]-2,4,6-triiodobenzene-1,3- dicarboxamide, IopamidolimpuirtyC IPM203 5-(acetylamino)-N,N'-bis[2-hydroxy-1-(hydroxymethyl)ethyl]-2,4,6-triiodobenzene-1,3-dicarboxamide Page35"
+IPM303,IOPAMIDOLRELATEDCOMPOUNDC,NA,"4-Chloro-N1,N3-bis(1,3-dihydroxypropan-2-yl)-5-(S)-lactamido-2,6-diiodoisophthalamide. Irbesartan"
+IRB100,Irbesartan,138402-11-6,"2-Butyl-3-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]-1,3-diazaspiro[4.4]non-1-en-4-one"
+IRB201,IrbesartanEPImpurityA,748812-53-5,IrbesartanUSP RelatedCompoundA
+IRB401,IrbesartanLactamImpurity,151257-01-1,"2-Butyl-1,3-diazaspiro[4.4]non-1-en-4-oneHydrochloride"
+IRB402,IrbesartanBromoNitrileImpurity,114772-54-2,4'-(Bromomethyl)biphenyl-2-carbonitrile
+IRB403,IrbesartanDibromomethylImpurity,209911-63-7,4'-(Dibromomethyl)biphenyl-2-carbonitrile
+IRB404,IrbesartanHydroxyImpurity,160514-13-6,CandesartanHydroxyImpurity;p-(o-1H-Tetrazol-5-ylphenyl)benzylalcohol
+IRB405,IrbesartanImpurity1,154709-19-0,2-[4-(Hydroxymethyl)phenyl]benzonitrile;4-(Hydroxymethyl)-2'-cyanobiphenyl Isosorbide
+ISR100,isosorbide,652-67-5,"1,4:3,6-Dianhydro-D-glucitol"
+ISR201,IsosorbideMononitrateEPImpurityA,87-33-2,IsosorbideDinitrate
+ISR202,IsosorbideMononitrateEPImpurityB,16051-77-7,"1,4:3,6-Dianhydro-D-glucitol5-Nitrate,Isosorbide5-Mononitrate Itraconazole"
+ITR100,Itraconazole,84625-61-6,"(±)-1-[(RS)-sec-butyl]-4-[p-[4-[p-[[(2R,4S)-rel-2-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3- dioxolan-4-yl]methoxy]phenyl]-1-piperazinyl]phenyl]-Δ2-1,2,4-triazolin-5-one Ivabradine"
+IVB100,IvabradineHydrochloride,148849-67-6,"(S)-3-(3-(((4,5-dimethoxy-1,2dihydrocyclobutabenzen1yl)methyl)(methyl)amino)propyl)-7,8-dimethoxy-4,5- dihydro-1Hbenzo[d]azepin-2(3H)-onehydrochloride"
+IVB401,IvabradineImpurity2,73942-87-7,"7,8-dimethoxy-1,3-dihydro-2H-benzo[d]azepin-2-one Page36"
+IVB402,IvabradinechloroImpurity,85175-59-3,"3-(3-chloropropy)-7,8-dimethoxy-1,3-dihydro-2H-benzo[d]azepin-2-one"
+IVB403,IvabradineIodoImpurity,148870-57-9,"3-(3-iodopropyl)-7,8-dimethoxy-1,3-dihydro-2H-benzo[d]azepin-2-one"
+IVB404,IvabradineImpurity1,85175-65-1,"3-(3-chloropropyl)-7,8-dimethoxy-1,3,4,5-tetrahydro-2H-benzo[d]azepin-2-one"
+IVB405,IvabradineImpurity3,109-70-6,1-bromo-3-chloropropane
+IVB406,IvabradineImpurity 14,NA,"3,3'-(propane-1,3-diyl)bis(7,8-dimethoxy-1,3,4,5-tetrahydro-2H-benzo[d]azepin-2-one)"
+IVB407,rac-Ivabradine,1796933-38-4,"3-(3-(((3,4-dimethoxybicyclo[4.2.0]octa-1,3,5-trien-7-yl)methyl)(methyl)amino)propyl)-7,8-dimethoxy-1,3,4,5- tetrahydro-2H-benzo[d]azepin-2-onehydrochloride"
+IVB408,IvabradineImpurity4,866783-13-3,"(S)-1-(3,4-Dimethoxybicyclo[4.2.0]octa-1,3,5-trien-7-yl)-N-methylmethanaminehydrochloride"
+IVB409,2-Oxo-Ivabradine,1616710-50-9,"(S)-3-(3-(((3,4-Dimethoxybicyclo[4.2.0]octa-1,3,5-trien-7-yl)methyl)(methyl)amino)propyl)-7,8-dimethoxy-4,5- dihydro-1H-benzo[d]azepine-1,2(3H)-dion Ketamine"
+KTM100,KetamineHydrochloride,1867-66-9,(2RS)-2-(2-Chlorophenyl)-2-(methylamino)cyclohexanonehydrochloride.
+KTM201,KetamineimpurityA,6740-87-0,1-[(2-Chlorophenyl)-(methylimino)methyl]cyclopentanol
+KTM202,ketamineEPImpurityB,1823362-29-3,(2RS)-2-(2-chlorophenyl)-2-hydroxycyclohexanone
+KTM203,ketamineEPImpurityC,90717-17-2,(2-chlorophenyl)(1-hydroxycyclopentyl)methanone
+KTM401,Ketamineimpurity1,6740-86-9,(1-Bromocyclopentyl)(2-chlorophenyl)methanone Ketoprofen
+KTP100,Ketoprofen,22071-15-4,2-(3-benzoylphenyl)propanoicacid
+KTP201,ketoprofenEPimpurityA,66067-44-5,KetoprofenRelatedCompoundD;1- (3-benzoylphenyl)ethan-1-one Page37
+KTP203,ketoprofenEPimpurityC,68432-95-1,"3-(1-carboxyethyl)benzoicacid, KetoprofenRelatedCompoundC"
+KTP204,ketoprofenEPimpurityD,107257-20-5,"2-(3-(4-methylbenzoyl)phenyl)propanoicacid, KetoprofenRelatedCompoundA"
+KTP205,ketoprofenEPimpurityE,59512-16-2,2-(3-benzoylphenyl)propanamide
+KTP206,ketoprofenEPimpurityF,42872-30-0,2-(3-benzoylphenyl)propanenitrile
+KTP207,ketoprofenEPimpurityG,5537-71-3,
+KTP208,3-(1-cyanoethyl)benzoicacid,5689-33-8,KetoprofenEPImpurityH Labetalol
+LBT100,Labetalol,32780-64-6,2-hydroxy-5-((S)-1-hydroxy-2-(((S)-4-phenylbutan-2- yl)amino)ethyl)benzamidehydrochloride
+LBT201,LabetalolEPImpurityA,1391051-99-2,2-Hydroxy-5-[1-hydroxy-2-[(1-methyl-3-phenylpropyl)amino]ethyl]benzoicAcid
+LBT202,LabetalolEPImpurityB,802620-01-5,/33778-93-7 methyl2-hydroxy-5-((S)-1-hydroxy-2-(((S)-4-phenylbutan-2-yl)amino)ethyl)benzoate
+LBT203,LabetalolEPImpurityC,NA,5-(2-(benzylamino)-1-hydroxyethyl)-2-hydroxybenzamide
+LBT204,LabetalolEPImpurityD,NA,5-[(1RS)-2-amino-1-hydroxyethyl]-2-hydroxybenzamide
+LBT207,LabetalolEPImpurityG,NA,3-bromo-2-hydroxy-5-[1-hydroxy-2-[(1-methyl-3-phenylpropyl)amino]ethyl]benzamide. Lacidipine
+LCD100,Lacidipine,3890-78-4,"Diethyl4-{o-[(E)-2-tert-butoxycarbonylethenyl]phenyl}-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate"
+LCD401,cisLacidipine,103890-79-5,"(Z)-4-[2-[3-(1,1-Dimethylethoxy)-3-oxo-1-propenyl]phenyl]-1,4-dihydro-2,6-dimethyl-3,5- pyridinedicarboxylicAcid Diethyl Ester Lacosamide Page38"
+LCS100,Lacosamide,175481-36-4,(2R)-2-(Acetylamino)-3-methoxy-N-(phenylmethyl)propanamide
+LCS201,LacosamideEPImpurityA,175481-37-5,(S)-2-(Acetylamino)-3-methoxy-N-(phenylmethyl)propanamide
+LCS202,LacosamideEPImpurityB,1318777-54-6,"LacosamideO-AcetylImpurity, LacosamideBPImpurityB"
+LCS203,LacosamideEPImpurityC,2742962-60-1,(R)-N-Benzyl-3-methoxy-2-(N-methylacetamido)propanamide
+LCS204,LacosamideEPImpurityD,196601-69-1,(2R)-2-Amino-3-methoxy-N-(phenylmethyl)-propanamide.BPImpurityD
+LCS205,LacosamideEPImpurityE,175481-39-7,"LacosamideBPImpurityE,DesacetyldesmethylLacosamide"
+LCS206,LacosamideEPImpurityF,175481-38-6,DesmethylLacosamide(HydroxyImp)
+LCS207,LacosamideEPImpurityG,588-46-5,"N-benzylacetamideLacosamide,N-(Phenylmethyl)-acetamide"
+LCS208,LacosamideEPImpurityH,NA,"USPDimer(R,Risomer)"
+LCS209,LacosamideEPImpurityI,2295925-90-3,(R)-N-benzyl-2-(3-benzylureido)-3-methoxypropanamide
+LCS210,LacosamideEPImpurityJ,100-46-9,phenylmethanamine
+LCS211,LacosamideEPImpurityK,86921-49-5,2-acetamido-N-benzylacrylamide
+LCS212,LacosamideEPImpurityL,388619-64-5,(R)-2-(Acetylamino)-3-methoxy-N-methyl-N-(phenylmethyl)-propanamide
+LCS401,N-Acetyl-O-methyl-D-serine,196601-67-9,N-Acetyl-O-methyl-D-serine;(R)-2-(Acetylamino)-3-methoxypropionicAcid
+LCS402,LacosamideImpurity1,NA,2-acetamido-3-methoxypropanamide
+LCS403,LacosamideImpurityC,1466-67-7,"1,3-Dibenzyl-urea;N,N'-Bis(phenylmethyl)urea"
+LCS404,2-Acetamido-N-benzyl-3-hydroxypropanamide,171623-02-2,2-Acetamido-N-benzyl-3-hydroxypropanamide
+LCS405,2-Amino-3-hydroxy-N-(phenylmethyl)-propanamide,NA,2-Amino-3-hydroxy-N-(phenylmethyl)-propanamide
+LCS301,LacosamideRelatedCompoundA,NA,(R)-tert-Butyl1-(Benzylamino)-3-methoxy-1-oxopropan-2-ylcarbamate. Page39 Lamotrigine LMT100 Lamotrigine
+LMT201,LamotrigineEPImpurityA,252186-78-0,"LamotrigineUSPRCC;3-Amino-6-(2,3-dichlorophenyl)-1,2,4-triazin-5(4H)-one"
+LMT205,LamotrigineEPImpurityE,50-45-3,
+LMT206,"LamotrigineRelatedCompoundB, 2,3-Dichlorobenzoicacid",252186-79-1,LamotrigineEPImpurityF
+LMT401,LamotrigineDiamideImpurity,1373393-59-9,LamotrigineRelatedCompoundD Lansoprazole
+LNS100,LansoprazoleSodium,NA,"2-[[3-Methyl-4-(2,2,2-trifluoroethoxy)pyridin-2-yl]methylsulfinyl]-1H-benzoimidazole"
+LNS201,LansoprazoleEPImpurityA,213476-12-1,LansoprazoleN-Oxide
+LNS202,LansoprazoleEPImpurityB,131926-99-3,"LansoprazoleUSPRelatedCompoundA;LansoprazoleSulfone,DexlansoprazoleSulfone"
+LNS203,LansoprazoleEPImpurityC,103577-40-8,/1288338-69-1 LansoprazoleUSPRelatedCompoundB;LansoprazoleSulfide
+LNS204,LansoprazoleEPImpurityD,615-16-7,1H-Benzimidazol-2-ol; 2-Hydroxybenzimidazole
+LNS205,LansoprazoleEPImpurityE,583-39-1,2-Mercaptobenzimidazole
+LNS401,LansoprazoleSulfideN-Oxide,163119-30-0,"2-[[[3-Methyl-4-(2,2,2-trifluoroethoxy)-2-pyridinyl]methyl]thio]-1H-benzimidazoleN-Oxide"
+LNS402,LansoprazoleSulfoneN-Oxide,953787-54-7,"2-[[[3-Methyl-1-oxido-4-(2,2,2-trifluoroethoxy)-2-pyridinyl]methyl]sulfonyl]-1H-benzimidazole Leflunomide"
+LFN100,Leflunomide,75706-12-6,5-methyl-N-(4-(trifluoromethyl)phenyl)isoxazole-4-carboxamide
+LFN201,LeflunomideEPImpurityA,455-14-1,LeflunomideUSPRCA;4-(trifluoromethyl)aniline Page40
+LFN202,LeflunomideEPImpurityB,163451-81-8,"LeflunomideUSPRCB; (Z)-2-cyano-3-hydroxy-N-(4-(trifluoromethyl)phenyl)but-2-enamide,Teriflunomide"
+LFN203,LeflunomideEPImpurityC,61643-23-0,LeflunomideUSPRCC; 5-methyl-N-(3-(trifluoromethyl)phenyl)isoxazole-4-carboxamide
+LFN204,LeflunomideEPImpurityD,42831-50-5,5-methylisoxazole-4-carboxylicacid
+LFN205,LeflunomideEPImpurityE,208401-20-1,3-methyl-N-(4-(trifluoromethyl)phenyl)isoxazole-4-carboxamide
+LFN206,LeflunomideEPImpurityF,1403564-06-6,5-methyl-N-(2-(trifluoromethyl)phenyl)isoxazole-4-carboxamide
+LFN207,LeflunomideEPImpurityG,724429-16-7,5-methyl-N-(p-tolyl)isoxazole-4-carboxamide
+LFN208,LeflunomideEPImpurityH,24522-30-3,2-cyano-N-(4-(trifluoromethyl)phenyl)acetamide
+LFN401,LeflunomideImpurity1,20328-15-8,ethyl3-methylisoxazole-4-carboxylate
+LFN402,LeflunomideImpurity2,17153-20-7,3-Methylisoxazole-4-carboxylicAcid
+LFN403,LeflunomideImpurity3,1011244-72-6,4-Amino-N-[4-(trifluoromethyl)phenyl]benzamide/TeriflunomideImpurity3 Lenalidomide
+LND100,Lenalidomide,191732-72-6,"3-(4-Amino-1,3-dihydro-1-oxo-2H-isoindol-2-yl)-2,6-piperidinedione Levocetirizine"
+LVC100,Levocetirizine,130018-77-8,(R)-2-(2-(4-((4-chlorophenyl)(phenyl)methyl)piperazin-1-yl)ethoxy)aceticacid
+LVC207,LevocetirizineEPImpurityG,109806-71-5,(RS)-2-[4-[(4-chlorophenyl)phenylmethyl]piperazin-1-yl]ethan-1-ol
+LVC401,LevocetirizineImpurity2,300543-56-0,"(R)-1-((4-chlorophenyl)(phenyl)methyl)piperazine,ChlorobenzhydrylPiperazine"
+LVC402,LevocetirizineImpurity1,1150310-68-1,LevocetirizineN-Benzylamide Levodopa
+LVD100,Levodopa,59-92-7,"(S)-2-amino-3-(3,4-dihydroxyphenyl)propanoicacid Page41"
+LVD201,LevodopaEPImpurityA,27244-64-0,"Levodopa USPRelated CompoundA ; (2S)-2-Amino-3-(2,4,5-trihydroxyphenyl)propanoic acid"
+LVD202,LevodopaEPImpurityB,60-18-4,L-tyrosine;(2S)-2-Amino-3-(4-hydroxyphenyl)propanoicacid
+LVD203,LevodopaEPImpurityC,7636-26-2,Levodopa USPRelated Compound B ;3-Methyl-DL-Dopa ; 3-Methoxy-DL-tyrosine
+LVD204,LevodopaEPImpurityD,5796-17-8,"(R)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid ;D-Dopa"
+LVD401,LevodopaImpurity1,32404-28-7,/32483-30-0 3-Acetyl-L-tyrosineHydrochloride
+LVD402,LevodopaImpurity2,55-59-4,"3,4-Dimethoxyphenylalanine;DL-3,4-Dimethoxyphenylalanine Levomefolate Levomefolate 151533-22-1/ LVM100 N-[4-[[[(6S)-2-Amino-3,4,5,6,7,8-hexahydro-5-methyl-4-oxo-6-pteridinyl]methyl]amino]benzoyl]-L- 31690-09-2 glutamicAcid Calcium Salt Lidocaine"
+LDC100,Lidocaine,137-58-6,"Anestacon;2-(Diethylamino)-N-(2,6-dimethylphenyl)acetamide"
+LDC201,LidocaineEPImpurityA,87-62-7,"BupivacaineEPImpurityF;LidocaineUSPImpurityA;2,6-Dimethylaniline"
+LDC202,LidocaineEPImpurityB,2903-45-9,LidocaineN-Oxide
+LDC203,LidocaineEPImpurityC,2198-53-0,
+LDC204,"N-(2,6-Dimethylphenyl)acetamide",7729-94-4,Lidocaine-ImpurityD(Hydrochloride)
+LDC205,LidocaineEPImpurityE,745798-07-6,LidocaineUSPImpurityE;LidocaineDimerImpurity
+LDC206,LidocaineEPImpurityF,857170-72-0,"/142713-08-4 Lidocaine2,3-DimethylAnalog"
+LDC207,LidocaineEPImpurityG,35891-87-3,"N-(2,6-dimethylphenyl)-2-((1-methylethyl)amino)acetamidehydrochloride"
+LDC208,LidocaineEPImpurityH,1131-01-7,"LidocaineUSPRelatedCompoundH;2-Chloro-N- (2,6-dimethylphenyl)acetamide"
+LDC209,LidocaineEPImpurityI,17289-54-2,"/17289-53-1 Lidocaine2,4-DimethylAnalog Page42"
+LDC210,LidocaineEPImpurityJ,1012864-23-1,/857570-37-7
+LDC401,"Lidocaine2,4-DimethylAnalog",17289-53-1,LidocaineImpurityIFree
+LDC402,LidocaineImpurity1,39084-88-3,"n-Dichloroacetyl-2,6-Xylidine,2,2-Dichloro-N-(2,6-dimethylphenyl)acetamide Linagliptin"
+LNG100,Linagliptin,668270-12-0,"(R)-8-(3-aminopiperidin-1-yl)-7-(but-2-yn-1-yl)-3-methyl-1-((4-methylquinazolin-2-yl)methyl)-3,7-dihydro-1H- purine-2,6-dione Lisinopril"
+LSN100,LisinoprilDihydrate,83915-83-7,(S)-1-[N2-(1-Carboxy-3-phenylpropyl)-L-lysyl]-L-prolineDihydrate
+LSN202,LisinoprilEPImpurity B,104-15-4,4-methylbenzenesulfonicacid
+LSN203,LisinoprilEPImpurity C,328385-86-0,"S,S,S-Diketopiperazine(lisinoprilrelatedcompoundA)"
+LSN204,LisinoprilEPImpurity D,219677-82-4,"R,S,S-Diketopiperazine lobeglitazone"
+LBG401,lobeglitazoneImpuirty1,607723-69-3,2-((6-(4-methoxyphenoxy)pyrimidin-4-yl)(methyl)amino)ethan-1-ol
+LBG402,lobeglitazoneImpuirty2,NA,4-(2-((6-(4-Methoxyphenoxy)pyrimidin-4-yl)(methyl)amino)ethoxy)benzaldehyde lohexol
+IOH301,lohexolRelatedCompoundA,31127-80-7,"(5-(Acetylamino)-N,N’-bis(2,3-dihydroxypropyl)-2,4,6-triiodo-1,3-benzenedicarboxamide)"
+IOH302,lohexolRelatedCompoundB,76801-93-9,"5-Amino-N1,N3-bis(2,3-dihydroxypropyl)-2,4,6-triiodoisophthalamide,"
+IOH303,lohexolRelatedCompoundC,76820-34-3,"(N,N’-Bis(2,3-dihydroxypropyl)-5-nitro-1,3-benzenedicarboxamide) Loperamide"
+LPR100,Loperamide,53179-11-6,"4-(4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl)-N,N-dimethyl-2,2-diphenylbutanamide Page43"
+LPR203,LoperamideEPImpurityC,39512-49-7,4-(4-chlorophenyl)piperidin-4-ol Loratadine
+LRT100,Loratadine,79794-75-5,"Ethyl4-(8-chloro-5,6-dihydro-11H-benzo[5,6]cyclohepta[1,2- b]pyridin-11-ylidene)-1-piperidinecarboxylate"
+LRT202,LoratadineEPImpurityB,31251-41-9,"Loratadine USP Related Compound C ; 8-Chloro-5,6-dihydro-11H- benzo[5.6]cyclohepta[1,2-b]pyridin-11-one"
+LRT204,LoratadineEPImpurityD,100643-71-8,Desloratadine;LoratadineUSPRelatedCompoundA
+LRT207,LoratadineEPImpurityG,38092-89-6,N-MethylDesloratadine;LoratadineUSPRelatedCompoundB
+LRZ302,Lorazepam,2958-36-3,LORAZEPAMRELATEDCOMPOUNDB Lornoxicam
+LRN100,Lornoxicam,70374-39-9,"6-Chloro-4-hydroxy-2-methyl-N-(pyridin-2-yl)-2H-thieno[2,3-e][1,2]thiazine-3-carboxamide1,1-dioxide Losartan"
+LSR100,LosartanBase,114798-26-4,"2-Butyl-4-chloro-1-[[2'-(1H-tetrazol-5-yl)[1,1'-biphenyl]-4-yl]methyl]-1H-imidazole-5-methanol"
+LSR101,LosartanPotassium,124750-99-8,"2-Butyl-4-chloro-1-[[2'-(1H-tetrazol-5-yl)[1,1'-biphenyl]-4-yl]methyl]-1H-imidazole-5- methanolmonopotassiumsalt"
+LSR201,LosartanEPImpurityA,79047-41-9,
+LSR204,2-Butyl-4-chloro-1H-imidazole-5-methanol,83857-96-9,LosartanEPImpurityD
+LSR211,LosartanEPImpurityK,114798-36-6,Losartan USP RC C ; Losartan Aldehyde ; 2-Butyl-4-chloro-1-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]imidazole-5- formaldehyde Lurasidone
+LRS100,Lurasidone,367514-87-2,"(3aR,4S,7R,7aS)-2-(((1R,2R)-2-((4-(benzo[d]isothiazol-3-yl)piperazin-1- yl)methyl)cyclohexyl)methyl)hexahydro-1H-4,7-methanoisoindole-1,3(2H)-dione Page44"
+LRS401,Lurasidone Sulfoxide,1809325-45-8,LurasidoneDP4-IMPURITY
+LRS402,Lurasidone Sulfone,1644295-09-9,/1807607-99-3 LURASIDONEDP5-IMPURITY Lurasidone Enantiomer
+LRS403,"(3aR,4S,7R,7aS)-2-{(1S,2S)-2-[4-(1,2-Benzisothiazol-3-yl)piperazin-1-yl methyl] cyclohexylmethyl}hexahydro-",1448443-35-3,"4,7-methano-2H-isoindole-1,3-dione Hydrochloride;(3aR,4S,7R,7aS)-2-(((1S,2S)-2-((4-(Benzo[d]isothiazol-3- yl)piperazin-1-yl)methyl)cyclohexyl)methyl)hexahydro-1H-4,7-methanoisoindole-1,3(2H)- dioneHydrochloride LurasidoneNoxide"
+LRS404,"(3aR,4S,7R,7aS)-2-[[(1R,2R)-2-[[4-(1,2-Benzisothiazol-3-yl)-1-oxido-1-",1574569-32-6,"piperazinyl]methyl]cyclohexyl]methyl]hexahydro-4,7-methano-1H-isoindole-1,3(2H)- dione;LurasidonePiperazineN-Oxide"
+LRS405,Lurasidone amine,1260138-03-1,"N-[1R,2R-(2-Methylamino)cyclohex-1-yl)methyl]-N’-(1,2-benzisothiazol-3-yl)piperazine"
+LRS406,Lurasidonedimer impurity,2518442-98-1,"(1R,2R)-1,2-bis((4-(benzo[d]isothiazol-3-yl)piperazin-1-yl)methyl)cyclohexane"
+LRS407,Lurasidoneimpurity1,186204-37-5,"(3aR,7aR)-4'-(benzo[d]isothiazol-3-yl)octahydrospiro[isoindole-2,1'-piperazin]-2-iummethanesulfonate"
+LRS408,Lurasidoneimpurity2,186204-35-3,"(1R,2R)-1,2-bis(methane sulfonyloxymethyl)Cyclohexane Mefenamic"
+MFN100,acid,61-68-7,Mefenamicacid
+MFN201,MFN100 61-68-7 Mefenamicacid,87-59-2,MefenamicacidEPimpurityA
+MFN203,MFN201 87-59-2 MefenamicacidEPimpurityA,118-91-2,MefenamicacidEPimpurityC
+MFN204,MFN203 118-91-2 MefenamicacidEPimpurityC,65-85-0,MefenamicacidEPimpurityD Melantonin
+MLT100,Melantonin,73-31-4,N-(2-(5-methoxy-1H-indol-3-yl)ethyl)acetamide
+MLT301,MelantoninUSPRelatedCompoundA,608-07-1,2-(5-methoxy-1H-indol-3-yl)ethan-1-amine Page45
+MLR100,Melitracen,10563-70-9,Melitracenhydrochloride Meloxicam
+MLX100,Meloxicam,71125-38-7,"4-hydroxy-2-methyl-N-(5-methylthiazol-2-yl)-2H-benzo[e][1,2]thiazine- 3-carboxamide1,1-dioxide"
+MLX201,MeloxicamEPImpurityA,24683-26-9,"MeloxicamUSP RelatedCompoundA; ethyl4-hydroxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate1,1-dioxide"
+MLX202,MeloxicamEPImpurityB,7305-71-7,MeloxicamUSP RelatedCompoundB;5-methylthiazol-2-amine
+MLX203,MeloxicamEPImpurityC,1262333-25-4,"Methyl-meloxicamc USP, N-[(2Z)-3,5-dimethylthiazol-2(3H)-ylidene]-4-hydroxy-2-methyl-2H-1,2- benzothiazine-3-carboxamide1,1-dioxide"
+MLX204,MeloxicamEPImpurityD,1331636-17-9,"Meloxicam USP RC D; N-[(2Z)-3-ethyl-5-methylthiazol-2(3H)-ylidene]-4-hydroxy-2-methyl-2H-1,2- benzothiazine-3-carboxamide1,1-dioxide"
+MLX205,MeloxicamEPImpurityE,35511-15-0,"methyl4-hydroxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate1,1-dioxide"
+MLX206,MeloxicamEPImpurityF,118854-48-1,"MeloxicamUSP RelatedCompoundC; isopropyl4-hydroxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate1,1-dioxide Memantine"
+MNT100,MemantineHCl,41100-52-1,"3,5-Dimethyltricyclo[3.3.1.13,7]decan-1-aminehydrochloride"
+MNT301,MemantineRelatedCompoundA,702-79-4,"(1r,3r,5s,7s)-1,3-dimethyladamantane"
+MNT302,MemantineRelatedCompoundB,707-37-9,"(1r,3R,5S,7r)-3,5-dimethyladamantan-1-ol"
+MNT303,MemantineRelatedCompoundC,707-36-8,"(1r,3R,5S,7r)-1-chloro-3,5-dimethyladamantane"
+MNT304,MemantineRelatedCompoundD,941-37-7,"(1r,3R,5S,7r)-1-bromo-3,5-dimethyladamantane"
+MNT305,MemantineRelatedCompoundE,351329-88-9,"N-((1r,3R,5S,7r)-3,5-dimethyladamantan-1-yl)formamide Page46"
+MNT401,Acetyl memantine,19982-07-1,"N-((1r,3R,5S,7r)-3,5-dimethyladamantan-1-yl)acetamide"
+MNT402,1-Amino-3-MethyladmantaneHCl,33103-93-4,"(1s,3s,5R,7S)-3-methyladamantan-1-aminehydrochloride Mesalazine"
+MSL100,Mesalazine,89-57-6,5-Amino-2-hydroxybenzoicacid.;Mesalamine
+MSL201,MesalazineEPImpurityA,123-30-8,"4-aminophenol, MesalamineEP ImpurityA"
+MSL202,MesalazineEPImpurityB,591-27-5,"3-aminophenol, MesalamineEP ImpurityB"
+MSL203,MesalazineEPImpurityC,95-55-6,2-aminophenol.;MesalamineEP ImpurityC
+MSL204,MesalazineEPImpurityD,99-05-8,3-aminobenzoicacid.;MesalamineEP impurityD
+MSL205,MesalazineEPImpurityE,65-49-6,4-amino-2-hydroxybenzoic acid (4-aminosalicylic acid).;Mesalamine EP Impurity E
+MSL206,MesalazineEPImpurityF,570-23-0,3-amino-2-hydroxybenzoic acid (3-aminosalicylic acid).;Mesalamine EP Impurity F
+MSL207,MesalazineEPImpurityG,490-79-9,"2,5-dihydroxybenzoicacid.;MesalamineEpImpurityG"
+MSL208,MesalazineEPImpurityH,69-72-7,2-hydroxybenzoicacid(salicylicacid).;MesalamineEPImpurityH
+MSL209,MesalazineEPImpurityI,3147-53-3,2-hydroxy-5-(phenyldiazenyl)benzoic acid (phenylazosalicylic acid).;Mesalamine EP Impurity I
+MSL210,MesalazineEPImpurityJ,112725-89-0,"3,5-diamino-2-hydroxybenzoicacid(3,5-diaminosalicylicacid).;MesalamineEP ImpurityJ"
+MSL211,MesalazineEPImpurityK,142-04-1,anilinehydrochloride
+MSL212,MesalazineEPImpurityL,118-91-2,2-chlorobenzoicacid.;MesalamineEPImpurityL
+MSL213,MesalazineEPImpurityM,2516-96-3,"2-chloro-5-nitrobenzoicacid,.;MesalamineEP ImpurityM"
+MSL214,MesalazineEPImpurityN,96-97-9,2-hydroxy-5-nitrobenzoic acid (5-nitrosalicylic acid). ;Mesalamine EP Impurity N Page47
+MSL215,MesalazineEPImpurityO,121-57-3,4-aminobenzenesulfonicacid(sulfanilicacid).;MesalamineEPImpurityO
+MSL217,MesalazineEPImpurityQ,3970-35-2,2-chloro-3-nitrobenzoicacid.;MesalamineEPImpurityQ
+MSL218,MesalazineEPImpurityR,85-38-1,2-hydroxy-3-nitrobenzoic acid (3-nitrosalicylic acid). ;Mesalamine EP Impurity R Metamizole
+MTZ100,MetamizoleSodiumMonohydrate,5907-38-0,"Methanesulfonicacid,[(2,3-dihydro-1,5-dimethyl-3-oxo-2-phenyl-1H-pyrazol-4-yl)methylamino]"
+MTZ201,MetamizoleEPImpurityA,1672-58-8,"4-(formylamino)-1,5-dimethyl-2-phenyl-2,3-dihydro-1H-pyrazol-3-one;4-FormylaminoAntipyrine"
+MTZ202,MetamizoleEPImpurityB,83-07-8,"4-Aminophenazone;4-amino-1,5-dimethyl-2-phenyl-2,3-dihydro-1H-pyrazol-3-one;4-Aminophenazone 519-98-2/856307-27-2(Hcl MetamizoleEPImpurityC MTZ203 salt) 1,5-dimethyl-4-(methylamino)-2-phenyl-2,3-dihydro-1H-pyrazol-3-one;4-MethylaminoAntipyrine"
+MTZ204,MetamizoleEPImpurityD,58-15-1,"4-(dimethylamino)-1,5-dimethyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-one;4-DimethylaminoAntipyrine"
+MTZ205,Metamizole EPImpurityE,117-38-4,"/129-89-5 DipironeImpurityE;((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)methanesulfonicacid"
+MTF100,Metformin,1115-70-4,MetforminHCl
+MTF201,MetforminEPImpurityA,461-58-5,MetforminUSPRCA;1-Cyanoguanidine
+MTF203,MetforminEPImpurityB,2959-04-0,"8 Guanylmelamine HCl;(4,6-Diamino-1,3,5-triazin-2-yl)guanidine HCl"
+MTF204,MetforminEPImpurityD,108-78-1,"Melamine;1,3,5-Triazine-2,4,6-triamine"
+MTF205,MetforminEPImpurityE,1609-00-3,/1674-62-0 N-Methyl-imidodicarbonimidicDiamideHCl Methyltestoste rone
+MTS100,Methyltestosterone,58-18-4,17-Hydroxy-17-methyl-3-keto-androstene-4 Page48 Metolazone
+MTL100,Metolazone,17560-51-9,"7-Chloro-1,2,3,4-tetrahydro-2-methyl-3-(2-methylphenyl)-4-oxo-6-quinazolinesulfonamide"
+MTL201,MetolazoneEPImpurityA,50869-25-5,MetolazoneUSPRCC;meta-Metolazone
+MTL202,MetolazoneEPImpurityB,28508-63-6,"MetolazoneUSPRCD; MetolazoneEPImpurityC MTL203 MetolazoneUSPRCA;Desmethylmetolazone; 7-Chloro-1,2,3,4-tetrahydro-2-methyl-4-oxo-3-phenyl-6-quinazolinesulfonamide"
+MTL204,MetolazoneEPImpurityD,4015-23-0,MetolazoneUSPRCE;Didehydrometolazone
+MTL205,MetolazoneEPImpurityE,23380-54-3,MetolazoneUSPRCB;Metolazonebenzamideanalog
+MTP100,Metoprolol,98418-47-4,MetoprololSuccinate
+MTP201,MetoprololEPImpurityA,109632-08-8,MetoprololUSP RelatedCompoundA
+MTP202,MetoprololEPImpurityB,56718-71-9,4-(2-Methoxyethyl)phenol
+MTP203,MetoprololEPImpurityC,29122-74-5,MetoprololUSP RelatedCompoundC; 4-[(2RS)-2-Hydroxy-3-[(1-methylethyl)amino]propoxy]benzaldehyde
+MTP204,MetoprololEPImpurityD,62572-90-1,"(2RS)-3-[4-(2-Methoxyethyl)phenoxy]propane-1,2-diol"
+MTP206,MetoprololEPImpurityF,7695-63-8,(2RS)-1-[(1-Methylethyl)amino]-3-phenoxypropan-2-ol
+MTP207,MetoprololEP ImpurityG,501-94-0,2-(4-Hydroxyphenyl)ethanol
+MTP215,MetoprololEPImpurityO,1486464-40-7,"Metoprolol USP Related Compound D ; 1,1-[(1-Methylethyl)imino]bis[3-[4-(2-methoxyethyl)phenoxy] propan2-ol]Hydrochloride"
+MTP302,MetoprololUSPRelatedCompoundB,56718-76-4,(+/-)1-Chloro-2-hydroxy-3-[4-(2-methoxyethyl)phenoxy]-propane Metronidazole Page49
+MTR100,Metronidazole,443-48-1,2-(2-methyl-5-nitro-1H-imidazol-1-yl)ethan-1-ol
+MTR201,MetronidazoleEPimpurityA,696-23-1,2-methyl-5-nitro-1H-imidazole
+MTR202,MetronidazoleEPimpurityB,3034-38-6,4-nitro-1H-imidazole
+MTR203,MetronidazoleEPimpurityC,5006-69-9,2-(4-nitro-1H-imidazol-1-yl)ethan-1-ol
+MTR204,MetronidazoleEPimpurityD,5006-68-8,2-(5-nitro-1H-imidazol-1-yl)ethan-1-ol
+MTR205,MetronidazoleEPImpurityE,705-19-1,2-(2-Methyl-4-nitro-1H-imidazol-1-yl)ethan-1-ol
+MTR206,MetronidazoleEPImpurityF,16156-94-8,2-(2-(2-methyl-5-nitro-1H-imidazol-1-yl)ethoxy)ethan-1-ol
+MTR207,MetronidazoleEPimpurityG,1010-93-1,2-(2-methyl-5-nitro-1H-imidazol-1-yl)aceticacid Milnacipran
+MLN100,Milnacipran,92623-85-3,
+MLN401,"(1S,5R)-1-phenyl-3-oxabicyclo[3.1.0]hexan-2-one",63106-93-4,1-Phenyl-3-oxabicyclo[3.1.0]hexan-2-one Mirabegron
+MRB100,Mirabegron,223673-61-8,2-Amino-N-[4-[2-[[(2R)-2-hydroxy-2-phenylethyl]amino]ethyl]phenyl]-4-thiazoleacetamide
+MRB401,MirabegronImpurityA,29676-71-9,2-(2-aminothiazol-4-yl)acetic acid
+MRB402,MirabegronImpurityB,1684453-05-1,2-OxoMirabegron MIRABEGRONIMPURITYMRBRC4 MRB403 (R)-2-(2-Aminothiazol-4-yl)-N-(4-(2-((2-hydroxy-2-phenyethyl)(methyl)amino)ethyl)phenyl)acetamide MirabegronEPImpurityG/MirabegronStage-1Impurity RB 207/ MRB40 521284-19-5 (R)-2-hydroxy-N-(4-nitrophenethyl)-2-phenylacetamide MirabegronEPImpurityF/MirabegronStage-2Impurity MRB206/ MRB40 223673-34-5 (R)-2-((4-Nitrophenethyl)amino)-1-phenylethan-1-ol
+MRB406/MRB20,MirabegronEPImpurityB/MirabegronStage-3Impurity,391901-45-4,/521284-22-0 (R)-2-((4-Aminophenethyl)amino)-1-phenylethan-1-ol/MirabegronImpurityC MirabegronEPImpurityC/MirabegronDeshydroxyImpurity MRB407/203 1581284-82-3/1581284-79-8 2-(2-Aminothiazol-4-yl)-N-(4-(2-(phenethylamino)ethyl)phenyl)acetamide
+MRB201,MirabegronEPImpurityA,1796931-48-0,MirabegronEnantiomer Page50
+MRB409,MirabegronImpurity2/MirabegronEPImpurityD,2489747-26-2,(R)-2-(2-Aminothiazol-4-yl)-N-(4-(2-((4-(2-((2-hydroxy-2-phenylethyl)amino)ethyl)phenyl)amino)-2- oxoethyl)thiazol-2-yl)acetamide
+MRB410,MirabegronImpurity3,2036283-13-1,2-(2-(2-(2-Aminothiazol-4-yl)acetamido)thiazol-4-yl)aceticacid
+MRB411,MirabegronImpurity4,1684452-83-2,(R)-2-(2-Aminothiazol-4-yl)-N-(4-(2-(2-aminothiazol-4-yl)acetamido)phenethyl)-N-(2-hydroxy-2- phenylethyl)acetamide
+MRB205,MirabegronEPImpurityE,29968-78-3,/24954-67-4
+MRB209,2-(4-Nitrophenyl)ethanamineHydrochloride,1892-57-5,Mirabegron-ImpurityI (Freebase)
+MRB501,MRB209 1892-57-5 Mirabegron-ImpurityI (Freebase),53266-94-7,MirabegronImpurityI
+MRB502,MRB501 53266-94-7 MirabegronImpurityI,1603-91-4,MirabegronImpurityII
+MRB503,MRB502 1603-91-4 MirabegronImpurityII,1310279-36-7,MirabegronImpurityIII
+MRB504,MirabegronImpurityIV,1154949-80-0,"2-Phenylethanamine,N-(4-nitrophenethyl);[2-(4-Nitrophenyl)ethyl](2-phenylethyl)amine Montelukast"
+MNK100,Montelukast/MontelukastSodium,158966-92-8,/151767-02-1 (R-(E))-1-(((1-(3-(2-(7-Chloro-2-quinolinyl)ethenyl)phenyl)-3-(2-(1-hydroxy-1- methylethyl)phenyl)propyl)thio)methyl)cyclopropaneaceticacid
+MNK202,MontelukastEPImpurityB,918972-54-0,Montelukast USP RelatedCompoundF;MontelukastMethylstyrene;AnhydroMontelukast
+MNK203,MontelukastEPImpurityC,909849-96-3,
+MNK401,Montelukast USP RelatedCompoundA;Montelukast Sulfoxide,959235-68-8,Montelukast(3RS)-HydroxyPropanol
+MNK402,MNK401 959235-68-8 Montelukast(3RS)-HydroxyPropanol,2125943-58-8,MontelukastEPImpurityD/E
+MNK403,MNK402 2125943-58-8 MontelukastEPImpurityD/E,184764-13-4,MontelukastKSM-IKetoimpurity Moxifloxacin
+MXF100,MoxifloxacinHCl,186826-86-8,"1-Cyclopropyl-6-fluoro-8-methoxy-7-[(4aS,7aS)-octahydro-6H-pyrrolo[3,4-b]pyridin-6-yl]-4-oxo-1,4- dihydroquinoline-3-carboxylic acid hydrochloride"
+MXF201,MoxifloxacinEPImpurityA,151213-15-9,MoxifloxacinUSPRC A;8-Desmethoxy-8-Fluoro Moxifloxacin; MoxifloxacinDifluoro Analog; MycophenolateMofetil Page51 MycophenolateMofetil
+MCP100,6-[(7-Hydroxy-5-methoxy-4-methyl-1-oxo-3H-isobenzofuran-6-yl)]-4-methyl-hex-4-enoic acid 2-,128794-94-5,"morpholinoethyl ester ; 2-(Morpholin-4-yl)ethyl (4E)-6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-1,3- dihydroisobenzofuran-5-yl)-4-methylhex-4-enoate"
+MCP205,MycophenolateMofetilEPImpurityE,31858-66-9,MycophenolicAcidMethylEster
+MCP206,MycophenolateMofetilEPImpurityF,24280-93-1,MycophenolicAcid Nabumetone
+NBM201,NabumetoneEPImpurityA,343272-52-6,3-(6-methoxynaphthalen-2-yl)-5-methylcyclohexanone
+NBM202,NabumetoneEPImpurityB,343272-51-5,(5RS)-5-(6-methoxynaphthalen-2-yl)-3-methylcyclohex-2-enone
+NBM203,NabumetoneEPImpurityC,65726-24-1,(2RS)-4-(6-methoxynaphthalen-2-yl)butan-2-ol
+NBM204,NabumetoneEPImpurityD,127053-22-9,USP RelatedCompoundA;DehydroNabumetone
+NBM206,NabumetoneEPImpurityF,29619-45-2,"6,6'-dimethoxy-2,2'-binaphthalenyl"
+NBM401,NabumetoneImpurity1,218768-11-7,(3Z)-4-Hydroxy-4-(6-methoxy-2-naphthalenyl)-3-buten-2-one Naproxen
+NPR100,Naproxen,22204-53-1,(S)-6-Methoxy-α-methyl-2-naphthaleneaceticAcid;Diocodal ;d-2-(6-Methoxy-2-naphthyl)propionicAcid
+NPR205,NaproxenEPImpurityE,26159-35-3,Methyl(2S)-2-(6-methoxynaphthalen-2-yl)propanoate
+NPR212,NaproxenEPImpurityL,3900-45-6,1-(6-methoxynaphthalen-2-yl)ethan-1-one
+NPR214,NaproxenEPImpurityN,5111-65-9,2-Bromo-6-methoxynaphthalene
+NPR215,NaproxenEPImpurityO,2471-70-7,NaproxenUSP RelatedCompoundA;NaproxenCarboxylicImpurity;6-Methoxy-2-naphthoicacid Nateglinide
+NTG100,Nateglinide,105816-04-4,
+NTG206,(2R)-2-({[trans-4-(1-methylethyl)cyclohexyl]carbonyl}amino)-3-phenylpropanoic acid,944746-48-9,NATEGLINIDEIMPURITY-F
+NTG207,NTG206 944746-48-9 NATEGLINIDEIMPURITY-F,187728-85-4,Nateglinideethylester NTG401 105746-45- 0 NateglinideImpurity1 Nebivolol Page52
+NBV100,Nebivololhydrochloride,152520-56-4,"α,α’-[Iminobis(methylene)]bis[6-fluoro-3,4-dihydro-2H-1-benzopyran-2-methanol];α,α’- (Iminodimethylene)bis[6-fluoro-2-chromanmethanol]Hydrochloride"
+NBV401,N-FormylNebivolol,NA,
+NBV402,"N,N-bis(2-(6-fluorochroman-2-yl)-2-hydroxyethyl)formamide",1391051-68-5,"N,N-bis(2-(6-fluorochroman-2-yl)-2-hydroxyethyl)nitrousamide"
+NFP100,Nefopam,13669-70-0,"3,4,5,6-Tetrahydro-5-methyl-1-phenyl-1H-2,5-benzoxazocine"
+NFP401,NefopamImpurity1,85-52-9,2-Benzoylbenzoicacid
+NFP402,"Nefamide,NefopamImpurity2",24833-47-4,2-Benzoyl-N-(2-hydroxyethyl)-N-methylbenzamide
+NFP403,"NefopamImpurityA,NefopamImpurity3",60725-36-2,2-((2-(Hydroxy(phenyl)methyl)benzyl)(methyl)amino)ethan-1-ol Nicorandil
+NCR100,Nicorandil,65141-46-0,2-[(Pyridin-3-ylcarbonyl)amino]ethylnitrate
+NCR201,NicorandilEPImpurityA,65141-47-1,2-(isonicotinamido)ethylnitrate;2-[(pyridin-4-ylcarbonyl)amino]ethylnitrate
+NFD201,NifedipineEPimpurityA,67035-22-7,"dimethyl 2,6-dimethyl-4-(2-nitrophenyl)pyridine-3,5-dicarboxylate(nitrophenylpyridineanalogue) Nifedipine"
+NFD100,Nifedipine,21829-25-4,"3,5-dimethyl2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"
+NFD202,NifedipineEPimpurityB,50428-14-3,"Nifedipine nitrosophenylpyridine analog ; Dimethyl 4-(2-nitrosophenyl)-2,6-dimethylpyridine-3,5- dicarboxylate"
+NFD203,NifedipineEPimpurityC,111304-31-5,methyl2-(2-nitrobenzylidene)-3-oxobutanoate
+OCT100,Octenidinedihydrochloride,70775-75-6,"/71251-02-0 N,N′-(decane-1,10-diyldi-1(4H)-pyridyl-4-ylidene)bis(octylammonium)dichloride Olanzapine"
+OLN100,Olanzapine,132539-06-1,"2-Methyl-4-(4-methyl-1-piperazinyl)-10H-thieno[2,3-b][1,5]benzodiazepine"
+OLN201,OlanzapineEPImpurityA,138564-59-7,Olanzapine USPRCA; 5-methyl-2-((2-nitrophenyl)amino)thiophene-3-carbonitrile Page53
+OLN401,OlanzapineAminoImpurity,873895-41-1,2-(2-Aminoanilino)-5-methylthiophene-3-carbonitrile
+OLN402,2-Amino-5-methyl-3-thiophenecarbonitrile,138564-58-6,2-Amino-5-methyl-3-thiophenecarbonitrile Olmesartan
+OLM100,OlmesartanMedoxomil,144689-63-4,"(5-Methyl-2-oxo-2H-1,3-dioxol-4-yl)methyl4-(2-hydroxypropan-2-yl)-2-propyl-1-({4-[2-(2H-1,2,3,4-tetrazol-5- yl)phenyl]phenyl}methyl)-1H-imidazole-5-carboxylate"
+OLM201,OlmesartanEPImpurityA,144689-24-7,OlmesartanAcid
+OLM202,OlmesartanEPImpurityB,849206-43-5,OlmesartanUSPRCA;Olmesartangama-Lactone;OlmesartanLactone
+OLM203,OlmesartanEPImpurityC,879562-26-2,DehydroOlmesartanMedoxomil;AnhydroOlmesartanMedoxomil;OlmesartanMedoxomilOlefinicImpurity(U SP)
+OLM204,OlmesartanEPImpurityD,1020157-01-0,N2-TritylOlmesartanMedoxomil
+OLM401,OlmesartanEthylEster,144689-23-6,"4-(2-Hydroxypropan-2-yl)-2-propyl-1-({4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl}methyl)-1H-imidazole-5- carboxylic acid ethyl ester"
+OLM402,OlmesartanImidazoleDiacidImpurity,58954-23-7,"2-Propyl-1H-imidazole-4,5-dicarboxylicacid"
+OLM403,OlmesartanImidazoleDiethylEsterImpurity,144689-94-1,"2-Propyl-1H-imidazole-4,5-dicarboxylicaciddiethylester"
+OLM404,OlmesartanImidazoleEthylEsterImpurity,144689-93-0,Ethyl4-(1-hydroxy-1-methylethyl)-2-propyl-imidazole-5-carboxylate
+OLM405,OlmesartanMedoxomilMethylEther,896419-17-3,
+OLM406,Olmesartan MedoxomilO-MethylAnalog,NA,OlmesartanMethylEtherwithTrityl
+OLM407,OlmesartanMethylKetone,1227626-45-0,OlmesartanAcetylAnalog
+OLM408,OlmesartanAnhydroAcid,172875-98-8,"OlmesartanMethylvinylAcid;OlmesartanOlefinicAcid,OlmesartanDehydro"
+OLM409,OlmesartanAnhydroAcidEthyl Ester,172875-87-5,OlmesartanOlefinicAcidEthylEster
+OLM410,OlmesartanMedoxomilEthylMethyl Analog,1378863-74-1,"4-(1-Hydroxy-1-methylpropyl)-2-propyl-1-[[2’-(2H-tetrazol-5-yl)[1,1’-biphenyl]-4-yl]methyl]-1H-imidazole-5- carboxylicAcid(5-Methyl-2-oxo-1,3-dioxol-4-yl)methyl Ester"
+OLM411,OlmesartanImpurity(N-(Triphenylmethyl),124750-51-2,"1H-Tetrazole,5-[4'-(bromomethyl)[1,1'-biphenyl]-2-yl]-1-(triphenylmethyl) Page54"
+OLM412,N1-TritylOlmesartanMedoxomil,144690-92-6,"4-(1-Hydroxy-1-methylethyl)-2-propyl-1-[[2’-[1-(triphenylmethyl)-1H-tetrazol-5-yl][1,1’-biphenyl]-4-yl]methyl]- 1H-Imidazole-5-carboxylic Acid (5-Methyl-2-oxo-1,3-dioxol-4-yl)Methyl Ester OlmesartanEthyl EsterTrityl Impurity"
+OLM413,"1H-Imidazole-5-carboxylic acid, 4-(1-hydroxy-1-methylethyl)-2-propyl-1-[[2'-[1-(triphenylmethyl)-1H-tetrazol-",144690-33-5,"5-yl][1,1'-biphenyl]-4-yl]methyl]-,ethylester'Ethyl4-(1-hydroxy-1-methylethyl)-2-propyl-1-[4-[2- (trityltetrazol-5-yl)phenyl]phenyl]methylimidazole-5-carboxylateTritylolmesartan ethyl ester"
+OLM1414,OlmesartanMedoxomilImpurity5,80841-78-7,"(5-Methyl-2-oxo-1,3-dioxol-4-yl)methylChloride;4-Chloromethyl-5-methyl-2-oxo-1,3-dioxole"
+OLM415,OlmesartanImpurity3,172875-53-5,ethyl4-(2-hydroxybutan-2-yl)-2-propyl-1H-imidazole-5-carboxylate
+OLM416,OlmesartanImpurity4,1443544-27-1,"4,5-bis(chloromethyl)-1,3-dioxol-2-one"
+OLM417,OlmesartanImpurity6,144690-07-3,ethyl4-acetyl-2-propyl-1H-imidazole-5-carboxylate
+OLM418,OlmesartanImpurity7,157356-73-5,ethyl4-(prop-1-en-2-yl)-2-propyl-1H-imidazole-5-carboxylate OlmesartanDimerEster
+OLM419,"4-(1-Hydroxy-1-methylethyl)-2-propyl-1-[[2'-(2H-tetrazol-5-yl)[1,1'-biphenyl]-4-yl]methyl]-1H-imidazole-5-",1040250-19-8,"carboxylic acid1-[5-carboxy-2-propyl-1-[[2'-(2H-tetrazol-5-yl) [1,1'-biphenyl]-4-yl]methyl]-1H-imidazol-4-yl]-1- methylethylester"
+OLP303,OLOPATADINERELATEDCOMPOUNDC,55453-87-7,"2-(11-Oxo-6,11-dihydrodibenzo[b,e]oxepin-2-yl)aceticacid, Omeprazole"
+OMP100,Omeprazole,510-70-6,"(Nasalt)&73590-58 Sodium 5-methoxy-2-[(RS)-[(4-methoxy-3,5-dimethylpyridin-2-yl)methyl] sulphinyl]-1H- benzimidazolemonohydrate"
+OMP201,OmeprazoleEPImpurityA,37052-78-1,EsomeprazoleEP ImpurityA;5-Methoxy-1H-benzimidazole-2-thiol
+OMP203,OmeprazoleEPImpurityC,73590-85-9,EsomeprazoleEPImpurityC;OmeprazoleSulfide
+OMP204,OmeprazoleEPImpurityD,88546-55-8,"Omeprazolesulphone;EsomeprazoleUSP RelatedCompoundAOmeprazoleRelatedCompoundA,"
+OMP205,OmeprazoleEPImpurityE,176219-04-8,"OmeprazoleUSPRCE;EsomeprazoleEPImpurityE;OmeprazoleN-Oxide OmeprazoleImpurityFandG Mixture OMP206-207 125656-82-8/125656-83-9 8(9)-Methoxy-1,3-dimethyl-12-thioxopyrido[1’,2’:3,4]imidazo[1,2-a]benzimidazol-2-(12H)-one(Mixtureof Regioisomers);OmeprazoleRelatedCompound F&G (US"
+OMP209,OmeprazoleEPImpurityI,158812-85-2,OmeprazoleUSPRCI
+OMP401,OmeprazoleEPImpurity1,86604-75-3,"2-Chloromethyl-3,5-dimethyl-4-methoxypyridineHCl Page55"
+OMP402,OmeprazoleEPImpurity2,89352-76-1,Mixtureof N-Methyl 5-Methoxy&N-Methyl 6-MethoxyAnalog Ondansetron
+OND100,OndansetronHydrocloride,103639-04-9,"9-methyl-3-((2-methyl-1H-imidazol-1-yl)methyl)-1,2,3,9-tetrahydro -4H-carbazol-4-one hydrochloridedihydrate OndansetronEPImpurityA 153139-56-1/ OND201 Ondansetron Related Compound A,3-((dimethylamino)methyl)-9-methyl-1,2,3,9-tetrahydro-4H-carbazol-4- 119812-29-2 one"
+OND203,OndansetronEPImpurityC,27387-31-1,"OndansetronRelatedCompoundC, 9-methyl-1,2,3,9-tetrahydro-4H-carbazol-4-one"
+OND204,OndansetronEPImpurityD,99614-64-9,"RelatedcompoundD,9-methyl-3-methylene-1,2,3,9-tetrahydro-4H-carbazol-4-one OND 288-32-4 OndansetronEPImpurityE"
+OND206,OndansetronEPImpurityF,693-98-1,2-methyl-1H-imidazole
+OND207,OndansetronEPImpurityG,99614-03-6,"3-((1H-imidazol-1-yl)methyl)-9-methyl-1,2,3,9-tetrahydro-4H-carbazol-4-one"
+OND208,OndansetronEPImpurityH,99614-14-9,"3-((2-methyl-1H-imidazol-1-yl)methyl)-1,2,3,9-tetrahydro-4H-carbazol-4-one"
+OCP100,OXACEPROL,33996-33-7,"(2S,4R)-1-acetyl-4-hydroxypyrrolidine-2-carboxylicacid Oxcarbazepine"
+OXC100,Oxcarbazepine,28721-07-5,"10-oxo-10,11-dihydro-5H-dibenzo[b,f]azepine-5-carboxamide"
+OXC201,OxcarbazepineEPImpurityA,298-46-4,"5H-dibenzo[b,f]azepine-5-carboxamide"
+OXC203,OxcarbazepineEPImpurityC,21737-58-6,"OxcarbazepineRelated CompoundE; 5,11-dihydro-10H-dibenzo[b,f]azepin-10-one"
+OXC205,OxcarbazepineEPImpurityE,256-96-2,"5H-dibenzo[b,f]azepine,Iminostilbene Oxybendazole"
+OXY100,Oxybendazole,20559-55-1,(5-Propoxy-1H-benzimidazol-2-yl)carbamicAcidMethylEster Ozanimod
+OZN100,Ozanimod,1306760-87-1,"(S)-5-(3-(1-((2-hydroxyethyl)amino)-2,3-dihydro-1H-inden-4-yl)-1,2,4-oxadiazol-5-yl)-2- isopropoxybenzonitrileHydrochloride Page56"
+OZN401,OzanimodKetoneImpurity,2251699-84-8,"2-Isopropoxy-5-(3-(1-oxo-2,3-dihydro-1H-inden-4-yl)-1,2,4-oxadiazol-5-yl)benzonitrile"
+OZN402,OzanimodAlcoholImpurity,1201447-05-3,"5-(3-(1-hydroxy-2,3-dihydro-1H-inden-4-yl)-1,2,4-oxadiazol-5-yl)-2-isopropoxybenzonitrile OzanimodR Isomer OZN403 (R)-5-(3-(1-((2-hydroxyethyl)amino)-2,3-dihydro-1H-inden-4-yl)-1,2,4-oxadiazol-5-yl)-2- isopropoxybenzonitrilehydrochloride OzanimodImpurity1 OZN501 tert-butyl(1R)-4-(5-(3-cyano-4-isopropoxyphenyl)-1,2,4-oxadiazol-3-yl)-2,3-dihydro-1H-inden-1-ylcarbamate Pantoprazole"
+PNT100,Pantoprazole,102625-70-7,"5-(difluoromethoxy)-2-(((3,4-dimethoxypyridin-2-yl)methyl)sulfinyl)-1H-benzo[d]imidazole"
+PNT201,PantoprazoleEPImpurityA,127780-16-9,"Pantoprazole Related Compound A ; 6-(difluoromethoxy)-2-(((3,4-dimethoxypyridin-2-yl)methyl)sulfonyl)-1H- benzo[d]imidazole"
+PNT202,PantoprazoleEPImpurityB,102625-64-9,"Pantoprazole Related Compound B ; 5-(difluoromethoxy)-2-(((3,4-dimethoxypyridin-2-yl)methyl)thio)-1H- benzo[d]imidazole"
+PNT203,PantoprazoleEPImpurityC,97963-62-7,"Pantoprazole RelatedCompound C ; 5-(difluoromethoxy)-1H-benzo[d]imidazole-2-thiol PantoprazoleRelatedCompoundDandF PNT304-305 NA 5-(difluoromethoxy)-2-(((3,4-dimethoxypyridin-2-yl)methyl)sulfinyl)-1-methyl-1H-benzo[d]imidazole"
+PNT401,PantoprazoleChloroImpurity,72830-09-2,
+PNT402,"2-(chloromethyl)-3,4-dimethoxypyridinehydrochloride",953787-60-5,"2-(((6-(difluoromethoxy)-1H-benzo[d]imidazol-2-yl)sulfinyl)methyl)-3,4-dimethoxypyridine1-oxide"
+PNT403,PantoprazoleSulfoneN-Oxide,953787-55-8,"2-(((5-(difluoromethoxy)-1H-benzo[d]imidazol-2-yl)sulfonyl)methyl)-3,4-dimethoxypyridine1-oxide Papaverine"
+PVR100,Papaverinehydrochloride,61-25-6,"1-(3,4-Dimethoxybenzyl)-6,7-dimethoxyisoquinolinehydrochloride"
+PRB100,Methylparaben,99-76-3,methyl 4-hydroxybenzoate
+PRB401,ButylparabenImpurityE,4247-02-3,isobutyl4-hydroxybenzoate
+PRB402,Propylparaben,94-13-3,propyl 4-hydroxybenzoate Paracetamol
+PRC100,Paracetamol,103-90-2,N-(4-hydroxyphenyl)acetamide Page57
+PRC201,ParacetamolEPImpurityA,614-80-2,"AcetaminophenRelatedCompound C,N-(2-hydroxyphenyl)acetamide"
+PRC202,ParacetamolEPImpurityB,1693-37-4,"AcetaminophenRelatedCompound B,N-(4-hydroxyphenyl)propionamide"
+PRC203,ParacetamolEPImpurityC,3964-54-3,N-(3-chloro-4-hydroxyphenyl)acetamide
+PRC204,ParacetamolEPImpurityD,103-84-4,"AcetaminophenRelatedCompound D,N-phenylacetamide"
+PRC205,ParacetamolEPImpurityE,99-93-4,1-(4-hydroxyphenyl)ethanone
+PRC206,ParacetamolEPImpurityF,100-02-7,4-nitrophenol
+PRC207,ParacetamolEPImpurityG,198712-64-0,(E)-1-(4-hydroxyphenyl)ethanoneoxime
+PRC208,ParacetamolEPImpurityH,2623-33-8,4-acetamidophenylacetate
+PRC209,ParacetamolEPImpurityI,118-93-4,1-(2-hydroxyphenyl)ethan-1-one
+PRC210,ParacetamolEPImpurityJ,539-03-7,"AcetaminophenRelatedCompound J, N-(4-chlorophenyl)acetamide"
+PRC211,ParacetamolEPImpurityK,123-30-8,4-aminophenol Parbendazole
+PRN100,Parbendazole,14255-87-9,"Methyl(5-butyl-1H-benzoimidazol-2-yl)carbamate,Methyl5(6)-butyl-2-benzimidazolecarbamate"
+PNC100,Penicillin,87-08-1,"PenicillinV,Phenoxymethylpenicillinicacid"
+PNC202,PhenoxymethylpenicillinEPImpurityB,122-59-8,Glycolicacidphenylether;2-phenoxyaceticacid
+PNC401,6-AminopenicillanicAcid,551-16-6,"(2S,5R,6R)-6-amino-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane- 2-carboxylicacid Pheniramine"
+PHR100,PheniramineMaleate,132-20-7,"N,N-Dimethyl-3-phenyl-3-(pyridin-2-yl)propan-1-aminemaleate"
+PHR401,PheniramineImpurity1,NA,2-phenyl-4-(dimethylamino)-2-(pyridin-2-yl)butanenitrile
+PHR402,PheniramineImpurity2,5005-36-7,phenyl(pyridin-2-yl)acetonitrile Phenylephrine
+PHN100,Phenylephrine HCl,61-76-7,(αR)-3-Hydroxy-α-[(methylamino)methyl]benzenemethanolHydrochloride
+PHN203,PhenylephrineEPImpurityC,52093-42-2,/94240-17-2 PhenylephrineUSP RelatedCompound C;1-(3-hydroxyphenyl)-2-(methylamino)ethanone;phenylephrone Page58
+PHN204,PhenylephrineEPImpurityD,1367567-95-0,/71786-67-9 Phenylephrine USP Related Compound D ; (1R)-2-(benzylmethylamino)-1-(3-hydroxyphenyl)ethanol ;benzylphenylephrine
+PHN205,PhenylephrineEPImpurityE,56917-44-3,Phenylephrine Related Compound E ; 2-(benzylmethylamino)-1-(3-hydroxyphenyl)ethanone ;benzylphenylephrone
+PHN401,Norphenylephrine,4779-94-6,"DL-NorphenylephrineHydrochloride,PHENYLEPHRINEHClIMPURITYA Phenytoin"
+PHY100,PhenytoinSodium,630-93-3,"5,5-diphenylimidazolidine-2,4-dione Pioglitazone"
+PGL100,Pioglitazonehydrochloride,112529-15-4,"(RS)-5-(4-[2-(5-Ethylpyridin-2-yl)ethoxy]benzyl)thiazolidine-2,4-dionehydrochloride"
+PGL201,PioglitazoneEPimpurityA,625853-74-9,5-HydroxyPioglitazoneImpurity;Pioglitazone5-HydroxyMetabolite
+PGL202,PioglitazoneEPimpurityB,136401-69-9,"/144809-28-9 DidehydroPioglitazoneImpurity;5-{4-[2-(5-Ethyl-2-pyridinyl)ethoxy]benzylidene}-2,4-thiazolidinedione"
+PGL203,PioglitazoneEPimpurityC,952188-00-0,PioglitazoneUSPRCC;N-AlkylPioglitazone
+PGL401,PioglitazoneAldehydeImpurity,114393-97-4,PioglitazoneBenzaldehydeImpurity
+PGL402,PioglitazoneM1 Metabolite,74772-78-4,"5-(4-Hydroxybenzyl)-1,3-thiazolidine-2,4-dione"
+PGL403,PioglitazoneN-Oxide,145350-09-0,"5-[[4-[2-(5-Ethyl-2-pyridinyl]ethoxy]phenyl]methyl]-2,4-thiazolidinedioneN-oxide"
+PGL404,Pioglitazoneimpurity1,2295-31-0,"thiazolidine-2,4-dione"
+PGL405,Pioglitazoneimpurity2,5223-06-3,2-(5-Ethylpyridin-2-yl)ethanol
+PGL406,Pioglitazoneimpurity,103788-60-9,"5-(4-Hydroxybenzylidene)thiazolidine-2,4-dione Pirfenidone"
+PRF100,Pirfenidone,53179-13-8,5-methyl-1-phenylpyridin-2(1H)-one
+PRF201,PirfenidoneEPImpurityA,1603-41-4,5-methylpyridin-2-amine
+PRF202,PirfenidoneEPImpurityB,1003-68-5,5-methylpyridin-2(1H)-one
+PRF203,PirfenidoneEPImpurityC,108-95-2,phenol
+PRF204,PirfenidoneEPImpurityD,108-86-1,Bromobenzene Piroxicam Page59
+PRX100,Piroxicam,36322-90-4,"4-hydroxy-2-methyl-N-(pyridin-2-yl)-2H-benzo[e][1,2]thiazine-3-carboxamide1,1-dioxide"
+PRX201,PiroxicamEPImpurityA,504-29-0,"pyridin-2-amine,PiroxicamRelatedCompoundA"
+PRX204,PiroxicamEPImpurityD,6639-62-9,"Methyl(1,1-dioxido-3-oxo-1,2-benzisothiazol-2(3H)-yl)acetate,Piroxicam RelatedCompoundD"
+PRX205,PiroxicamEPImpurityE,24683-20-3,"Ethyl(1,1-dioxido-3-oxo-1,2-benzisothiazol-2(3H)-yl)acetate"
+PRX206,PiroxicamEPImpurityF,76508-37-7,"1-Methylethyl(1,1-dioxido-3-oxo-1,2-benzisothiazol-2(3H)-yl)acetate"
+PRX207,PiroxicamEPImpurityG,35511-14-9,"Methyl 4-hydroxy-2H-1,2-benzothiazine-3-carboxylate1,1-dioxide,Piroxicame RelatedCompound G"
+PRX210,PiroxicamEPImpurityJ,35511-15-0,"Methyl 4-hydroxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate 1,1-dioxide, Piroxicame Related CompoundJ"
+PRX211,PiroxicamEPImpurityK,24683-26-9,"Ethyl4-hydroxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate1,1-dioxide"
+PRX212,PiroxicamEPImpurityL,118854-48-1,"1-methylethyl4-hydroxy-2-methyl-2H-1,2-benzothiazine-3-carboxylate1,1-dioxide Pramipexole PRM100 Pramipexole"
+PRM401,(R)-N-DespropylPramipexole,106092-11-9,"(R)-4,5,6,7-Tetrahydro-benzothiazole-2,6-diamine Prasugrel"
+PRS100,Prasugrel Hydrochloride,389574-19-0,"5-(2-cyclopropyl-1-(2-fluorophenyl)-2-oxoethyl)-4,5,6,7-tetrahydrothieno[3,2-c]pyridin-2- ylacetatehydrochloride"
+PRS204,PrasugrelEPImpurityD,150322-38-6,PrasugrelThiolactone;PrasugrelUSPRelatedCompoundD
+PRS207,PrasugrelEPImpurityG,1391054-37-7,"PrasugrelDiketone ;1-cyclopropyl-2-(2-fluorophenyl)ethane-1,2-dione"
+PRS209,PrasugrelEPImpurityI,150322-73-9,1-cyclopropyl-2-(2-fluorophenyl)ethan-1-one
+PRS401,PrasugrelHClDesacetyloxyImpurity,201049-78-7,"1-cyclopropyl-2-(6,7-dihydrothieno[3,2-c]pyridin-5(4H)-yl)-2-(2-fluorophenyl)ethan-1-onehydrochloride"
+PRS402,PrasugrelBromobutyrylImpurity,1373350-59-4,"5-(5-bromo-1-(2-fluorophenyl)-2-oxopentyl)-4,5,6,7-tetrahydrothieno[3,2-c]pyridin-2-ylacetate"
+PRS403,PrasugrelHydroxyThiolactone,947502-66-1,"Desacetyl hydroxyprasugrel ; 5-(2-cyclopropyl-1-(2-fluorophenyl)-2-oxoethyl)-7a-hydroxy-5,6,7,7a- tetrahydrothieno[3,2-c]pyridin-2(4H)-one Page60"
+PRS404,PrasugrelImpurity7,115473-15-9,"5,6,7,7a-tetrahydrothieno[3,2-c]pyridin-2(4H)-onehydrochloride"
+PRS405,PrasugrelImpurity9,1100905-45-0,1-cyclopropyl-2-(2-fluorophenyl)-2-hydroxyethan-1-one
+PRS406,PrasugrelImpurity12,204205-33-4,2-bromo-1-cyclopropyl-2-(2-fluorophenyl)ethan-1-one
+PRS407,PrasugrelImpurityofKSM-ll,2091625-61-3,
+PRS408,"2,2-dibromo-1-cyclopropyl-2-(2-fluorophenyl)ethanone",134770-09-5,BROMO(2-FLUROPHENYL)ACETICACID
+PRD100,Prednisolone,50-24-8,Prednisolone Pregabalin
+PRG100,Pregabalin,148553-50-8,(S)-3-(Aminomethyl)-5-methylhexanoic acid
+PRG201,PregabalinEPImpurityA,181289-23-6,(4S)-4-(2-Methylpropyl)pyrrolidin-2-one
+PRG202,PregabalinEPImpurityB,148553-51-9,USP PregabalinRelatedCompoundA;(R)-3-(aminomethyl)-5-methylhexanoicacid
+PRG203,PregabalinEPImpurityC,90-64-2,"2-hydroxy-2-phenylaceticacid,(Mandelicacid)"
+PRG204,PregabalinEPImpurityD,4118-51-8,1-Methylethyl(2RS)-2-hydroxy-2-phenylacetate
+PRG401,PregabalinLactamImpurity,61312-87-6,"4-isobutylpyrrolidin-2-one,PregabalinrelatedcompoundC"
+PRG402,PregabalinImpurity1/PregabalinImpurityB,75143-89-4,(3-IsobutylglutaricAcid);3-isobutylpentanedioicacid
+PRG403,PregabalinImpurity2,181289-33-8,Isobutyl-glutamonoamide(R)-3-(2-amino-2-oxoethyl)-5-methylhexanoicacid
+PRG404,PregabalinImpurity3,181289-15-6,3-(2-amino-2-oxoethyl)-5-methylhexanoicacid Progesterone PRT100 Progesterone PRT202 ProgesteroneEPImpurityB PRT203 ProgesteroneEPImpurityC Propofol
+PFL100,Propofol,2078-54-8,"2,6-diisopropylphenol"
+PFL203,PropofolEP ImpurityC,88-69-7,2-(1-methylethyl)phenol
+PFL205,PropofolEP ImpurityE,2416-95-7,"3,3′,5,5′-tetrakis(1-methylethyl)biphenyl-4,4′-diol,PropofolUSPRelatedCompoundA Page61"
+PFL206,PropofolEP ImpurityF,618-45-1,3-Isopropylphenol
+PFL207,PropofolEP ImpurityG,141214-18-8,"2-(1-methylethoxy)-1,3-bis(1-methylethyl)benzene,PropofolUSPRelated CompoundC"
+PFL208,PropofolEP ImpurityH,99-89-8,4-(1-methylethyl)phenol
+PFL209,PropofolEP ImpurityI,101-84-8,oxydibenzene
+PFL210,PropofolEP ImpurityJ,1988-11-0,"PropofolRelatedCompoundB,2,6-bis(1-methylethyl)benzene-1,4-dione"
+PFL211,PropofolEP ImpurityK,14366-59-7,"Isopropyl2-IsopropylphenylEther,o-CumenylIsopropylEther"
+PFL214,PropofolEP ImpurityN,13423-73-9,"4-hydroxy-3,5-bis(1-methylethyl)benzoicacid Propranolol"
+PRP201,PropranololEPImpurityA/PropranololRelatedCompoundA,36112-95-5,"3-(naphthalen-1-yloxy)propane-1,2-diol"
+PRP202,PropranololEPImpurityB/PropranololDimer,2172495-51-9,"/83314-78-7 3,3'-(isopropylazanediyl)bis(1-(naphthalen-1-yloxy)propan-2-ol)"
+PRP203,PropranololEPImpurityC,17216-10-3,"1,3-bis(naphthalen-1-yloxy)propan-2-ol"
+PRP401,2-[(1-Naphthalenyloxy)methyl]oxirane,2461-42-9,2-[(1-Naphthalenyloxy)methyl]oxirane Prucalopride
+PRL100,PrucaloprideSuccinate,179474-85-2,"4-amino-5-chloro-N-(1-(3-methoxypropyl)piperidin-4-yl)-2,3 -dihydrobenzofuran-7-carboxamidesuccinate"
+PRL404,PrucaloprideimpurityD,182808-04-4,"Methyl4-amino-5chloro-2,3dihydrobenzofuran7-carboxylate"
+PRL405,PrucaloprideimpurityE,137211-63-3,"Ethyl4-(4-amino-5-chloro-2,3-dihydrobenzofuran-7-carboxamido)piperidine-1-carboxylate"
+PRL406,PrucaloprideImpurity1,123654-26-2,"4-Amino-5-chloro-2,3-dihydrobenzofuran-7-carboxylicacid"
+PRL407,PrucaloprideImpurity2,1599434-55-5,"4-Amino-5-chloro-N-(1-(3-hydroxypropyl)piperidin-4-yl)-2,3-dihydrobenzofuran-7-carboxamide"
+PRL401,PrucaloprideimpurityA,137211-64-4,"4-amino-5-chloro2,3-dihydro-N(piperidin4-yl)benzofuran-7carboxamideTFA Salt"
+PRL402,PrucaloprideimpurityB,182808-16-8,"4-amino-5-chloro-2,3dihydro-1-benzofuran7-carboxamide"
+PRL403,PrucaloprideimpurityC,1900715-98-1,"PrucaloprideN-Oxide;4-(4-amino-5-chloro-2,3-dihydrobenzofuran -7-carboxamido)-1-(3-methoxypropyl)piperidine1-oxide"
+PLG100,Pulegone,89-82-7,Pulegone Page62 Quetiapine
+QTP100,QuetiapineFumarate,111974-72-2,"2-[2-(4-dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]ethanolhemifumarate"
+QTP201,QuetiapineEPImpurityA,844639-07-2,"2-[2-(4-Dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]-ethylacetate"
+QTP202,QuetiapineEPImpurityB,111974-74-4,"QuetiapineUSP RelatedCompoundB;Dibenzo[b,f][1,4]thiazepine-11-yl-piperazinedihydrochloride"
+QTP204,QuetiapineEPImpurityD,945668-94-0,QuetiapineDimerImpurity;QuetiapineBis(dibenzothiazepinyl)piperazineImpurity(USP)
+QTP207,QuetiapineEPImpurityG,3159-07-7,"Quetiapine USPRelated CompoundG ; Dibenzo[b,f][1,4]thiazepine-11(10-H)-one"
+QTP208,QuetiapineEPImpurityH,1076199-40-0,"QuetiapineN-Oxide ; 2-[2-(4-Dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]ethanolN-oxide"
+QTP209,QuetiapineEPImpurityI,329218-14-6,/329216-67-3 QuetiapineDesethoxyImpurity(USP);QuetiapineAlcoholImpurity
+QTP216,QuetiapineEPImpurityPHClSalt,NA,"QuetiapineN-Ethyl Impurity,11-(4-Ethylpiperazin-1-yl)dibenzo[b,f][1,4]thiazepinehydrochloride"
+QTP217,QuetiapineEPImpurityQ,NA,"4-(Dibenzo[b,f][1,4]thiazepin-11-yl)-1,1-bis(2-(2-hydroxyethoxy)ethyl)piperazin-1-iumIodide"
+QTP401,QuetiapineDBTCImpurity,13745-86-3,"Dibenzo[b,f][1,4]thiazepine-11-yl-chloride;11-Chloro-dibenzo[b,f][1,4]thiazepine"
+QTP402,QuetiapineDBTPN-MethylImpurity,1977-09-9,"11-(4-Methylpiperazin-1-yl)-dibenzo[b,f][1,4]thiazepine"
+QTP403,QuetiapineEthylEther,1011758-06-7,"2-[2-(4-dibenzo[b,f][1,4]thiazepin-11-yl-1-piperazinyl)ethoxy]-1-ethylethanol Rabeprazole"
+RBP100,RabeprazoleSodium,117976-90-6,Sodium2-[[4-(3-methoxypropoxy)-3-methyl-pyridin-2-yl]methylsulfinyl]benzoimidazole
+RBP201,RabeprazoleEPImpurityA,117976-47-3,RabeprazoleUSP RelatedCompoundD;RabeprazoleSulfone
+RBP202,RabeprazoleEPImpurityB,117977-21-6,RabeprazoleUSPRelatedCompoundE;RabeprazoleSulfide
+RBP204,RabeprazoleEPImpurityD,924663-38-7,"RabeprazoleUSPRelatedCompoundB,RabeprazoleN-Oxide"
+RBP206,RabeprazoleEPImpurityF,583-39-1,RabeprazoleUSPRelatedCompoundC;LansoprazoleEPImpurityE
+RBP209,RabeprazoleEPImpurityI,924663-37-6,RabeprazoleSulfoneN-Oxide
+RBP211,RabeprazoleEPImpurityK,615-16-7,LansoprazoleEPImpurityD;2-Hydroxybenzimidazole
+RBP401,RabeprazoleSulfideN-Oxide,924663-40-1,RabeprazoleSulfideN-Oxide; Page63
+RBP402,Rabeprazole2-ChloromethylImpurity,153259-31-5,2-Chloromethyl-3-methyl-4-(3-methoxypropoxy)pyridinehydrochloride Raloxifene
+RLX201,RaloxifeneEPImpurityA,1159977-58-8,7-[4-(2-Piperidinyl)ethoxy]benzoylRaloxifene
+RLX202,RaloxifeneEPImpurityB,1391054-73-1,RaloxifeneIsomer;3-Des[4-(2-Piperidinyl)ethoxy]benzoyl-7-[4-(2-Piperidinyl)ethoxy]benzoylRaloxifene
+RLX203,RaloxifeneEPImpurityC,195454-31-0,[6-Hydroxy-2-(4-hydroxyphenyl)-1-benzothien-3-yl][4-[2-(1-oxidopiperidin-1-yl)ethoxy]phenyl]methanone
+RLX204,RaloxifeneEPImpurityD,177744-96-6,(6-Hydroxy-2-(4-hydroxyphenyl)benzo[b]thiophen-3-yl)(4-hydroxyphenyl)methanone Ranolazine
+RNL100,Ranolazine,95635-55-5,"N-(2,6-Dimethylphenyl)-4-[2-hydroxy-3-(2-methoxyphenoxy)propyl]-1-piperazineacetamide"
+RNL301,RanolazineRelatedCompoundA,2210-74-4,2-[(2-Methoxyphenoxy)methyl]oxirane
+RNL302,RanolazineRelatedCompoundB,755711-09-2,"Ranolazine Desmethoxy Impurity ; N-(2,6-dimethylphenyl)-2-(4-(2-hydroxy-3-phenoxypropyl)piperazin-1- yl)acetamide"
+RNL303,RanolazineRelatedCompoundC,5294-61-1,"1-[(2,6-dimethylphenyl)aminocarbonylmethyl]piperazine"
+RNL304,RanolazineRelatedCompoundD,380204-72-8,"N,N’-bis(2,6-Dimethylphenyl)-1,4-piperazinediacetamide"
+RNL401,RanolazineRelatedCompound2,93-14-1,"Guaifenesin;3-(2-methoxyphenoxy)propane-1,2-diol"
+RNL402,RanolazineRelatedCompound4,2210-74-4,"1-(2-methoxyphenoxy)-2,3-epoxypropane"
+RNL403,RanolazineimpurityC,162712-35-8,1-(2-methoxyphenoxy)-3-(piperazin-1-yl)propan-2-ol
+RNL404,Ranolazineimpurity1,25772-81-0,1-chloro-3-(2-methoxyphenoxy)propan-2-ol
+RNL405,RanolazineDimerImpurity,333749-57-8,"α,α’-Bis[(2-Methoxyphenoxy)methyl]-1,4-piperazinediethanol RanolazineN-Oxide"
+RNL406,RanolazineN-Oxide;,NA,"1-(2-((2,6-dimethylphenyl)amino)-2-oxoethyl)-4-(2-hydroxy-3-(2- methoxyphenoxy)propyl)piperazine 1- oxide; Ranolazine Mono-N-oxide"
+RNL407,P-Ranolazine,1393717-45-7,"N-(2,6-Dimethylphenyl)-4-[2-hydroxy-3-(4-methoxyphenoxy)propyl]-1-piperazineacetamide"
+RNL408,Ranolazineimpurity2/Dianisylglycerol,16929-60-5,"1,3-Bis(2-methoxyphenoxy)-2- propanol,Guaifenesin EP Impurity D"
+RNL409,Ranolazineimpurity3,29183-14-0,"Acetamide,N-(2,6-dimethylphenyl)-2-hydroxy,N-(2,6-Dimethylphenyl)-2-hydroxyacetamide"
+RNL410,"1,3-bis(2-methoxyphenoxy)propan-2-ol",NA,"1,3-bis(2-methoxyphenoxy)propan-2-ol"
+RNL411,m-Ranolazine,1393717-46-8,"N-(2,6-Dimethylphenyl)-4-[2-hydroxy-3-(3-methoxyphenoxy)propyl]-1-piperazineacetamide Page64"
+RNL412,RanolazineBis(N-Oxide),1246816-00-1,"1-(2-((2,6-dimethylphenyl)amino)-2-oxoethyl)-4-(2-hydroxy-3-(2-methoxyphenoxy)propyl)piperazine 1,4- dioxide Rivaroxaban"
+RVX100,Rivaroxaban,366789-02-8,5-Chloro-N-[[(5S)-2-oxo-3-[4-(3-oxo-4-morpholinyl)phenyl]-5- oxazolidinyl]methyl]-2-thiophenecarboxamide
+RVX401,RivaroxabanR-Isomer/RivaroxabanEPImpurityA,865479-71-6,"ent-Rivaroxaban ; 5-chloro-N-[[(5R)-2-oxo-3-[4-(3-oxomorpholin-4-yl)phenyl]-1,3-oxazolidin-5- yl]methyl]thiophene-2-carboxamide"
+RVX308,RIVAROXABANRELATEDCOMPOUNDH,1770812-37-7,"((S)-4,5-Dichloro-N-({2-oxo-3-[4-(3-oxomorpholino)phenyl]oxazolidin-5-yl}methyl)thiophene-2-carboxamide)"
+RVX501,RivaroxabanImpurity1,446292-04-2,4-(4-Nitrophenyl)morpholin-3-one
+RVX502,RivaroxabanImpurity2,438056-69-0,4-(4-Aminophenyl)morpholin-3-one
+RVX503,Rivaroxabanimpurity24,161596-47-0,"(S)-2-(Oxiran-2-ylmethyl)isoindoline-1,3-dione"
+RVX504,RivaroxabanImpurity4,550-44-7,"2-Methylisoindoline-1,3-dione"
+RVX505,RivaroxabanImpurity5,181140-34-1,"(R)-2-(Oxiran-2-ylmethyl)isoindoline-1,3-dione"
+RVX506,RivaroxabanImpurity6,24065-33-6,
+RVX507,5-Chlorothiophene-2-carboxylicacid,96-43-5,2-Chlorothiophene
+RVX508,RivaroxabanImpurity8,106-89-8,Epichlorohydrin
+RVX509,RivaroxabanImpurity9,85-41-6,Phthalimide
+RVX510,RivaroxabanImpurity10,67843-74-7,(S)-Epichlorohydrin
+RVX511,RivaroxabanImpurity11,19532-98-0,"N1,N2-Dimethylphthalamide"
+RZT100,Rizatriptan,145202-66-0,RizatriptanBenzoate
+RZT501,RizatriptanEPImpurityA,887001-08-3,"/ 2-(5-((1H-1,2,4-triazol-1-yl)methyl)-2-((3-(2-(dimethylamino)ethyl)-1H-indol-5-yl)methyl)-1H-indol-3-yl)-N,N- dimethylethan-1-amine"
+RZT202,RizatriptanImpurity1,119192-10-8,"4-(1H-1,2,4-Triazol-1-ylmethyl)benzenamine"
+RSV100,RosuvastatinCalcium,147098-20-2,"(3R,5S,6E)-7-{4-(4-Fluorophenyl)-6-isopropyl-2-[methyl(methylsulfonyl)amino]pyrimidin-5-yl}-3,5- dihydroxyhept-6-enoic acid calcium salt"
+RSV204,RosuvastatinEPImpurityD,503610-43-3,"N-[4-(4-Fluorophenyl)-6-(1-methylethyl)-5-[(1E)-2-[(2S,4R)-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-"
+RSV211,yl]ethenyl]-2-pyrimidinyl]-N-methyl-methanesulfonamide,1422954-12-8,ROSUVASTATINIMPURITY-K
+REV213,Page65,847849-66-5,ROSUVASTATINIMPURITY-M
+RXT100,Roxithromycin,80214-83-1,Roxithromycin Rufinamide
+RFN100,Rufinamide,106308-44-5,"1-[(2,6-Difluorophenyl)methyl]-1H-1,2,3-triazole-4-carboxamide"
+RFN401,Rufinamideacidimpurity,166196-11-8,"1-(2,6-difluorobenzyl)-1H-1,2,3-triazole-4-carboxylicacid"
+RFN402,RufinamideEthylester,869501-51-9,"Ethyl1-(2,6-difluorobenzyl)-1H-1,2,3-triazole-4-carboxylate"
+RFN403,Rufinamide-5-Carboxamide,1622904-99-7,"3-(2,6-Difluorobenzyl)-3H-1,2,3-triazole-5-carboxamide Rufinamide3-chloroimpurity RFN404 1-(3-chloro-2,6-difluoro-benzyl)-1H-[1,2,3]triazole-4-carboxylicacidamide"
+RFN301,RufinamideRelatedCompoundA,106308-41-2,"6-DesfluoroRufinamide,1-[(2-Fluorophenyl)methyl]-1H-1,2,3-triazole-4-carboxamide"
+RFN302,RufinamideRelatedCompoundB,217448-86-7,"RufinamideMethyl EsterAnalog; 1-(2,6-Difluorobenzyl)-1H-1,2,3-triazole-4-carboxylicacidmethyl ester SalicylicAcid"
+SLC401,SLC100 SalicylicAcid,99-96-7,SalicylicacidimpurityA
+SLC402,SLC401 99-96-7 SalicylicacidimpurityA,636-46-4,SalicylicacidimpurityB
+SLC403,SLC402 636-46-4 SalicylicacidimpurityB,108-95-2,SalicylicacidimpurityC
+STG100,Sitagliptin,486459-71-6,Sitagliptin
+STG201,SitagliptinEPImpurityA,823817-55-6,"(S)-SitagliptinIsomer ; (S)-4-Oxo-4-[3-(trifluoromethyl)-5,6-dihydro[1,2,4]triazolo[4,3-a]pyrazin-7(8H)-yl]-1- (2,4,5-trifluorophenyl)butan-2-amine"
+STG204,SitagliptinEPImpurityD,1253056-18-6,"Sitagliptin Phenylcrotonyl Analog;(E)-1-(3-(Trifluoromethyl)-5,6-dihydro-[1,2,4]triazolo[4,3-a]pyrazin-7(8H)- yl)-4-(2,4,5-trifluorophenyl)but-2-en-1-one 936630-57-8/ SitagliptinFPImpurityE STG401 1204818-19-8(Hclsalt) (3R)-3-amino-4-(2,4,5-trifluorophenyl)butanoicacid"
+STG402,SitagliptinTriazoleHydrochloride,762240-92-6,"Sitagliptin Impurity 20 HCl; 3-(Trifluoromethyl)-5,6,7,8-tetrahydro-[1,2,4]triazolo[4,3- a]pyrazinehydrochloride"
+STG403,SitagliptinKetoamideImpurity,64667-65-4,"Sitagliptin dioxo impurity; (2Z)-4-Oxo-4-[3-(trifluoroMethyl)-5,6-dihydro-[1,2,4] triazolo[4,3-a]pyrazine-7(8H)- yl]-1-(2,4,5-trifluorophenyl)butan-2-one Page66 SitagliptinN-Acetyl Impurity"
+STG404,SitagliptinimpurityD;N-AcetylSitagliptin;,1379666-94-0,"7-[(3R)-3-[(N-Acetyl)amino]-1-oxo-4-(2,4,5-trifluorophenyl)butyl]-5,6,7,8-tetrahydro-3-(trifluoromethyl)-1,2,4- triazolo[4,3-a]pyrazine"
+STG405,(S)-SitagliptinN-Boc-Acid Impurity,922178-94-7,"(S)-3-((tert-butoxycarbonyl)amino)-4-(2,4,5-trifluorophenyl)butanoicacid"
+STG406,(R)-SitagliptinN-Boc-Methyl-EsterImpurity,881995-73-9,"methyl(R)-3-((tert-butoxycarbonyl)amino)-4-(2,4,5-trifluorophenyl)butanoate"
+STG407,(R)-SitagliptinMethyl-Ester,881995-69-3,"Impuritymethyl(R)-3-amino-4-(2,4,5-trifluorophenyl)butanoate"
+STG408,SitagliptinImpurity19,486460-00-8,"(R)-3-((tert-butoxycarbonyl)amino)-4-(2,4,5-trifluorophenyl)butanoicacid"
+STG409,SitagliptinImpurity18,486460-23-5,"tert-butyl(R)-(4-oxo-4-(3-(trifluoromethyl)-5,6-dihydro- [1,2,4]triazolo[4,3-a]pyrazin-7(8H)-yl)-1-(2,4,5-trifluorophenyl)butan-2- yl)carbamate"
+STG410,SitagliptinImpurity6,NA,"(R)-N-(4-oxo-4-(3-(trifluoromethyl)-5,6-dihydro-[1,2,4]triazolo [4,3-a]pyrazin-7(8H)-yl)-1-(2,4,5-trifluorophenyl)butan-2-yl)formamide"
+STG411,SitagliptinImpurity1,1481965-39-2,"7-Nitroso-3-(trifluoromethyl)-5,6,7,8-tetrahydro-[1,2,4]triazolo[4,3-a]pyrazine"
+STG501,4-MethylL-AspartateHydrochloride,16856-13-6,4-MethylL-AspartateHydrochloride
+STG502,D-AsparticAcid4-MethylEsterHydrochloride,22728-89-8,
+STG503,D-AsparticAcid4-MethylEsterHydrochloride,209995-38-0,"2,4,5-TrifluorophenylaceticAcid"
+STG504,MELDRUM'SACID,2033-24-1,"2,2-Dimethyl-1,3-dioxane-4,6-dione"
+SLF100,Sulfamethoxazole,723-46-6,"Sulfamethoxazole SulfamethoxazoleEPImpurityA SLF201 N-AcetylSulfamethoxazole,N-(4-(N-(5-Methylfuran-3-yl)sulfamoyl)phenyl)acetamide"
+SLF203,SulfamethoxazoleEPImpurityC,1072-67-9,"SulfamethoxazoleUSP RelatedCompoundC, 5-Methylisoxazol-3-amine"
+SLF206,SulfamethoxazoleEPImpurityF,17103-52-5,"Isosulfamethoxazole,4-Amino-N-(3-methylisoxazol-5-yl)benzenesulfonamide"
+SLP100,Sulfaquinoxaline,59-40-5,Sulfaquinoxaline Suvorexant
+SVR401,DiazepaneImpurity,1266975-27-2,"(BASE) (R)-5-chloro-2-(5-methyl-1,4-diazepan-1-yl)benzo[d]oxazole TFA salt, 5-chloro-2-[(5R)-5-methyl-1,4-diazepan- 1-yl]-1,3-benzoxazole Trifluoroacetic acid salt. Page67"
+SVR402,Des-Chloro impurity,NA,"(R)-(4-(benzo[d]oxazol-2yl)-7-methyl-1,4-diazepan-1-yl)(5-methyl-2-(2H-1,2,3-triazol-2- yl)phenyl)methanone."
+SVR403,Regio-isomerimpurity,NA,"(R)-(4-(5-chlorobenzo[d]oxazol-2-yl)-5-methyl-1,4-diazepan-1-yl)(5-methyl-2-(2H-1,2,3-trizol-2- yl)phenyl)methanone"
+SVR404,MTMImpurity,NA,"(R)-(7-methyl-1,4-diazepan-1-yl)(5-methyl-2-(2H-1,2,3-trizol-2-yl)phenyl)methanone"
+SVR405,DCOImpurity,3621-81-6,"2,5-Dichlorobenzooxazole"
+TDL100,Tadalafil,171596-29-5,"(6R,12aR)-6-(1,3-Benzodioxol-5-yl)-2,3,6,7,12,12a-hexahydro-2-methylpyrazino[1’,2’:1,6]pyrido[3,4-b]indole- 1,4-dione;Cialis; Tamsulosin Tamsulosin TMS100 2-(4-{[4-Methyl-6-(1-methyl-1H-1,3-benzodiazol-2-yl)-2-propyl-1H-1,3 -benzodiazol-1-yl] methyl}phenyl)benzoicacid Telmisartan Telmisartan 144701-48-4 TLM100 2-(4-{[4-Methyl-6-(1-methyl-1H-1,3-benzodiazol-2-yl)-2-propyl-1H-1,3 -benzodiazol-1-yl] "
+TLM201,TelmisartanEPImpurityA,152628-02-9,Telmisartan USPRelatedCompound A
+TLM202,TelmisartanEPImpurityB,1026353-20-7,Telmisartan USP RelatedCompoundB;TelmisartanIsomer
+TLM203,TelmisartanEPImpurityC,144702-26-1,Telmisartan t-ButylEster
+TLM205,TelmisartanEPImpurityE,884330-12-5,TelmisartanDiacid
+TLM206,TelmisartanEPImpurityF,915124-86-6,TelmisartanAmide
+TLM207,TelmisartanEPImpurityG,144702-27-2,TelmisartanCyanoAnalog;2-Descarboxy-2-CyanoTelmisartan
+TML208,TelmisartanEPImpurityH,114772-40-6,t-Butyl4'-bromomethylbiphenyl-2-carboxylate
+TLM401,TelmisartanMethylEster,528560-93-2,"2-(4-{[4-Methyl-6-(1-methyl-1H-1,3-benzodiazol-2-yl)-2-propyl-1H-1,3-benzodiazol-1- yl]methyl}phenyl)benzoic acid methyl ester"
+TLM402,TelmisartanEthylEster,528560-94-3,"2-(4-{[4-Methyl-6-(1-methyl-1H-1,3-benzodiazol-2-yl)-2-propyl -1H-1,3-benzodiazol-1-yl]methyl}phenyl)benzoicacidethyl ester"
+TLM403,TelmisartanBromoNitrileImpurity,114772-54-2,"4'-(Bromomethyl)-[1,1'-biphenyl]-2-carbonitrile;2-(4-Bromomethylphenyl)benzonitrile"
+TLM404,TelmisartanImpurity1,152628-03-0,TelmisartanBenzimidazoleAcid Page68 Temazepam
+TMZ201,TemazepamEPimpuirtyA;TMZBenzophenone,1022-13-5,5-chloro-2-(methylamino)phenyl]phenylmethanone
+TMZ203,TemazepamEPimpuirtyC;TMZAcetoxy,1824-74-4,"Oxazepam Related Compound B;(3RS)-7-chloro-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepin- 3-ylacetate"
+TMZ205,TemazepamImpurityE;TMZNOXIDE,2888-64-4,"7-chloro-1-methyl-5-phenyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one4-oxide"
+TMZ206,TemazepamEPImpurityF;TMZDion,3294-96-0,"(5RS)-7-chloro-1-methyl-5-phenyl-4,5-dihydro-1H-1,4-benzodiazepine-2,3-dione"
+TMZ207,TMZImpurityG,93329-92-1,"(5RS)-7-chloro-1,4-dimethyl-5-phenyl-4,5-dihydro-1H-1,4-benzodiazepine-2,3-dione."
+TMZ401,2-Chloroacetamido-5-chlorobenzophenone,6021-21-2,2-Chloroacetamido-5-chlorobenzophenone; 5-Chloro-2-(chloroacetamido)benzophenone; 5-Chloro-2- chloracetylaminobenzophenone;N-(2-Benzoyl-4-chlorophenyl)-2-chloroacetamide Teneligliptin
+TNL100,TeneligliptinHBr,906093-29-6,"[(2S,4S)-4-[4-(3-Methyl-1-phenyl-1H-pyrazol-5-yl)-1-piperazinyl]-2-pyrrolidinyl]-3- thiazolidinylmethanoneHBr"
+TNL401,TenegliptinimpurityA,401566-79-8,1-(3-methyl-1-phenyl-1H-pyrazol-5-yl)piperazine
+TNL402,TenteligliptinimpurityB,401566-80-1,"tert-butyl(2S,4S)-4-(4-(3-methyl-1-phenyl-1H-pyrazol-5-yl)piperazin-1-yl)-2-(thiazolidine-3- carbonyl)pyrrolidine-1-carboxylate"
+TNL403,TenteligliptinimpurityC,NA,(2S)-tert-butyl4-hydroxy-2-(thiazolidine-3-carbonyl)pyrrolidine-1-carboxylate
+TNL404,Tenteligliptinimpurity1,401564-36-1,"(2S)-4-Oxo-2-(3-thiazolidinylcarbonyl)-1-pyrrolidinecarboxylicAcid1,1-Dimethylethyl Ester"
+TNL405,"Teneligliptin(2R,4R)-Isomer",1404559-17-6,(FreeBase) {(2R4R)-4-[4-(3-methyl-1-phenyl-1H-pyrazol-5-yl)piperazine-l-yl]pyrrolidine-2-yl}(1.3-thiazolidine-3- yl)methanonehemipentahydrobromidehydrate
+TNL406,TeneligliptinBOCacid Impurity,1821705-03-6,"(2S,4S)-1-(tert-butoxycarbonyl)-4-(4-(3-methyl-1-phenyl-1H-pyrazol-5-yl)piperazin-1-yl)pyrrolidine-2- carboxylicacid"
+TNL407,"(2S,4R)-TeneligliptinHydrobromide",1404559-15-4,"(2S, 4R)-4-(4-(3-methyl-1-phenyl-1H-pyrazol-5-yl) piperazin-1-yl) pyrrolidin-2-yl) (thiazolidin-3-yl) methanoneHydrobromide."
+TNL408,"(2R,4S)-TeneligliptinHydrobromide",NA,"(2R, 4S)-4-(4-(3-methyl-1-phenyl-1H-pyrazol-5-yl) piperazin-1-yl) pyrrolidin-2-yl) (thiazolidin-3-yl) methanoneHydrobromide."
+TNL501,Tenteligliptinimpurity2,147266-92-0,"(2R,4S)-1-(tert-butoxycarbonyl)-4-hydroxypyrrolidine-2-carboxylicacid Page69"
+TNL502,Tenteligliptinimpurity3,NA,"3-[(2R,4S)-1-tert-Butoxycarbonyl-4-hydroxy-2-pyrrolidinylcarbonyl]-1,3-thiazolidine"
+TNL503,Tenteligliptinimpurity4,NA,"(2R)-4-Oxo-2-(3-thiazolidinylcarbonyl)-1-pyrrolidinecarboxylicAcid1,1-Dimethylethyl Ester Teriflunomide"
+TRF100,Teriflunomide,163451-81-8,(2Z)-2-Cyano-3-hydroxy-N-[4-(trifluoromethyl)phenyl]but-2-enamide
+TRF401/LFN205,TeriflunomideImpurity1,208401-20-1,
+TRF402,3-methyl-N-(4-(trifluoromethyl)phenyl)isoxazole-4-carboxamide,1011244-72-6,4-amino-N-(4-(trifluoromethyl)phenyl)benzamide
+TRF403,TeriflunomideImpurity4,2366-92-9,1-ethoxy-4-(trifluoromethyl)benzene
+TRF404,TeriflunomideImpurity5,349-97-3,N-(4-(trifluoromethyl)phenyl)acetamide
+TRF202,TeriflunomideEPImpurityB,24522-30-3,2-cyano-N-(4-(trifluoromethyl)phenyl)acetamide
+TRF405/LFN100,TeriflunomideImpurity6,75706-12-6,Leflunomide;5-Methyl-N-[4-(trifluoromethyl)phenyl]isoxazole-4-carboxamide
+TRF406,Teriflunomideortho isomer,220512-86-7,Teriflunomide ortho isomer
+TRF407,TeriflunomideMetaisomer,63927-52-6,Teriflunomide Metaisomer Tetracycline
+TRC100,Tetracycline,60-54-8,"(4S,6S,12aS)-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-"
+TRC101,"pentahydroxy-6-methyl-1,11-dioxonaphthacene-2-carboxamide",64-75-5,Tetracyclinehydrochloride
+TRC401,Anhydrotetracyclineimpurity,NA,"(4S,4aS,12aS)-4-(Dimethylamino)-1,4,4a,5,12,12a-Hexahydro- 3,10,11,12a-Tetrahydroxy-6-Methyl-1,12-Dioxotetracene-2-Carboxamide Thiamazole Thiamazole THM100 60-56-0 1-Methyl-3H-imidazole-2-thione"
+THM202,ThiamazoleEPImpurityB,616-47-7,1-Methyl-1H-imidazole; N-Methylimidazole
+THN100,Thiaminemonophosphatechloridedi hydrate,273724-21-3,"2-[3-[(4-Amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethyl dihydrogen PhosphateChlorideDihydrate Tinidazole"
+TND100,Tinidazole,19387-91-8,1-(2-(ethylsulfonyl)ethyl)-2-methyl-5-nitro-1H-imidazole
+TND201,TinidazoleEPImpurityA,696-23-1,TinidazoleUSP RelatedCompoundA;2-Methyl-5-nitroimidazole Page70
+TRB100,Tirofiban,144494-65-5,(S)-2-(butylsulfonamido)-3-(4-(4-(piperidin-4-yl)butoxy)phenyl)propanoicacid
+TRB401,TirofibanImpurityA,149490-60-8,"L-N-Butylsulfonyl-p-hydroxyphenylalanine, 149463-65-0 TIROFIBANIMPURITYB TRB402 4-(4-Chlorobutyl)pyridinehydrochloride Tolterodine TLR100 Tolterodine"
+TLR402,TolterodineLactoneImpurityRacemate,40546-94-9,"6-Methyl-4-phenyl-3,4-dihydro-1-benzopyran-2-one;6-methyl-4-phenylchroman-2-one"
+TLR201,TolterodineEPImpurityA,124937-73-1,3-(2-methoxy-5-methylphenyl)-3-phenylpropan-1-ol;TolterodineImpurity A TolterodineEPImpurityC TLR 203 124935-88-2 [3-(2-methoxy-5-methyl-phenyl)-3-phenyl-propyl]-diisopropylamine
+TLR204,TolterodineEPImpurityD,1391053-65-8,N-isopropyl-3-(2-methoxy-5-methylphenyl)-3-phenylpropan-1-amine hydrochloride; Tolterodine EP ImpurityD
+TLR205,TolterodineEPImpurityE/Tolterodinemonoisopropyl analog,480432-14-2,4-Methyl-2-[(1RS)-3-[(1-methylethyl)amino]-1-phenylpropyl]pheno
+TLR403,TolterodinePropanolImpurity,851789-43-0,4-Methyl-2-[(1RS)-3-[(1-methylethyl)amino]-1-phenylpropyl]pheno
+TLR404,TolterodineLactolImpurity,209747-04-6,
+TRM100,"3,4-Dihydro-6-methyl-4-phenyl-2H-1-benzopyran-2-ol;6-methyl-4-phenylchroman-2-ol",36282-47-0,Tramadol
+TRM201,TramadolEPImpurityA,152538-36-8,/36282-47-0 TramadolRelatedCompoundA
+TRM202,TramadolEPImpurityB,66170-32-9,"1-(3'-methoxy-3,4,5,6-tetrahydro-[1,1'-biphenyl]-2-yl)-N,N- dimethylmethanaminehydrochloride"
+TRM203,TramadolEPImpurityC,170-31-8,"/192384-41-1(freeba 1-(3'-methoxy-2,3,4,5-tetrahydro-[1,1'-biphenyl]-2-yl)-N,N- dimethylmethanaminehydrochloride 148218-19-3/80456-81-1/ TramadolEPImpurityD TRM204 73986-53-5 3-(2-((dimethylamino)methyl)-1-hydroxycyclohexyl)phenolhydrochloride"
+TRM205,TramadolEPImpurityE,42036-65-7,TramadolRelatedCompoundB;2-((dimethylamino)methyl)cyclohexan-1-onehydrochloride
+TRM401,TramadolN-Oxide,147441-56-3,"1-((1S,2S)-2-hydroxy-2-(3-methoxyphenyl)cyclohexyl)- N,N-dimethylmethanamineoxide"
+TRM402,TramadolEPImpurityA(FreeBase),NA,(±)-trans-2-[(Dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol
+TRG401,TrelagliptinImpurityI/TrelagliptinimpuirtyA/succinatesalt,1812193-01-3,"(R)-4-Fluoro-2-((3-methyl-2,4-dioxo-6-(piperidin-3-ylamino)-3,4-dihydropyrimidin-1(2H)- yl)methyl)benzonitrile Page71"
+TRG402,TrelagliptinImpurityII/TrelagliptinimpuirtyB,2087874-92-6,"(R)-4-((1-(3-(2-Cyano-5-fluorobenzyl)-1-methyl-2,6-dioxo-1,2,3,6-tetrahydropyrimidin-4-yl)piperidin-3- yl)amino)-4-oxobutanoicAcid"
+TRG403,TrelagliptinImpurityIII/TrelagliptinimpuirtyC,865759-24-6,"2-((6-Chloro-3-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)methyl)-4-fluorobenzonitrile"
+TRG404,TrelagliptinImpurityS-Isomer/TrelagliptinimpuirtyD,2206135-35-3,"(S)-2-((6-(3-Aminopiperidin-1-yl)-3-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)methyl)-4-"
+TRG405,fluorobenzonitrile,1938080-43-3,TrelagliptinimpuirtyE
+TRL100,TRG405 1938080-43-3 TrelagliptinimpuirtyE,68786-66-3,Triclabendazole
+TRP100,TRL100 68786-66-3 Triclabendazole,1508-75-4,Tropicamide
+TRP201,TropicamideEPImpurityA,33403-97-3,"TropicamiderelatedcompoundA, N-(pyridin-4-ylmethyl)ethanamine"
+TRP202,TropicamideEPImpurityB,57322-50-6,TropicamiderelatedcompoundB
+TRP203,TropicamideEPImpurityC,552-63-6,TropicamiderelatedcompoundC
+TRP204,TropicamideEPImpurityD,103-82-2,"TropicamiderelatedcompoundD,phenylaceticacid Ursodiol"
+URS401,URS100 Ursodiol,481-29-8,Epiandrosteron Valganciclovir
+VLG100,ValganciclovirHydrochloride,175865-59-5,"L-Valine2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy]-3-hydroxypropylesterhydrochloride"
+VLG201,ValaciclovirEPImpurityA,73-40-5,ValganciclovirrelatedcompoundB
+VLG401,"ValganciclovirrelatedcompoundB,AciclovirEPImpurityB;Guanine",3056-33-5,Diacetylguanine Valsartan
+VLS100,Valsartan,137862-53-4,(S)-N-[p-(o-1H-Tetrazol-5-ylphenyl)benzyl]-N-valeryl-L-valine
+VLS201,ValsartanEPImpurityA,137862-87-4,"ValsartanUSPRelatedCompoundA;ValsartanR-Isomer;(R)-Valsartan,(R- N-Valeryl-N-([2'-(1H-tetrazole-5-yl)biphen-4-yl]methyl)valine"
+VLS202,ValsartanEPImpurityB,137863-20-8,ValsartanUSPRelatedCompoundC;ValsartanBenzylEster Page72
+VLS203,ValsartanEPImpurityC,952652-79-8,ValsartanrelatedcompoundB;ValsartanN-ButyrylAnalog
+VLS401,N-Nitrosodimethylamine,62-75-9,N-Methyl-N-nitrosomethanamine;DMN;DMNA
+VLS402,N-nitrosodiethylamine(NDEA).,55-18-5,N-Ethyl-N-nitrosoethanamine;DEN;DENA; Diethylnitrosamide
+VLS403,Nitroso-N-methyl-4-aminobutyricacid(NMBA),61445-55-4,4-(Methylnitrosoamino)butanoicAcid;N-Methyl-N-(3-carboxypropyl)nitrosamine
+VLS404,ValsaratanAzidoNitrileImpurity,133690-91-2,"4'-(Azidomethyl)-[1,1'-biphenyl]-2-carbonitrile"
+VLS405,ValsaratanAzidoTetrazoleImpuity,152708-24-2,"5-[4'-(Azidomethyl)[1,1'-biphenyl]-2-yl]-2H-tetrazole Venlafaxine"
+VNL100,VenlafaxineHCl,99300-78-4,"1-[2-(Dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexanolhydrochloride VenlafaxineEPImpurityA VNL201 775-33-7 2-(4-Methoxyphenyl)-N,N-dimethylethanamine 323176-93-8/2174001-92-2 VenlafaxineEPImpurityB VNL202 Hcl VenlafaxineEster Impurity, Ethyl (2RS)-3-(dimethylamino)-2-(4-methoxyphenyl)propanoate"
+VNL203,VenlafaxineEPImpurityC,130198-05-9,"N,N-DidesmethylVenlafaxineHydrochloride"
+VNL204,VenlafaxineEPImpurityD,149289-30-5,VenlafaxineUSPRelatedCompoundA
+VNL205,VenlafaxineEPImpurityE,93413-70-8,/93413-56-0 (5RS)-5-(4-methoxyphenyl)-3-methyl-1-oxa-3-azaspiro[5.5]undecane
+VNL206,VenlafaxineEPImpurityF,93413-79-7,"(HCl)/93413-57-1 (2RS)-2-(Cyclohex-1-enyl)-2-(4-methoxyphenyl)-N,N-dimethylethanamine hydrochloride ; 2-Cyclohexenyl-2- (4-methoxyphenyl)-N,N -dimethylethanamine hydrochloride"
+VNL207,VenlafaxineEPImpurityG,1076199-92-2,"DeshydroxyVenlafaxine,1-[2-Dimethylamino-1-(4-methoxyphenyl) ethyl]cyclohexane"
+VNL208,VenlafaxineEPImpurityH,1329795-88-1,1-[(1RS)-1-(4-methoxyphenyl)-2-[[2-(4-methoxyphenyl)ethyl]amino]ethyl]cyclohexanol
+VNL401,VenlafaxineO-DesmethylImpurity,93413-62-8,
+VNL402,4-[2-(Dimethylamino)-1-(1-hydroxycyclohexyl)ethyl]phenol;Desvenlafaxine,1094598-37-4,VenlafaxineN-Oxide
+VGB302,VigabatrinRelatedCompoundB,1379403-11-8,(2E)-2-(2-Aminoethyl)but-2-enoicAcidHydrochloride Vildagliptin
+VLD100,Vildagliptin,274901-16-5,"(2S)-1-[2-[(3-Hydroxytricyclo[3.3.1.13,7]dec-1-yl)amino]acetyl]-2-pyrrolidinecarbonitrile"
+VLD401,VildagliptinImpuirtyA,1789703-37-2,"VildagliptinCyclicAmidine;2-(3-Hydroxyadamantan-1-yl)-1-iminohexahydropyrrolo[1,2-a]pyrazin-4(1H)-one Page73"
+VLD402,VildagliptinImpurityB,565453-39-6,Vildagliptinamideimpurity;1-[(3-Hydroxyadamant-1-ylamino)-acetyl]-(2S)-prolinamide
+VLD403,VildagliptinImpurityC,1789703-36-1,"VildagliptinDiketoImpurity;2-(3-Hydroxyadamantan-1-yl)hexahydropyrrolo[1,2-a]pyrazine-1,4-dione"
+VLD404,VildagliptinImpurityD,1036959-23-5,"(2S,2'S)-1,1'-(2,2'-(((1r,3R,5R,7S)-3-hydroxyadamantan-1- yl)azanediyl)bis(acetyl))bis(pyrrolidine-2- carbonitrile);VildagliptinDimerImpurity"
+VLD405,(R)-Vildagliptin,1036959-27-9,"(R)-1-(((1r,3S,5R,7S)-3-hydroxyadamantan-1-yl)glycyl)pyrrolidine-2-carbonitrile"
+VLD406,VildagliptinChloroacetylAmide(S)-Isomer,214398-99-9,(S)-1-(2-chloroacetyl)pyrrolidine-2-carboxamide
+VLD407,VildagliptinChloroacetylAmide(R)-Isomer,1211679-98-9,(R)-1-(2-Chloroacetyl)pyrrolidine-2-carboxamide
+VLD409,VildagliptinCarboxylicAcid Impurity,565453-40-9,"(2S)-1-[2-[(3-Hydroxytricyclo[3.3.1.13,7]dec-1-yl)amino]acetyl]-2- pyrrolidinecarboxylicacid"
+VLD410,Gly-Pro-CNTFASALT,NA,(2S)-1-(AMINOACETYL)PYRROLIDINE-2-CARBONITRILE
+VLD411,Cyclo(-Gly-Pro),3705-27-9,"(S)-Hexahydro-pyrrolo[1,2-a]pyrazine-1,4-dione"
+VLD412,VildagliptinChloroacetylNitrile(R)-Isomer,565452-98-4,VildagliptinChloroacetylNitrile(R)-Isomer
+VLD413,(S)-1-(2-Hydroxyacetyl)pyrrolidine-2-carboxamide,96166-39-1,(S)-1-(2-Hydroxyacetyl)pyrrolidine-2-carboxamide
+VLD414,NitrosoVildagliptin,NA,"N-(2-((S)-2-Cyanopyrrolidin-1-yl)-2-oxoethyl)-N-((1r,3R,5R,7S)-3-hydroxyadamantan-1-yl)nitrousamide"
+VLD501,VildagliptinChloroacetylNitrile(S)-Isomer,207557-35-5,(2S)-1-(Chloroacetyl)-2-Pyrrolidinecarbonitrile;VildagliptinImpurity14
+VLD502,"Diazabicycloundeceneimpurity,",6674-22-2,"3,4,6,7,8,9,10-Octahydropyrimido[1,2-a]azepine"
+VLD503,1-Adamantanol,768-95-6,"2,3,4,6,7,8,9,10-Octahydropyrimido[1,2-a]azepine"
+VLD504,VildagliptinAminoAlcoholImpurity,702-82-9,1-Amino-3-adamantanol;VildagliptinImpurity15 Vortioxetine
+VRT100,Vortioxetine,508233-74-7,"1-[2-[(2,4-Dimethylphenyl)thio]phenyl]piperazine"
+VRT401,VortioxetineSulfoxide,1429908-35-9,VortioxetineSulfoxide
+VRT402,VORTIOXETINESULFOXIDEHBr,NA,VORTIOXETINESULFOXIDEHydrobromide
+VRT403,VortioxetineImpurity31,13616-82-5,"2,4-Xylenethiol;2,4-Dimethylbenzenethiol; 2,4-Dimethylthiopheno Warfarin"
+WRF100,Warfarin,81-81-2,2-Oxo-3-[(1RS)-3-oxo-1-phenylbutyl]-2H-1-benzopyran-4-ol Page74 Zolpidem
+ZLP100,ZolpidemTartrate,82626-48-0,"N,N,6-Trimethyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-acetamide"
+ZLP201,ZolpidemTartrateEPImpurityA,1346600-85-8,ZolpidemUSP RelatedCompoundA
+ZLP202,ZolpidemTartrateEPImpurityB,NA,"2-[2-(3-bromo-4-methylphenyl)-6-methylimidazo[1,2-a]pyridin-3-yl] -N,N-dimethylacetamide"
+ZLP401,"N,N-Dimethylprop-2-ynamide",2682-34-0,"N,N-Dimethylprop-2-ynamide Zonisamide"
+ZNS100,Zonisamide,68291-97-4,"1,2-Benzisoxazole-3-methanesulfonamide"
+ZNS301,ZonisamideRelatedCompoundA,73101-64-1,"(1,2-benzisoxazole-3-methanesulfonic acidsodiumsalt"
+ZNS303,ZonisamideRelatedCompoundC,1217201-89-2,"N,N-DimethylFormimidamide;(E)-N'-((benzo[d]isoxazol-3-ylmethyl)sulfonyl)-N,N-dimethylformimidamide"
+ZNS401,N-MethylZonisamide,68292-02-4,"N-Methyl-1,2-benzisoxazole-3-methanesulfonamide"
+ZNS402,"1,2-Benzisoxazol-3-ylaceticAcid",4865-84-3,"1,2-Benzisoxazol-3-ylaceticAcid Page75"

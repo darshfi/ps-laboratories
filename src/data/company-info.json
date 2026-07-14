@@ -1,0 +1,66 @@
+{
+  "legalName": "Saunak Ashokbhai Bhagat (Proprietorship)",
+  "tradeName": "PS Laboratories",
+  "tagline": "Science with Service",
+  "founded": "2022 (GST/Udyam registration date: 07/05/2022)",
+  "address": {
+    "line1": "Over Head Tank, S-3B, Bhargav Corner, Coastal Highway",
+    "line2": "Lilapor Char Rasta, Chikhla, Valsad, Gujarat, 396030",
+    "country": "India"
+  },
+  "contact": {
+    "phones": ["+91 8160035918", "+91 9426741412", "+91 7434038965"],
+    "email": "info.pslaboratories@gmail.com"
+  },
+  "registrations": {
+    "gstin": "24AJKPB3065H1ZI",
+    "udyamNumber": "UDYAM-GJ-25-0022100",
+    "udyamCategory": "Micro Enterprise, Manufacturing",
+    "isoCertificate": {
+      "standard": "ISO 9001:2015",
+      "certNo": "IN/25864827/9860",
+      "issueDate": "21/05/2022",
+      "expiryDate": "20/05/2025",
+      "note": "EXPIRED as of site build date (July 2026) — do not display as current without a renewed certificate. Confirm renewal status with the owner before publishing this badge."
+    }
+  },
+  "about": "PS Laboratories is an independent research-driven company specialized in the custom synthesis of pharmacopeia and non-pharmacopeia reference standards, impurities, and APIs. It provides well-characterized reference standards essential to ensure accuracy and validity of analytical methods used within the pharmaceutical industry.",
+  "mission": "To become a reliable partner by offering high-quality reference standards, impurities, research chemicals and custom synthesis services in a time-bound manner and at a reasonable cost.",
+  "vision": "To fortify businesses with holistic solutions, implementing the best service standards.",
+  "expertiseAreas": [
+    {
+      "title": "Custom Synthesis / Bulk Chemicals",
+      "description": "If you can draw a chemical structure, PS Laboratories will make it in the flask — custom synthesis from milligrams to a few kilograms, including retrosynthesis of the target structure and route/chemistry definition where no literature process exists."
+    },
+    {
+      "title": "Custom Research",
+      "description": "Cost-effective, accurate custom research services covering chemical research and organic synthesis, including multistep synthesis, process scouting, process optimization, and product development."
+    },
+    {
+      "title": "Impurities",
+      "description": "Impurity synthesis and identification is a core activity, including custom synthesis orders for impurities at gram levels, backed by deep understanding of reaction mechanisms responsible for specific impurity generation."
+    },
+    {
+      "title": "In-house R&D product range",
+      "description": "Process Impurities, Degradation Impurities, Potential Impurities, Genotoxic Impurities, Metabolites, MedChem Compounds."
+    },
+    {
+      "title": "Services",
+      "description": "HPLC purification, degradation & isolation of impurities, structure elucidation/identification, custom synthesis (mg to gram scale)."
+    }
+  ],
+  "whyChooseUs": [
+    "Assured Quality Products",
+    "In-House R&D",
+    "Custom Pack Sizes as per requirement",
+    "Best-in-class scientific support",
+    "10+ Years of Experience",
+    "ISO 9001:2015 certified quality management system (pending renewal — see note above)"
+  ],
+  "enquiryChecklist": [
+    "Chemical or IUPAC Name — helps identify the exact standard required (often available from the respective pharmacopeia)",
+    "CAS number — a unique identifier, if available",
+    "Chemical structure — if available, helps identify the exact impurity standard",
+    "Quantity required — helps determine availability and provide an accurate quotation"
+  ]
+}
