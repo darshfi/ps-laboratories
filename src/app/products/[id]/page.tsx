@@ -1,6 +1,9 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
+import fs from 'fs';
+import path from 'path';
 import type { CatalogProduct } from '@/types';
 import AddToEnquiryButton from '@/components/AddToEnquiryButton';
 import JsonLd from '@/components/JsonLd';
@@ -63,6 +66,11 @@ export default async function ProductPage({ params }: Props) {
   if (!product) notFound();
 
   const related = getRelatedProducts(product);
+
+  // Check if a structure image exists for this product
+  const safeId = product.id.replace(/[/\\]/g, '_');
+  const structurePath = path.join(process.cwd(), 'public', 'structures', `${safeId}.png`);
+  const hasStructure = fs.existsSync(structurePath);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -130,18 +138,19 @@ export default async function ProductPage({ params }: Props) {
                 />
               )}
 
-              {/* Molecular Formula — TBD */}
+              {/* Molecular Formula */}
               <DetailRow
                 label="Molecular Formula"
-                value="—"
-                note="Data not yet available"
+                value={product.molecular_formula || '—'}
+                note={product.molecular_formula ? undefined : 'Data not yet available'}
+                mono
               />
 
-              {/* Molecular Weight — TBD */}
+              {/* Molecular Weight */}
               <DetailRow
                 label="Molecular Weight (g/mol)"
-                value="—"
-                note="Data not yet available"
+                value={product.molecular_weight ? String(product.molecular_weight) : '—'}
+                note={product.molecular_weight ? undefined : 'Data not yet available'}
               />
             </div>
 
@@ -161,7 +170,26 @@ export default async function ProductPage({ params }: Props) {
           </div>
 
           {/* Sidebar */}
-          <aside className="lg:col-span-1">
+          <aside className="lg:col-span-1 space-y-6">
+            {/* Structure image */}
+            {hasStructure && (
+              <div className="bg-white border border-gray-200 rounded-xl p-4">
+                <h3 className="text-xs font-medium text-gray-500 uppercase tracking-wider mb-3 text-center">
+                  2D Structure
+                </h3>
+                <div className="relative w-full aspect-square max-w-[220px] mx-auto">
+                  <Image
+                    src={`/structures/${safeId}.png`}
+                    alt={`2D structure of ${product.name}`}
+                    fill
+                    className="object-contain"
+                    sizes="220px"
+                    priority
+                  />
+                </div>
+              </div>
+            )}
+
             <div className="bg-gray-50 border border-gray-200 rounded-xl p-5 space-y-4">
               <h3 className="font-semibold text-gray-900 text-sm uppercase tracking-wider">
                 Need Help?

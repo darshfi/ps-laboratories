@@ -3,6 +3,10 @@ export interface CatalogProduct {
   name: string;
   cas_no: string;
   synonyms_iupac: string;
+  /** Molecular formula from PubChem, e.g. "C19H18FN3O4" */
+  molecular_formula?: string;
+  /** Molecular weight in g/mol from PubChem */
+  molecular_weight?: number;
 }
 
 export interface EnquiryItem {

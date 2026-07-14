@@ -1,0 +1,33 @@
+PS Laboratories PubChem Lookup — Missed CAS Numbers
+Generated: 2026-07-14T10:04:35.614Z
+Total products in catalog: 1140
+Products with valid CAS: 1092
+Found in PubChem: 1069
+Not found: 23
+Skipped (no/NA CAS): 48
+
+=== MISSED CAS NUMBERS (not found in PubChem) ===
+
+[MISS] ALF204 | 81403-69-2 | Alfuzosin EP Impurity D
+[MISS] AZL403 | 397836-49-5 | Azilsartan Impurity C/Azilsartan Impurity 3
+[MISS] CTR402 | 19178-83-7 | Cetirizine EP Impurity Ethyl Ester
+[MISS] CHL401 | 6512-76-4 | Chlortalidone Methyl Ether
+[MISS] DBG413 | 2101852-25-7 | Dabigatran Etexilate Dimer
+[MISS] DLT206 | 99-40-6 | Diltiazem EP Impurity F
+[MISS] ETH401 | 55507-91-0 | Ethacrynic Acid Impurity 4,Ethacrynic Acid Impurity E
+[MISS] GLP100 | 9094-61-9 | Glipizide
+[MISS] IVB407 | 1796933-38-4 | rac-Ivabradine
+[MISS] LCD100 | 3890-78-4 | Lacidipine
+[MISS] LBG401 | 607723-69-3 | lobeglitazone Impuirty 1
+[MISS] LRS406 | 2518442-98-1 | Lurasidonedimer impurity
+[MISS] MTF203 | 2959-04-0 | Metformin EP Impurity B
+[MISS] MNK401 | 959235-68-8 | Montelukast USP Related Compound A;Montelukast Sulfoxide
+[MISS] MNK402 | 2125943-58-8 | MNK 401 959235-68-8 Montelukast(3RS)-Hydroxy Propanol
+[MISS] OLM405 | 896419-17-3 | Olmesartan Medoxomil Methyl Ether
+[MISS] OLM409 | 172875-87-5 | Olmesartan Anhydro Acid Ethyl Ester
+[MISS] OMP100 | 510-70-6 | Omeprazole
+[MISS] PRS402 | 1373350-59-4 | Prasugrel Bromobutyryl Impurity
+[MISS] STG403 | 64667-65-4 | Sitagliptin Ketoamide Impurity
+[MISS] TRF406 | 220512-86-7 | Teriflunomideortho isomer
+[MISS] TRF407 | 63927-52-6 | Teriflunomide Metaisomer
+[MISS] TRM203 | 170-31-8 | Tramadol EP Impurity C
